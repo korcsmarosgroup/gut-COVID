@@ -1,0 +1,679 @@
+p_val	avg_logFC	pct.1	pct.2	p_val_adj	gene	comparison
+1.73564464661531e-78	1.78710980582131	0.98	0.902	3.67713674831919e-74	IRF1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+9.0270522958639e-72	4.20260221367513	1	0	1.91247129940173e-67	COVID19	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+7.25508860051457e-67	1.4615274510912	0.88	0.706	1.53706307090502e-62	DDX60L	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.93720522723287e-65	2.05560047556059	1	0.937	6.22276299441556e-61	JUN	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+6.17064742267298e-64	1.46505093894938	0.88	0.523	1.3073133629675e-59	XAF1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+8.04758987287004e-64	-1.31071801415466	0.8	0.996	1.70496239046625e-59	CD63	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.54349341198129e-63	1.98401847373528	0.94	0.551	3.27004514262355e-59	IFIT3	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+6.55745883636442e-59	1.31579255542036	0.92	0.758	1.38926322907217e-54	IFIH1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+9.92275680936201e-58	-1.41554459857128	0.84	0.993	2.10223525763144e-53	TSPAN1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.30764814155297e-57	1.18005916755619	0.92	0.73	4.88898335269412e-53	REL	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.11571590797069e-56	1.3990922443839	0.94	0.534	2.3637557226267e-52	DDX58	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.14773864603953e-56	1.81545615977294	0.82	0.586	2.43159909549934e-52	CXCL11	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.17831654681727e-55	2.68807098305597	0.9	0.346	2.49638143608706e-51	IFIT2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.20956964072228e-55	1.51739949747568	0.94	0.671	6.79979424083422e-51	TNFAIP3	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.83813977227143e-54	-1.41270489876132	0.96	1	6.01288292153424e-50	EPCAM	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.77536735692531e-54	-1.06973088452982	0.82	0.998	7.99849328238196e-50	CYBA	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.21399715260892e-54	0.951164695397974	0.88	0.802	1.10463743675173e-49	ZNFX1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+4.02751622952848e-53	-1.38668403132026	0.96	0.998	8.53269588387904e-49	KRT20	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+7.63184464180441e-53	2.13530106976876	1	0.891	1.61688260581268e-48	NFKBIA	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+4.63544899520729e-52	1.27106270507907	0.88	0.636	9.82066224124617e-48	SAMD9	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+4.54553920535109e-51	-1.05329827229706	1	1	9.63017936045681e-47	KRT19	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+6.86425323446834e-51	1.34876539432003	1	0.948	1.45426069025446e-46	IER2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+8.34219918621527e-50	-1.0898255173374	1	1	1.76737831959157e-45	TSPAN8	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.97179610026683e-49	-1.04844407197461	0.72	0.996	4.17744721802531e-45	TMBIM6	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.653593505675e-49	1.01795560266743	0.94	0.834	1.19777032011231e-44	RBBP6	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.11828680570193e-48	-1.0981478827832	0.98	1	2.36920242656011e-44	ACTB	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.16191237032215e-48	1.75737188219039	0.98	0.924	2.46162754776451e-44	ISG15	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+7.76848989490947e-48	1.27245600424957	0.82	0.307	1.64583226913552e-43	MX2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.54028437152882e-47	1.07622595084988	0.88	0.614	1.1737646469521e-42	EPSTI1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+7.32806865926458e-47	0.792576974898737	0.92	0.697	1.55252462615179e-42	PARP9	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+8.0989385207824e-47	1.05184790180537	0.84	0.569	1.71584111501296e-42	OAS3	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+8.99864005751206e-47	1.72515874437228	0.92	0.667	1.9064518825845e-42	ZC3HAV1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.32482727841249e-46	0.849896286753109	0.78	0.501	2.8067790720447e-42	HELZ2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+4.68061685718161e-45	1.00791318290173	0.92	0.885	9.91635487362496e-41	SPEN	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.33696127373929e-44	0.714680859344137	0.82	0.551	7.06968615454405e-40	C19orf66	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.092099752492e-44	0.956231750235414	0.88	0.593	1.07881225356295e-39	ZFP36	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.19572550176349e-43	1.57365480622974	1	0.869	2.53326404803612e-39	PPP1R15A	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.9856396570636e-42	1.7335331787253	0.88	0.237	4.20677617745494e-38	IFIT1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.44007559631219e-42	1.95666630532241	0.84	0.037	5.16954415834701e-38	CXCL10	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.60151282764056e-41	-0.757099381940114	0.98	1	7.63016507663928e-37	CALM1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+7.00499122097005e-41	-0.971138192297011	1	1	1.48407744007472e-36	B2M	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.1159880648949e-40	0.95148555739044	0.96	0.797	4.48293231428634e-36	NFAT5	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.10295404658368e-40	0.861210198156306	0.96	0.919	1.08111184430922e-35	SP100	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.82872798789699e-40	-1.02370102923461	0.82	0.998	1.23487431151586e-35	DSG2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+6.28681498679559e-40	0.870956107635377	0.8	0.638	1.33192462310251e-35	DDX60	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.84378739561194e-39	0.665834016698956	0.82	0.723	8.14344797634345e-35	PNPT1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.20805381158187e-39	-0.7302700068125	0.98	0.993	1.10337828052173e-34	CALM2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.53656848656973e-38	0.940717937125911	0.92	0.906	3.25537399564663e-34	STAT1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.70934253168064e-38	0.968504620581452	0.94	0.51	3.6214130876186e-34	ZC3H12A	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.01013254312863e-38	-0.915572649301535	0.8	1	6.37726680587232e-34	CLDN7	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+4.63846446799525e-38	-0.966736411586106	1	1	9.82705082189473e-34	FTH1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.39008672448421e-38	-1.06907288102811	0.94	0.996	1.14194377344922e-33	ANXA2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.91929246740031e-37	-0.82494163226161	0.8	0.993	8.3034130214343e-33	COX6A1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+4.26908443008233e-37	-0.660746404080757	0.94	0.996	9.04448227357242e-33	SPINT2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.33020168276333e-37	1.30069869489073	0.94	0.708	1.12925652851024e-32	MX1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.20665574919345e-36	0.914758914413695	0.78	0.2	2.55642087024124e-32	OAS2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.37874916764309e-36	0.811028972861666	0.86	0.887	2.92101798656865e-32	EIF2AK2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.61774199167659e-36	0.596062614580782	0.8	0.338	3.42734818356603e-32	HSH2D	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.10077039665779e-36	0.908767479674886	0.98	0.922	4.4506921623592e-32	GPBP1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.21610388991238e-36	-0.795493402908279	0.94	0.998	6.81363770116837e-32	MGST3	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+6.00894359166278e-36	0.846391983271644	0.74	0.266	1.27305478932968e-31	CSRNP1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+6.73631953543734e-36	0.854048635968158	0.98	0.878	1.42715665677776e-31	ARID4B	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+7.61353049145706e-36	-1.09489335373096	1	1	1.61300256992009e-31	PIGR	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.11898827498917e-35	0.901532433881867	0.96	0.924	2.37068855939205e-31	RSRC2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.16660498474889e-35	-0.836679831778036	0.8	0.993	2.47156932068899e-31	TM9SF3	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.76104385753359e-35	-1.14431125553212	0.82	0.991	3.73094751657067e-31	PLS1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.2389906865723e-35	0.57251401743313	0.82	0.575	6.86212566857208e-31	OGFR	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+4.20739405264787e-35	-0.994969319738472	0.9	0.998	8.91378503993979e-31	CYSTM1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.96165548201684e-34	0.656022832157715	0.68	0.625	4.15596330420088e-30	OAS1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.36807999208639e-34	0.939316843723678	0.96	0.819	7.13561427123422e-30	PIM3	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.65688570303254e-34	-1.02126329077088	1	1	7.74747805044473e-30	TMSB4X	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.64131066071685e-33	0.856714023004222	0.86	0.599	5.59588076579472e-29	CYLD	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+4.6775835923622e-33	0.617331453125165	0.8	0.719	9.90992859877856e-29	PML	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+4.99567362845129e-33	-0.942580067457741	0.78	0.991	1.05838341492369e-28	APLP2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.16250017224288e-33	0.681232017324948	0.78	0.723	1.09372728649138e-28	TRIM38	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+6.75297761067447e-33	-0.816858914589681	0.9	0.993	1.43068583659749e-28	ANXA4	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+8.4441511484313e-33	1.28304976330744	0.96	0.728	1.78897786230665e-28	CXCL2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.8582947014805e-32	1.0543484364453	0.96	0.843	3.93698315455658e-28	NFKBIZ	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.22282659239329e-32	0.880539768723607	0.94	0.952	4.70928041864443e-28	PARP14	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.00712321218865e-32	0.585483855293169	0.78	0.889	6.37089123734288e-28	TRIM25	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.14971207168018e-32	-0.826864148423229	0.9	0.991	6.67297999506163e-28	ITGB1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+6.36369451129903e-32	1.09481856301193	1	0.985	1.34821231916381e-27	RNF213	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+6.7950794915957e-32	-0.812269180988531	0.6	0.989	1.43960554108947e-27	PSAP	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+7.97264369767815e-32	0.644746602112998	0.9	0.758	1.68908429379009e-27	GATA6	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.30720259497456e-31	1.24988267190207	0.94	0.593	2.76943941771311e-27	ICAM1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.94756130086549e-31	-0.812997607681097	1	1	4.12610337201362e-27	HLA-A	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.05304224361144e-31	0.788917532834239	0.84	0.566	4.3495752973152e-27	BCL3	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.51654496840808e-31	0.631391498833674	0.92	0.826	5.33155217006935e-27	SETD5	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.68359972206161e-31	0.656782871766797	0.94	0.839	5.68547437115974e-27	PHACTR4	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.89769447036193e-31	0.735819107287046	0.96	0.845	8.25765550490878e-27	BAZ1A	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+4.43664060450681e-31	0.86361909887299	0.82	0.688	9.39946678470813e-27	JUNB	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.11703359185026e-31	1.16311401435005	0.72	0.126	1.0840947367694e-26	HERC5	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.50263781560669e-31	-0.916260971595217	0.74	0.983	1.16578884761443e-26	CD9	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+7.01321686019969e-31	1.36450883419749	0.7	0.068	1.48582012400191e-26	OASL	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+7.45909693262917e-31	0.892324004974235	0.92	0.41	1.58028427614682e-26	TNF	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.46040433321549e-30	0.713929137317527	0.84	0.634	3.09401262035034e-26	TRIM22	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.87756905186721e-30	1.21804483034007	0.74	0.242	3.97781779328587e-26	RSAD2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.9146613344045e-30	0.656672419049207	0.78	0.349	4.05640150306937e-26	USP18	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.91933912400008e-30	-0.757009874344794	0.7	0.985	6.18491186810658e-26	SKP1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.96618283472695e-30	0.817711045251897	0.9	0.697	6.28415495365251e-26	CHD2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.97002447776668e-30	0.875600115356156	0.74	0.373	6.29229385859649e-26	CX3CL1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.04252132828254e-30	-0.890450865434895	0.78	0.996	6.44588568609939e-26	CALR	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.48176412439646e-30	0.590549848326222	0.58	0.285	7.37646547394633e-26	SAMHD1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.82967097072476e-30	0.565559661275294	0.88	0.54	8.11354091857747e-26	SRFBP1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.01795901514263e-30	0.729469665310688	0.94	0.893	1.06310479694812e-25	SMG1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+8.27075453925551e-30	-0.87577073589041	1	1	1.75224205668667e-25	HLA-C	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.06328459892465e-29	0.919694850231536	0.86	0.789	2.25267475128177e-25	CEBPD	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.08044312965471e-29	0.737494400182751	0.76	0.253	2.28902681448646e-25	RP11-37B2.1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.08853054417326e-29	0.737561596715435	0.7	0.397	2.30616081088548e-25	BATF2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.26196088618824e-29	0.7554807926186	0.98	0.889	2.67359033347841e-25	KMT2A	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.27181306994317e-29	1.07455235263706	0.7	0.078	2.6944631699816e-25	IFI44L	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.28734933820293e-29	-0.645528143104795	0.92	0.996	2.72737830791673e-25	ARPC2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.37657563552666e-29	0.641685854205689	0.88	0.8	2.91641314142679e-25	RBM33	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.48188876656303e-29	0.651417208446993	0.74	0.346	3.13952954084044e-25	PPM1K	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.04806806919462e-29	-0.800573108812847	0.58	0.989	4.33903701139572e-25	SLC44A4	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.14830264566028e-29	1.33015914340436	1	0.961	4.55139398509586e-25	TXNIP	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.70477297643139e-29	-0.768591256902225	0.94	0.998	5.73033202786754e-25	LIMA1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.86068811289644e-29	0.7048672576561	0.9	0.776	6.06065383598239e-25	TAF1D	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+4.59398989126812e-29	0.685544084638071	0.74	0.468	9.73282698364065e-25	ZNF267	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+4.70810643575066e-29	0.762288823270684	0.92	0.699	9.97459429478134e-25	DUSP8	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.0162417208191e-28	0.817346063811156	0.74	0.251	2.15300970972734e-24	NUAK2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.035821452899e-28	0.712746144774373	0.88	0.66	2.19449133011182e-24	SERTAD2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.84003937692826e-28	0.619080675847552	0.72	0.248	3.89830742396021e-24	CMPK2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.62233055778278e-28	-0.793011754868627	0.7	0.991	5.55566951971861e-24	PRDX1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.52506984618667e-28	0.577144568833104	0.84	0.76	7.46821297613108e-24	MYCBP2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.6480864497502e-28	-0.738326367548287	0.92	0.993	1.19660359524408e-23	PRELID1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.66997062569186e-28	0.710941725736011	0.94	0.917	1.20123997675908e-23	ASH1L	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+6.25005125419783e-28	-0.846150107483014	0.86	0.987	1.32413585871435e-23	OAZ1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+6.27005718133449e-28	0.941237399957592	0.82	0.462	1.32837431443752e-23	ZC3H12C	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+9.32690122223005e-28	-0.683466655680065	1	1	1.97599729294166e-23	KRT8	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.155580200715e-27	-0.82534933038438	0.56	0.985	2.4482122132348e-23	TMEM59	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.26370340585459e-27	1.24039188562372	0.72	0.338	2.67728203564354e-23	NEURL3	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.70129055482299e-27	-0.816707443533518	0.94	0.998	3.604354169448e-23	MYL6	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.97878571565957e-27	-0.687156771924044	0.84	0.998	4.19225541719637e-23	CST3	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.02248245632882e-27	-0.735413403176941	0.64	0.989	4.28483133197823e-23	TSPAN3	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.12478056344174e-27	1.08631132521237	0.94	0.73	4.50156010170767e-23	IER3	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.23950481890216e-27	-0.710842496014572	0.94	0.991	4.74461490932611e-23	H3F3A	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.89428027958015e-27	0.5776380908784	0.94	0.882	6.1318222003185e-23	BRD2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.89978555701348e-27	-0.713140407459944	0.68	0.978	6.14348568108876e-23	NDUFC2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.50079651929454e-27	-0.638215706775438	0.88	0.993	7.41678750577741e-23	TPM3	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.8143246680513e-27	0.846635795504307	0.82	0.608	8.08102824173348e-23	RIPK2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+4.49529603124824e-27	-0.801462298405724	1	0.998	9.52373417180252e-23	MYL12B	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+4.5743863952328e-27	0.785526246648052	0.74	0.627	9.6912950169402e-23	GBP1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+6.67870743833913e-27	0.603585704261074	0.84	0.869	1.41495095788653e-22	TRIM56	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+8.00425289040942e-27	0.814852159492749	0.8	0.275	1.69578101736214e-22	CSF1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+8.10777259254994e-27	-0.717887744247186	0.94	0.996	1.71771270145763e-22	CFL1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+8.31137322842374e-27	0.747328866895587	0.8	0.728	1.76084753217385e-22	SAMD9L	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.06499027565454e-26	0.616791445262092	0.74	0.346	2.25628839800172e-22	IRF7	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.94340676453513e-26	0.727840455753556	0.62	0.15	4.11730157134413e-22	IFI44	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.37224223583306e-26	-0.637018424792446	0.74	0.998	5.02583240083591e-22	RTN4	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+4.27783498956336e-26	-0.753015244402516	0.62	0.972	9.06302120888893e-22	CAP1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+4.39884661542057e-26	-1.12554152455826	0.82	0.987	9.31939643943003e-22	ABCB1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+6.90416487656293e-26	1.05583972758692	0.86	0.754	1.46271637074862e-21	BHLHE41	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+7.05170379208268e-26	-0.650265639619277	0.8	0.991	1.49397396539064e-21	ARPC1B	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+9.42911874674796e-26	0.785432302117674	0.96	0.941	1.99765309768602e-21	CCNL1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.11946277595759e-25	-0.602858872871456	0.84	0.978	2.37169383714376e-21	BZW1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.37355280437824e-25	-0.701199380770356	0.8	0.985	2.91000897135574e-21	PRR13	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.51981554174668e-25	-0.619451312948849	0.8	0.998	3.21988120674451e-21	TAX1BP1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.95668393853307e-25	-0.853419620755808	1	1	4.14543059217617e-21	S100A10	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.21161893729586e-25	0.596760271044455	0.6	0.196	4.68553588055501e-21	ZBP1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.40277699206915e-25	0.705900530770231	0.8	0.678	5.09052333539771e-21	ZBTB20	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+4.00950623613413e-25	-0.700011946436802	0.76	0.983	8.49453991187376e-21	ARPC5	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.7084712429369e-25	-1.12779126441236	0.76	0.996	1.20939671752861e-20	ATP1A1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+6.12800236161827e-25	-0.642403790092332	1	1	1.29827858033245e-20	EIF1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+6.31160564359861e-25	-0.743405090857782	0.64	0.965	1.3371767716528e-20	CMAS	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+6.81659148673825e-25	0.756573703392695	0.86	0.712	1.44416307238037e-20	TIPARP	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.56522534935886e-24	-0.735628389927225	0.82	0.987	3.31608642515168e-20	SRP14	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.09343656517205e-24	0.539293338710705	0.9	0.865	4.43515470697351e-20	MED13	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.41903367291475e-24	-0.671022998822365	0.86	0.993	5.12496473943719e-20	ATP5J	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.08447597338335e-24	1.47786692981138	0.66	0.285	6.53477079720997e-20	EGR1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.09704144589882e-24	-1.07359071315633	0.74	0.991	6.56139200728124e-20	PRAP1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+6.53084732816082e-24	-0.833701405983398	0.88	0.993	1.38362531494415e-19	CLIC1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+6.82641722335298e-24	-0.659346374032839	0.54	0.985	1.44624475293956e-19	FCGRT	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+7.78313422529364e-24	0.882416514859358	0.96	0.869	1.64893481697071e-19	RAB3IP	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+7.95910736172662e-24	0.667698277067759	0.54	0.22	1.6862164856554e-19	GBP4	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+9.10074006850681e-24	0.559330506821556	0.92	0.95	1.92808279091385e-19	SMCHD1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+9.45499832506312e-24	-0.965787970447515	1	1	2.00313594514787e-19	LGALS3	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+9.90001998794652e-24	0.665529330940824	0.88	0.786	2.09741823464635e-19	PPP1R15B	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.14023379141187e-23	-0.841429465993724	0.9	0.987	2.4156993104852e-19	FXYD3	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.54224912615702e-23	0.692938336160784	0.9	0.754	3.26740899867627e-19	NFKB2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.91423966543036e-23	-0.654426424418239	0.94	1	4.05550815518075e-19	HSP90AB1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.97314936587555e-23	0.616633324164232	0.54	0.089	4.18031424654394e-19	TNFSF13B	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.22516674557018e-23	0.657905938465755	0.84	0.808	4.71423826716498e-19	EPC1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.50471274475405e-23	0.77089679229238	0.72	0.386	5.30648442103593e-19	EFNA1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.43651668624358e-23	-0.709254419927001	0.72	0.985	7.28060425147565e-19	TPI1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.52585441176499e-23	-0.84005628340252	0.98	0.996	7.46987515676531e-19	HLA-B	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.61914716486489e-23	0.56372676458654	0.78	0.488	7.66752518348275e-19	TTF2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+4.82779922634092e-23	0.648735561589223	0.88	0.625	1.02281754409259e-18	HIVEP1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.08231079612916e-23	-0.643467514772512	0.74	0.989	1.07673836526792e-18	ARPC3	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.85715646500194e-23	-0.824308190434018	0.72	0.996	1.24089716867531e-18	HSP90B1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+7.91969370646231e-23	-0.786976527489334	0.92	0.993	1.6778663086511e-18	ITM2B	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.27430986054791e-22	-1.07931597681474	0.76	0.996	2.6997528705568e-18	CES2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.30446510753155e-22	0.933597409636657	0.8	0.466	2.76363977681635e-18	KLF10	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.45754303115621e-22	-0.874271064332634	0.54	0.967	3.08795066580755e-18	VNN1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.54406449553834e-22	1.10012132727827	0.76	0.501	3.27125504024753e-18	PMAIP1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.55545120532021e-22	0.930623272381377	0.88	0.741	3.29537892359139e-18	FAM46A	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.58631198123509e-22	0.638186582802549	0.8	0.641	3.36076056344466e-18	MAST4	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.70882328344427e-22	0.77243584248789	0.86	0.867	3.62031300830504e-18	SOX9	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.84325341868234e-22	-0.70312013082815	0.72	0.991	3.90511669282042e-18	CTSS	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.86928054084229e-22	0.53121412670932	0.78	0.882	3.96025775382847e-18	NT5C3A	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.9597603370174e-22	-0.644602247266324	0.56	0.956	4.15194825000507e-18	BCAP31	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.54429854446578e-22	0.62764071400139	0.74	0.623	5.39035089630521e-18	KDM6B	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.6719614956317e-22	0.805808083759355	0.98	0.911	5.66081762464531e-18	ANKLE2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.03777698749876e-22	-0.606490522380539	0.76	0.98	6.43583432571487e-18	EFHD2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.15479717736344e-22	-0.705259878874019	0.9	0.996	6.68375329996218e-18	MYH14	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.61908952178297e-22	-0.649370912830906	0.58	0.976	7.6674030608494e-18	ITM2C	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+4.21782443454564e-22	0.966403464401325	0.98	0.946	8.93588284702839e-18	KLF6	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+4.7001548362709e-22	-0.748249825640295	0.86	0.985	9.95774803612354e-18	ANXA3	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+6.73098038938408e-22	-0.706766489078991	0.82	0.989	1.42602550529491e-17	PRDX5	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+7.08640143756551e-22	0.695287566625834	0.94	0.913	1.50132500856263e-17	KMT2E	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+7.13737589441608e-22	-0.629156129035622	0.78	0.985	1.51212445699099e-17	TUBB4B	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+7.52625829546481e-22	0.563410327030294	0.94	0.837	1.59451308247718e-17	XRN1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+8.26653804516434e-22	0.539430027870139	0.9	0.688	1.75134875024852e-17	SFSWAP	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.09458681823651e-21	-1.06260750509784	0.6	0.978	2.31899163311587e-17	CEACAM5	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.09465165524648e-21	0.573834716861475	0.8	0.715	2.3191289968052e-17	CNOT4	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.38625069205038e-21	0.787628609250194	0.76	0.438	2.93691071617794e-17	HIVEP2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.4402741118623e-21	0.986013281992379	1	1	3.05136473339147e-17	MALAT1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.57373024368577e-21	0.719277852492032	0.82	0.573	3.33410489427267e-17	BHLHE40	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.09274427929924e-21	-0.675351274742972	0.94	1	4.43368803012338e-17	EZR	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.12194658479668e-21	0.51031740799036	0.66	0.174	4.49555603455024e-17	TRAF1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.18109048313697e-21	-0.76519849478718	0.74	0.991	4.62085829757399e-17	CTSD	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.87775333926649e-21	-0.587339998623506	0.78	0.989	6.09680822456998e-17	CANX	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.08042277713857e-21	0.885804545229012	0.88	0.797	6.52618369564577e-17	RHOB	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.17850377882379e-21	-0.83427921512172	0.92	0.998	6.73397810581608e-17	S100A11	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.30104298580281e-21	-0.515544121358437	0.56	0.978	6.99358966972184e-17	SPCS2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.56699174672194e-21	0.627627283449203	0.78	0.625	7.55702871460511e-17	PDE4D	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.78249341044279e-21	-0.743271439476475	0.94	0.993	8.01359053936409e-17	PFN1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+4.5911230209701e-21	0.519127437771864	0.82	0.481	9.72675323222724e-17	RLF	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.21925591315445e-21	-0.539116526871597	0.5	0.959	1.1057515577609e-16	LMAN2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+7.25993028040139e-21	0.503627480452107	0.9	0.743	1.53808882920584e-16	TNRC6A	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+7.35978265489997e-21	0.530715739439068	0.74	0.627	1.55924355326711e-16	KMT2B	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+8.79357136315311e-21	0.581996799171038	0.84	0.841	1.86300602899762e-16	TRIB1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+9.53615477368132e-21	-0.537126726217326	0.8	0.983	2.02032975035212e-16	CTNNA1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.1595292223356e-20	1.43381446742907	0.84	0.582	2.45657861044021e-16	ATF3	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.28891036482858e-20	-0.684425711320462	0.66	0.98	2.73068549892583e-16	VIMP	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.31482643699451e-20	-0.730603646138654	1	1	2.78559128941658e-16	FTL	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.48437807313173e-20	-0.562854895861825	0.42	0.93	3.14480338573689e-16	NAPRT	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.64316298157925e-20	0.537195894806257	0.94	0.926	3.4812050927738e-16	ADAR	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.04032782813039e-20	1.04582688454916	0.88	0.699	4.32263853667704e-16	HES1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.20091344800651e-20	-0.607214376567772	0.64	0.985	4.6628552309466e-16	SERPINB6	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.30347406923291e-20	0.855071785898079	0.82	0.71	6.99874016307685e-16	HIST1H2AC	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.51599403106236e-20	-0.689401536786463	1	1	7.44898495420872e-16	C15orf48	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.86694332181098e-20	0.594110981163809	0.84	0.566	8.19250612158874e-16	RICTOR	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.90074199555255e-20	-0.650214652277173	0.82	0.976	8.26411199177764e-16	BTF3	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+4.01894193050239e-20	-0.527317482632515	0.8	0.983	8.51453037396237e-16	BSG	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+4.62245725116853e-20	-0.659610638383964	0.66	0.983	9.79313793232565e-16	SPTAN1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.8574688033722e-20	0.556155399034995	0.88	0.804	1.24096334068243e-15	NFKB1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+6.10193360526367e-20	-0.693177572654645	0.68	0.969	1.29275565361116e-15	VAMP8	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+6.60960781803613e-20	0.927455169477578	0.94	0.806	1.40031151232914e-15	SDC4	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+7.54486295181182e-20	-0.640349814871774	0.96	0.998	1.59845466497085e-15	LGALS4	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+7.55254853035871e-20	0.58866037743712	0.76	0.536	1.6000829316418e-15	ARHGEF38	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+7.72326072332726e-20	-0.666352462700275	0.62	0.965	1.63625001684411e-15	ATP6V0B	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+9.05001219279842e-20	-0.691718430843969	0.94	0.993	1.91733558316627e-15	MYL12A	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+9.48962064327785e-20	-0.699362131063747	0.92	0.996	2.01047102948484e-15	SERPINB1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+9.65195165737698e-20	0.624170830435078	0.8	0.76	2.04486247813189e-15	PPP1R10	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.21234213081069e-19	-0.553376635758979	0.78	0.987	2.56846803833552e-15	HADHA	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.29259175913384e-19	-0.562215507237902	0.86	0.989	2.73848490090094e-15	SBDS	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.48831166893579e-19	-0.719137449499887	0.7	0.978	3.15313710180736e-15	NDUFA4	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.66313979420484e-19	0.996832131568349	0.72	0.351	3.52352796800238e-15	GADD45B	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.91504807671446e-19	0.891674049918537	0.92	0.937	4.05722085532725e-15	TNFSF10	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.9428360584755e-19	-0.55633783983065	0.64	0.983	4.1160924734862e-15	ERP29	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.15202338819903e-19	-0.714213420125463	0.56	0.974	4.55927675023846e-15	ATP1B3	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.30638471816481e-19	-0.552192637778538	0.9	0.993	4.88630666390396e-15	ACTN4	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.61305516865233e-19	-0.540708730265262	0.68	0.983	5.53601868030683e-15	FKBP2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.62021106706044e-19	0.544238057868675	0.6	0.333	5.55117916667425e-15	TET3	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.09707282208134e-19	-0.614807447128476	0.68	0.98	6.56145848086153e-15	PDIA6	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.83152380277761e-19	0.510167949049583	0.74	0.649	8.11746632856464e-15	ZBTB43	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+4.03221919185294e-19	-0.594563375015492	0.9	0.991	8.54265957985964e-15	ENO1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+4.49380721785095e-19	-0.520997883392931	0.9	0.987	9.52057997173902e-15	ANXA11	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+4.98411701586578e-19	-0.829355326103022	0.62	0.961	1.05593503098133e-14	CDH17	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.12946099698139e-19	0.561193466497807	0.46	0.022	1.08672760682048e-14	PLEKHA4	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.65652181044948e-19	-0.573403424177128	0.64	0.974	1.19839071076183e-14	PTTG1IP	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.72358909996346e-19	0.508106462926542	0.7	0.619	1.21259958671826e-14	PCF11	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.7504631340971e-19	-0.643595409485634	0.72	0.98	1.21829311958981e-14	ADAM9	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+6.32073835106935e-19	-0.600030212714303	0.74	0.987	1.33911162705755e-14	CXADR	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+8.98116628894882e-19	-0.577187991910164	0.66	0.972	1.9027498899767e-14	TMED4	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.04812434972168e-18	-0.585633564354185	0.54	0.969	2.22055624732036e-14	DHRS7	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.1598456718112e-18	-0.710426031696985	0.58	0.959	2.45724904029921e-14	MALL	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.42954254419189e-18	-0.737193434927282	0.92	0.989	3.02862883412494e-14	ATP5G3	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.71839344228785e-18	1.14899449175145	0.46	0.272	3.64058834683103e-14	ZBTB10	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.80767066805475e-18	0.630284702240166	0.92	0.904	3.8297310773408e-14	CHD9	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.86415609031386e-18	0.519229014703977	0.86	0.906	3.94940109293893e-14	SETD2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.88929196638164e-18	0.508486816243001	0.52	0.098	4.00265395997615e-14	RP1-34B20.21	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.0578600334969e-18	-0.672482207871794	0.54	0.937	4.35978226696653e-14	ADI1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.11209749742409e-18	-0.568501852158189	0.64	0.965	4.47468975804268e-14	PGK1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.23910054192471e-18	-0.552951534345699	0.62	0.95	4.74375840812169e-14	NBL1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.25954738669679e-18	0.698243537648921	0.7	0.292	4.78707709345581e-14	BST2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.32678545411935e-18	0.5340837161678	0.96	0.806	4.92952766309726e-14	FNDC3B	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.36692968702492e-18	-0.640143642984017	0.58	0.959	5.01457723493099e-14	HSD17B11	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.44132123880532e-18	-0.722860160865785	0.94	0.993	5.17218317653294e-14	RPS27L	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.09626025911001e-18	-0.590484750565387	0.68	0.961	6.55973698495047e-14	CAPZB	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.5012254744115e-18	0.575705253951547	0.58	0.15	7.41769629008821e-14	HIST1H2BG	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.75173302570715e-18	0.62455428597685	0.9	0.847	7.94842158826317e-14	N4BP1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+4.61632381889797e-18	-0.502219813193246	0.42	0.93	9.78014364271724e-14	FDX1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.01526531155362e-18	-0.552637324929548	0.62	0.961	1.06253410890575e-13	COPB1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.15994853675664e-18	0.836094774329569	0.98	0.865	1.09318669699726e-13	PNRC1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.32337443470893e-18	-0.666187449280808	1	1	1.12781010773743e-13	EEF1A1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.6565371620753e-18	0.564979473175207	0.8	0.619	1.19839396315727e-13	SAMD4A	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+6.20180898009802e-18	0.814190929034978	0.98	0.874	1.31391525052357e-13	MTRNR2L12	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+6.53753103034044e-18	-0.540738946330033	0.66	0.965	1.38504132408793e-13	MORF4L1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+7.03899045379054e-18	0.521024715923369	0.92	0.919	1.49128051754006e-13	NRIP1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+7.4070311216306e-18	-0.569568296215106	0.72	0.976	1.56925361342866e-13	RPN2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+7.80600047413866e-18	-0.589935797993469	0.4	0.906	1.65377926045102e-13	TIMP2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+9.49496277180718e-18	-0.620612723578138	0.8	0.978	2.01160281283507e-13	ATP6V0E1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.00893925323963e-17	0.58599675338589	0.74	0.536	2.13753870191349e-13	ARRDC3	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.09894637162148e-17	-0.593639948905323	0.84	0.969	2.32822778291726e-13	VDAC2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.11292961537985e-17	1.04252757793044	0.92	0.904	2.35785268314375e-13	ZNF292	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.24849124294897e-17	-0.61158918881658	0.7	0.989	2.6450535473117e-13	ATP8B1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.26509272733068e-17	0.516306735314622	0.78	0.59	2.68022545212278e-13	USP31	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.2794634352507e-17	0.572773880862265	0.62	0.194	2.71067123392214e-13	NOCT	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.52031539015823e-17	-0.621782728119865	0.82	0.98	3.22094018558922e-13	COX8A	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.61056637276829e-17	-0.548226895078532	0.54	0.954	3.4121459173469e-13	MYDGF	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.68846215182335e-17	-0.748112293333104	0.54	0.935	3.57717591485294e-13	CTSE	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.9018733907865e-17	-0.53269638420971	0.62	0.963	4.02930896572027e-13	RER1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.00682694322268e-17	-0.556943787706849	0.6	0.963	4.25166356191156e-13	DAD1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.00939567433615e-17	1.10102827381652	0.98	0.941	4.25710567564856e-13	TNFAIP2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.0107123218812e-17	-1.06084507967074	0.38	0.893	4.25989512513751e-13	TM4SF4	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.09084161201282e-17	-0.646330830106071	0.76	0.983	4.42965703921036e-13	PDIA3	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.12219174049491e-17	-0.524278858788382	0.7	0.978	4.49607542141252e-13	NARS	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.31907251019951e-17	-0.562206090853262	0.82	0.969	4.91318702010869e-13	POMP	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.37674871008181e-17	-0.681845957024957	0.86	0.991	5.03537981717933e-13	DYNLL1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.85234533843935e-17	-0.57721827523873	0.62	0.969	6.04297883401761e-13	ITGB4	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.12247561804664e-17	-0.530033151281577	0.52	0.956	6.61527684439361e-13	IDH1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.15347067060107e-17	0.524336885460259	0.82	0.719	6.68094296273544e-13	PIEZO1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.49760922612887e-17	-0.531810341797013	0.68	0.967	7.41003490647663e-13	MINOS1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.97518132976232e-17	0.50863918234511	0.82	0.621	8.42181916523445e-13	INTS6	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+4.22287633193428e-17	-0.63121606076353	0.92	0.996	8.94658579683597e-13	SERF2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+4.52108264237971e-17	-0.506577379339218	0.68	0.974	9.57836568614564e-13	DYNC1I2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+4.97626175710295e-17	-0.659100316424196	0.82	0.991	1.05427081585983e-12	LYZ	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.33833298839274e-17	-0.647658831780141	0.86	0.991	1.13097922692089e-12	AHNAK	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+6.15598965970648e-17	0.622337859810127	0.96	0.939	1.30420796930542e-12	MCL1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+6.72295196201232e-17	-0.591756135560166	0.86	0.991	1.42432460267193e-12	MGAT4A	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+7.14653267180326e-17	0.556113448413965	0.86	0.804	1.51406441184824e-12	NSRP1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+7.16329848482523e-17	0.514811748000268	0.86	0.895	1.51761641699507e-12	ETS2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+8.8368518463284e-17	-0.633140538078281	0.96	0.996	1.87217543216314e-12	GSTP1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.07268330380411e-16	0.549647448315574	0.62	0.303	2.2725868474394e-12	RHOV	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.15952717674374e-16	0.760945787969598	0.98	0.983	2.45657427664928e-12	CFLAR	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.25712112210528e-16	-0.619752539368485	0.84	0.987	2.66333680929224e-12	PERP	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.38869668867323e-16	0.533477312000366	0.8	0.784	2.94209280462311e-12	CHD7	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.43937521748733e-16	-0.531623731536677	0.96	0.987	3.04946033576865e-12	COX7A2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.47317057398288e-16	-0.516987813438379	0.84	0.989	3.12105917804012e-12	CDH1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.49128847315966e-16	-0.614096304644078	0.68	0.961	3.15944375923605e-12	CIB1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.59529572226448e-16	-0.51515973041937	0.58	0.943	3.37979351718953e-12	NDUFB8	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.69709631255812e-16	-0.502067427894128	0.52	0.937	3.59546824778563e-12	TMED9	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.86810365174216e-16	0.961438999359447	0.98	0.841	3.95776439658095e-12	CXCL3	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.99323786460037e-16	-0.678770033243204	0.88	0.996	4.22287373994235e-12	TXN	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.03130367709202e-16	-0.535302095105798	0.9	0.985	4.30351997028716e-12	COX5B	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.24081140971452e-16	0.543997955581476	0.96	0.891	4.74738305262118e-12	FGD6	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.42838235234387e-16	-0.507973968278004	0.62	0.961	5.14477085167573e-12	VPS4B	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.67393394172705e-16	-0.525912738584302	0.74	0.98	5.66499644894294e-12	CMPK1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.75020105699026e-16	-0.574349635238874	0.9	0.98	5.82657595933956e-12	CHCHD2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.00002751010143e-16	-0.504744134400825	0.68	0.941	6.35585828290088e-12	PPP2CB	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.45409361486796e-16	-0.62300990712336	0.66	0.95	7.31784273245927e-12	SDCBP2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.75219787151814e-16	-0.510107730057616	0.86	0.991	7.94940641059833e-12	CD46	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.81403518080143e-16	0.63032141998051	0.76	0.58	8.08041493404591e-12	BMP2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.86375016311102e-16	-0.569798543266124	0.96	0.996	8.185741095567e-12	COX7C	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+4.07196282538787e-16	0.532214711241248	0.6	0.434	8.62686044186674e-12	DENND4A	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+4.07906011733579e-16	-0.898538211393911	0.72	0.978	8.6418967645876e-12	TXNRD1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+4.2696510419175e-16	-0.50053871468062	0.74	0.983	9.04568269740642e-12	MGAT4B	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.36330227097366e-16	-0.533421508569511	0.74	0.969	1.13626921912848e-11	GHITM	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+6.36024897670119e-16	0.504090960365375	0.78	0.606	1.34748234820391e-11	ARAP2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+7.12758537498481e-16	0.598439230774509	0.96	0.915	1.51005023754428e-11	CEP350	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+8.31038731715105e-16	-0.54491516862856	0.9	0.985	1.76063865701162e-11	COX6C	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+8.82825261181173e-16	-0.778651467204928	0.84	0.978	1.87035359833843e-11	VIL1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+9.02456263471141e-16	0.680762972111852	0.86	0.721	1.91194383978996e-11	MTRNR2L8	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+9.32561307276537e-16	-0.519794365602617	0.62	0.952	1.97572438559607e-11	ATP5H	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.10019603102505e-15	-0.503638271629562	0.52	0.941	2.33087531132967e-11	AP1S1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.17665242687555e-15	-0.54498720458017	0.76	0.991	2.49285583157853e-11	DSC2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.20357027266083e-15	-0.523507460523632	0.8	0.969	2.54988397965923e-11	ALDH2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.46019966935336e-15	-0.627513037136002	0.86	0.976	3.09357901949203e-11	UQCRQ	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.51567812799707e-15	-0.523385987231819	0.74	0.985	3.21111568197459e-11	CD164	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.55595796213409e-15	1.21287414621238	0.56	0.255	3.29645253857728e-11	NR1D1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.58703447714012e-15	0.549587325539884	0.94	0.876	3.36229124326906e-11	MAP4K4	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.63426039098513e-15	-0.516656206995764	0.78	0.987	3.4623440643411e-11	SPCS1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.65944525028331e-15	-0.537001810249084	0.48	0.919	3.51570070725022e-11	CPE	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.80015138045739e-15	-0.561690687818612	0.4	0.876	3.81380071463703e-11	MAOA	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.88762198126034e-15	-0.562658753785253	0.76	0.983	3.99911592949816e-11	COX6B1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.3863444170321e-15	-0.586125169915861	1	1	5.0557092819242e-11	S100A6	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.26996873219632e-15	-0.560777203025289	0.66	0.972	6.92775575603113e-11	CTSA	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.31869239247455e-15	-0.828772122700889	0.58	0.935	7.03098170269658e-11	ANXA13	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.69630575905562e-15	-0.564713710982538	0.98	0.996	7.83099338113523e-11	YWHAZ	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.74375297253571e-15	0.536747335538695	0.5	0.205	7.93151504761415e-11	DUSP10	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.75806221990481e-15	-0.527359608517798	0.58	0.965	7.96183061909033e-11	GSTO1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.99415664631762e-15	-0.623143395753275	0.84	0.987	8.4620202708885e-11	RPS26	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+4.43086921362768e-15	-0.628413788851856	0.82	0.985	9.3872395159916e-11	DSTN	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+4.60131707465783e-15	-0.506537140731389	0.62	0.969	9.74835035437008e-11	NDUFB2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.00501619960927e-15	-0.533284888580671	0.64	0.965	1.06036273204922e-10	GRN	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.32296157731764e-15	-0.615861600263211	0.82	0.993	1.12772263977052e-10	PPIA	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.61527915868267e-15	-0.55459459123217	0.68	0.963	1.18965304255851e-10	ATP5J2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.61998851508065e-15	-0.622570175744897	0.66	0.969	1.19065076680499e-10	DBI	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.65314717417563e-15	0.56760982505432	0.72	0.418	1.19767576032085e-10	PHLDA1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+6.26605215071377e-15	-0.597783502741051	0.74	0.969	1.32752580865022e-10	CD59	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+6.49488998900571e-15	-0.569174958491094	0.76	0.946	1.37600739307075e-10	MPC2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+6.69237833053775e-15	-0.544364914005927	0.5	0.913	1.41784727310773e-10	GALC	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+6.97950306557005e-15	-0.548578108608276	0.84	0.996	1.47867751947167e-10	CLDN3	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+8.51700633862437e-15	-0.555373113128674	0.8	0.98	1.80441296290096e-10	RHOC	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+8.77846557655001e-15	-0.533835194709146	0.52	0.948	1.85980571704788e-10	SRI	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+9.24708681698918e-15	-0.521108147369278	0.72	0.976	1.95908781304733e-10	SSR4	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+9.68338453051179e-15	-0.573870342032848	0.54	0.932	2.05152184663423e-10	RAMP1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.18328669467541e-14	-0.503788020537244	0.48	0.913	2.50691119133931e-10	TSTD1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.20090044585745e-14	0.552004847017852	0.82	0.66	2.54422768459359e-10	CCSER1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.47994909078052e-14	-0.633449499491981	0.74	0.965	3.13542014372762e-10	TAGLN2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.55715501916437e-14	-0.62509922640375	0.84	0.987	3.29898862360163e-10	FAT1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.59147451884133e-14	-0.543144821517739	0.82	0.976	3.37169791561724e-10	ATP5L	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.08865198489717e-14	-0.589704895385029	0.68	0.972	4.42501809520315e-10	SLC25A5	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.13318591292014e-14	-0.613655946782169	0.72	0.974	4.5193676751126e-10	PEBP1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.50111852130216e-14	-0.535119017431974	0.82	0.978	5.29886969923075e-10	CYB5A	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.68507657459461e-14	-0.503405358272628	0.64	0.959	5.68860323093615e-10	SCP2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.86947900908034e-14	-0.500956010485932	0.64	0.961	6.0792782286376e-10	TM9SF2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.29996733006368e-14	0.541343027030001	0.46	0.076	6.99131078547291e-10	PER1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.80712871469436e-14	-0.550883182098944	0.92	0.987	8.06578289495148e-10	HINT1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.99221822648281e-14	0.537109888627382	0.66	0.346	8.45791353462648e-10	CREB5	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+4.03991005270836e-14	-0.615180684342158	0.64	0.959	8.55895343766793e-10	FAM3C	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.57952572118738e-14	-0.513793895569955	0.52	0.935	1.18207831929076e-09	ETHE1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+6.42259368134117e-14	-0.569324928121302	0.94	0.996	1.36069069732894e-09	COX4I1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+6.95019088645867e-14	-0.514594430895106	0.74	0.978	1.47246744120513e-09	DYNLT1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+7.01861441456685e-14	-0.54423458917919	0.56	0.913	1.48696364987013e-09	AGR3	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+8.20167097837631e-14	-0.590893024121402	0.72	0.974	1.73760601347881e-09	NQO1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+9.87944606457265e-14	-0.50828029583939	0.68	0.963	2.09305944324036e-09	GALNT1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.11893301784345e-13	-0.5872046793224	0.82	0.989	2.37057149160312e-09	GPX4	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.6554916492743e-13	-0.51930070462323	0.7	0.974	3.50732460815252e-09	FAM3B	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.78509391614067e-13	-0.50225143896535	0.8	0.978	3.78189997073563e-09	ATPIF1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.85267514958536e-13	-0.518185668825811	0.92	0.978	3.92507757191153e-09	UQCRH	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.10004791849365e-13	0.515511544426189	0.72	0.719	4.44916152012066e-09	GABPB1-AS1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.67906270865267e-13	-0.54946736609227	0.86	0.978	5.67586225455154e-09	COX7B	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.69223373350221e-13	-0.549639991863169	0.72	0.985	5.70376638779779e-09	HSPA5	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.34799424672006e-13	0.505788803688961	0.38	0.059	7.09306061110112e-09	ANKRD33B	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+4.10521055961366e-13	-0.612007781561913	0.44	0.867	8.6972990915975e-09	SLPI	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+4.77209956391097e-13	-0.522201337571869	0.68	0.972	1.01101701361018e-08	TUBA1B	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.89303368500218e-13	0.525447146633931	1	0.998	1.24849811650456e-08	MT-ND3	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+6.86350400494513e-13	-0.607648522717613	0.88	0.991	1.45410195848768e-08	TPM4	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+8.02541970819956e-13	-0.684205544982616	0.84	0.969	1.70026541937916e-08	GPX1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+8.17163546272357e-13	0.623076100972392	0.54	0.135	1.73124268913261e-08	EGOT	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+9.61449009617797e-13	-0.551476014380303	0.78	0.972	2.03692587177627e-08	SEPW1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.14073269483496e-12	-0.526690374064584	0.64	0.941	2.41675628727734e-08	PHPT1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.15222250691512e-12	-0.509470020476488	0.66	0.969	2.44109860315038e-08	S100A14	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.17072280232035e-12	-0.544080696649721	0.66	0.959	2.48029332899589e-08	OCIAD2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.38447000051543e-12	-0.516052958317836	0.4	0.856	2.93313814309199e-08	BTNL8	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.42225981185422e-12	-0.517752151125737	0.66	0.935	3.01319963739434e-08	FKBP1A	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.47088875931988e-12	-0.749996872202799	0.88	0.95	3.11622492549509e-08	FABP2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.47448944655102e-12	0.666108060200532	0.86	0.745	3.12385334146299e-08	RCAN1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.50302749848132e-12	-0.503696606205534	0.62	0.926	3.18431405828252e-08	HSBP1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.69840180687335e-12	0.528216081374653	0.98	0.922	3.59823406804187e-08	BAZ2B	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.70006767341812e-12	-0.680588385067817	0.94	1	3.60176337290362e-08	AGR2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.71137419551447e-12	0.518961380629404	0.8	0.614	3.62571737061695e-08	DUSP1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.84250644402144e-12	-0.632743212680459	0.74	0.967	3.90353415230381e-08	FDPS	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.95215950641804e-12	0.60507149312324	0.92	0.913	4.13584513029727e-08	GADD45A	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.2430718943565e-12	0.627226922355301	1	0.993	4.75217211538368e-08	ELF3	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.38511821963515e-12	0.60006527214989	0.82	0.784	5.05311146011904e-08	HES4	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.57087525810932e-12	-0.615308260308846	0.96	0.996	5.4466563218304e-08	MYH9	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.74976224548969e-12	-0.541200105666833	0.72	0.956	5.82564629329446e-08	GLRX	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.15028413080414e-12	0.84040399907721	1	1	6.67419195952166e-08	NEAT1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.41065044366245e-12	-0.736690624860667	0.54	0.902	7.22580402994326e-08	DPP4	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.46852796303608e-12	0.649083633167367	0.9	0.922	7.34842334248824e-08	NEDD4L	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.53050583833204e-12	-0.519494442832285	0.98	0.998	7.47972966909026e-08	RPL41	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.62196278449777e-12	-0.536170705561739	0.78	0.969	7.67349035523697e-08	CHCHD10	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.66562340782699e-12	-0.707163091107607	0.56	0.843	7.76598975182227e-08	MYL9	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+4.60296226981795e-12	0.862299865330671	0.94	0.741	9.7518358648363e-08	PLCG2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.38483989745057e-12	-0.606005465455873	0.64	0.932	1.14083218067388e-07	MSMO1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.40131435179409e-12	-0.602907538591064	0.62	0.93	1.1443224585711e-07	SLC9A3R1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+6.45560502774825e-12	0.522428045506909	1	0.996	1.36768448117875e-07	ANKRD11	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+7.81878356084777e-12	-0.581769730823806	0.6	0.885	1.65648748520121e-07	PKIB	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+7.85569321422802e-12	0.612792927516568	0.9	0.837	1.66430716436635e-07	RND3	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+7.91195455479861e-12	-0.504522487173296	0.94	0.996	1.67622669197963e-07	RPL18	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+8.18990464043099e-12	-0.521916431678554	1	1	1.73511319712171e-07	KRT18	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+8.57710839114444e-12	0.823328382328486	0.2	0	1.81714618374786e-07	IFNL1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.50305789813148e-11	-1.14084763999861	0.72	0.954	3.18437846298136e-07	HPGD	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.66248587560108e-11	1.36204334522579	0.54	0.41	3.52214257604845e-07	G0S2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.61150152612707e-11	-0.579590058820321	0.9	0.991	5.53272713325281e-07	ASS1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.63900760297027e-11	-0.50155422916924	0.62	0.946	5.59100150765282e-07	IDI1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.79816406237649e-11	-0.507129217294899	0.98	1	5.92819038255084e-07	RPL10	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.10949362635124e-11	-0.621167288075802	0.64	0.943	6.58777319678773e-07	MUC17	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.16240698611811e-11	-0.766874541476753	0.76	0.969	6.69987544078982e-07	IGFBP3	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.92252337882592e-11	-1.07054396507857	0.6	0.876	8.3102580303806e-07	TM4SF20	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+4.39672305257822e-11	-0.609838511016012	0.4	0.845	9.31489745919221e-07	CDHR5	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+4.86741045868402e-11	-0.624689577466526	0.28	0.741	1.0312095797768e-06	SMIM24	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.16083767077087e-11	-0.514220735859329	0.98	1	1.09337506892952e-06	ATP1B1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.17125940398058e-11	0.70393721074516	0.76	0.627	1.09558301732732e-06	PCLO	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.39377761604021e-11	-0.585407432544818	0.56	0.9	1.14272572573428e-06	BTNL3	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.63744895982738e-11	1.00708281909282	0.44	0.129	1.19434993662903e-06	CLEC2D	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.95205097643354e-11	0.763881754423409	0.66	0.558	1.26100151986721e-06	FSTL3	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+7.5754721936564e-11	-0.768286656972237	0.68	0.948	1.60493953894804e-06	PDZK1IP1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+8.02585626249893e-11	-0.749492460738034	1	1	1.70035790777302e-06	TPM1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+8.25559435162919e-11	0.509601602498015	0.8	0.597	1.74903021933616e-06	FAM101A	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.09680134313934e-10	0.739773565134761	0.38	0.248	2.323683325575e-06	EDN2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.22531452181349e-10	-0.695221263131699	0.64	0.941	2.59595134591406e-06	SLC5A1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.30840731805983e-10	-0.557907136485167	0.84	0.98	2.77199174404157e-06	MYO1B	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.62606816873075e-10	-0.527059693204834	0.54	0.889	3.44498802227296e-06	FAM3D	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.67143485237064e-10	0.756920883824915	0.82	0.617	3.54110187823245e-06	BBC3	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.26756203622932e-10	0.855067488118598	0.8	0.545	4.80405692995543e-06	PLAU	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.30044628006014e-10	-0.57471280964135	0.6	0.919	4.8737254889354e-06	SQLE	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.96365792156236e-10	-0.523684136848566	0.52	0.88	6.27880567262202e-06	AKR1C3	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.81400086461713e-10	0.559950110997854	0.86	0.664	8.08034223177785e-06	PLK2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+4.14942475050319e-10	0.573460861039278	0.86	0.874	8.79097127641606e-06	IFITM3	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+6.67281541865686e-10	0.816976343966852	0.88	0.852	1.41370267459664e-05	AP000769.1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+7.3579349046011e-10	-0.622962085728793	0.8	0.969	1.55885208888879e-05	ALDH1A1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+8.37382804060127e-10	-0.658681247936719	0.44	0.832	1.77407920868178e-05	CEACAM6	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.77399474858561e-09	0.686392636970391	0.58	0.475	3.75838527435348e-05	CD44	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+4.5024194205295e-09	-0.652456524583642	0.9	0.985	9.53882578433381e-05	SH3BGRL3	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+7.66000707798484e-09	0.58547128920432	0.74	0.649	0.000162284909954187	FOS	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+7.73977468653674e-09	-0.595232394156833	0.44	0.821	0.000163974866508967	ACE2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+7.81349459241041e-09	0.707896605320292	0.88	0.78	0.000165536696434807	IFI6	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+8.27889464117456e-09	-0.616747059496909	0.88	0.98	0.000175396661867924	GLS	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.06383004988453e-08	-0.757621131987205	0.78	0.954	0.000225383034368536	MDK	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.08055420928453e-08	-0.50303486365933	0.3	0.706	0.00022892621477902	ABCG2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.25811208028904e-08	0.590873369682168	0.66	0.338	0.000266543625330037	MT2A	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.29467844485185e-08	0.714607383330123	0.74	0.614	0.000274290575326314	CITED4	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.315961738968e-08	-1.21719035188586	0.24	0.656	0.000278799654017761	CYP3A4	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.53621800996054e-08	-0.648933604449316	0.88	0.98	0.000325463147590239	HSPB1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.58383668187306e-08	1.2138789914298	0.22	0.011	0.000335551639421625	CCL5	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.63492843742431e-08	-0.560649414243752	0.38	0.769	0.000346375938752713	SMPD3	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.27083843328328e-08	0.654602144002143	0.86	0.919	0.000481099830475395	SOD2	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+3.17738965297528e-08	0.855640942913499	0.82	0.693	0.000673161771879343	CXCL8	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+4.44841813791355e-08	0.509760426765238	0.8	0.641	0.000942441866698364	C6orf222	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+6.14929828149487e-08	0.523825050630813	0.78	0.845	0.0013027903339175	SLC25A37	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+7.75719197566688e-08	-0.768851173203323	1	0.998	0.00164343869196478	PHGR1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+8.29012572703819e-08	-0.507403376259563	0.68	0.937	0.00175634603653031	PI3	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.26276887691138e-07	-0.82411863989534	0.3	0.673	0.00267530214262444	CA4	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.38139210787137e-07	0.554306308883576	0.48	0.155	0.00292661731973628	CYP1A1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.90867273804625e-07	-1.08408091578575	0.72	0.932	0.00404371406282479	SI	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.01401914603485e-07	-0.61635178091914	0.76	0.943	0.00426690096278944	GSTM4	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.49889856158216e-07	-0.765852007239227	0.36	0.73	0.00529416649256797	MTTP	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.15775647414168e-07	0.505969422184059	0.9	0.784	0.0109272228661166	ISG20	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+5.42365411998025e-07	-0.762959856746861	0.62	0.834	0.0114905536185902	ANXA1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.0817698801164e-06	-0.664967131905108	0.64	0.865	0.0229183766801461	AKR1B10	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.28626066251925e-06	-0.651886645863614	0.92	0.976	0.0272507183961329	RARRES1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.47125753971511e-06	-0.931725947513689	0.9	0.993	0.0311700622364043	MUC13	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.53890203827504e-06	0.690945984892645	0.94	0.904	0.0326031785828951	EDN1	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+2.13872107578954e-06	-0.800975735321767	0.88	0.978	0.0453109447116772	ALDOB	Illeum_24h_Inmature Enterocyte 2_Infected_v_Illeum_Mock_Inmature Enterocyte 2_Non-Infected
+1.78598949772654e-18	1.86632124595131	1	0.486	3.78379734988345e-14	MX1	Illeum_24h_Enterocyte 1_Infected_v_Illeum_Mock_Enterocyte 1_Non-Infected
+9.4337495445363e-18	1.15226860905799	1	0.419	1.99863417850546e-13	IFIT1	Illeum_24h_Enterocyte 1_Infected_v_Illeum_Mock_Enterocyte 1_Non-Infected
+1.63429988263374e-14	1.14516959025392	1	0.506	3.46242773134783e-10	IFIT3	Illeum_24h_Enterocyte 1_Infected_v_Illeum_Mock_Enterocyte 1_Non-Infected
+2.98239084547123e-14	1.50474492304118	1	0.862	6.31849324521535e-10	HIST1H4C	Illeum_24h_Enterocyte 1_Infected_v_Illeum_Mock_Enterocyte 1_Non-Infected
+1.69094176516803e-12	1.39278353942282	0.75	0.439	3.58242922368498e-08	IFITM3	Illeum_24h_Enterocyte 1_Infected_v_Illeum_Mock_Enterocyte 1_Non-Infected
+3.78442079155291e-12	0.912579372273553	1	0.458	8.01767388898399e-08	IFIT2	Illeum_24h_Enterocyte 1_Infected_v_Illeum_Mock_Enterocyte 1_Non-Infected
+1.27959895145627e-10	1.02892207893109	1	0.486	2.71095833855526e-06	EPSTI1	Illeum_24h_Enterocyte 1_Infected_v_Illeum_Mock_Enterocyte 1_Non-Infected
+2.19615573515624e-10	0.639325693029134	0.25	0.261	4.65277554050201e-06	HIST1H1D	Illeum_24h_Enterocyte 1_Infected_v_Illeum_Mock_Enterocyte 1_Non-Infected
+2.56696567264519e-10	1.31258803200508	0.5	0.221	5.43837347406611e-06	CCL2	Illeum_24h_Enterocyte 1_Infected_v_Illeum_Mock_Enterocyte 1_Non-Infected
+2.2982163676328e-09	0.881849480796997	1	0.198	4.86900119646686e-05	XAF1	Illeum_24h_Enterocyte 1_Infected_v_Illeum_Mock_Enterocyte 1_Non-Infected
+3.00337048263241e-08	0.710919680069152	1	0.64	0.000636294070450502	OAS1	Illeum_24h_Enterocyte 1_Infected_v_Illeum_Mock_Enterocyte 1_Non-Infected
+4.30072967371416e-08	1.51955730931169	1	0.324	0.000911152588673083	IFI6	Illeum_24h_Enterocyte 1_Infected_v_Illeum_Mock_Enterocyte 1_Non-Infected
+4.48618837724436e-08	1.02992372164773	1	0.917	0.000950443869602989	H2AFZ	Illeum_24h_Enterocyte 1_Infected_v_Illeum_Mock_Enterocyte 1_Non-Infected
+5.60128414765134e-08	1.02322137777616	0.5	0.166	0.00118668805952141	CXCL11	Illeum_24h_Enterocyte 1_Infected_v_Illeum_Mock_Enterocyte 1_Non-Infected
+6.23332893569222e-08	0.73689552527581	1	0.166	0.00132059306831575	USP18	Illeum_24h_Enterocyte 1_Infected_v_Illeum_Mock_Enterocyte 1_Non-Infected
+2.35188523120823e-07	0.777655540613759	1	0.087	0.00498270405083775	MX2	Illeum_24h_Enterocyte 1_Infected_v_Illeum_Mock_Enterocyte 1_Non-Infected
+2.80850194862716e-07	0.922687369020269	1	0.897	0.00595009222836151	PARP14	Illeum_24h_Enterocyte 1_Infected_v_Illeum_Mock_Enterocyte 1_Non-Infected
+3.49310520285004e-07	0.988569879388711	1	0.98	0.00740049268275809	ISG15	Illeum_24h_Enterocyte 1_Infected_v_Illeum_Mock_Enterocyte 1_Non-Infected
+4.71008399881018e-07	1.54196538514571	0.75	0	0.00997878395987925	COVID19	Illeum_24h_Enterocyte 1_Infected_v_Illeum_Mock_Enterocyte 1_Non-Infected
+5.59842364985212e-07	0.774951861787644	1	0.02	0.0118608203445767	BST2	Illeum_24h_Enterocyte 1_Infected_v_Illeum_Mock_Enterocyte 1_Non-Infected
+8.64629470341393e-07	0.938764835912171	1	1	0.0183180399586528	RPL36	Illeum_24h_Enterocyte 1_Infected_v_Illeum_Mock_Enterocyte 1_Non-Infected
+1.24205980490718e-06	0.725106802550399	1	0.115	0.0263142790267635	OAS3	Illeum_24h_Enterocyte 1_Infected_v_Illeum_Mock_Enterocyte 1_Non-Infected
+1.28191235597931e-06	0.614145990533805	0.5	0.213	0.0271585951737776	HMGB2	Illeum_24h_Enterocyte 1_Infected_v_Illeum_Mock_Enterocyte 1_Non-Infected
+1.46868295028195e-06	0.648850469910518	1	0.028	0.0311155169846733	RSAD2	Illeum_24h_Enterocyte 1_Infected_v_Illeum_Mock_Enterocyte 1_Non-Infected
+2.13691246578579e-06	0.747139961093702	1	0.569	0.0452726275001377	PNPT1	Illeum_24h_Enterocyte 1_Infected_v_Illeum_Mock_Enterocyte 1_Non-Infected
+2.34636410360602e-06	1.20318600493734	1	1	0.0497100698989972	RPL39	Illeum_24h_Enterocyte 1_Infected_v_Illeum_Mock_Enterocyte 1_Non-Infected
+5.90692049400699e-23	1.45707153627217	1	0.474	1.25144017586032e-18	IFIT3	Illeum_24h_TA_Infected_v_Illeum_Mock_TA_Non-Infected
+1.39214471857241e-22	1.79392667224388	1	0.592	2.94939780076751e-18	MX1	Illeum_24h_TA_Infected_v_Illeum_Mock_TA_Non-Infected
+1.71858248433341e-20	1.11853077822809	0.8	0.537	3.64098885130877e-16	EPSTI1	Illeum_24h_TA_Infected_v_Illeum_Mock_TA_Non-Infected
+1.31076749018219e-19	0.86052465933196	0.8	0.386	2.77699200469998e-15	HELZ2	Illeum_24h_TA_Infected_v_Illeum_Mock_TA_Non-Infected
+1.05299617944055e-16	1.25595000654076	1	0.353	2.23087770576275e-12	XAF1	Illeum_24h_TA_Infected_v_Illeum_Mock_TA_Non-Infected
+1.45334676763957e-15	0.920649892030121	0.8	0.562	3.07906046192119e-11	SAMD9	Illeum_24h_TA_Infected_v_Illeum_Mock_TA_Non-Infected
+3.14396079814861e-14	1.64681924259901	1	0.934	6.66079534695764e-10	ISG15	Illeum_24h_TA_Infected_v_Illeum_Mock_TA_Non-Infected
+1.05421028246799e-12	1.06709283895726	0.8	0.324	2.23344990443668e-08	DDX58	Illeum_24h_TA_Infected_v_Illeum_Mock_TA_Non-Infected
+1.65216726500909e-11	1.99603066713763	1	0	3.50028156764825e-07	COVID19	Illeum_24h_TA_Infected_v_Illeum_Mock_TA_Non-Infected
+1.94516922574198e-11	0.660403646226754	0.8	0.724	4.12103552165695e-07	PARP9	Illeum_24h_TA_Infected_v_Illeum_Mock_TA_Non-Infected
+1.94660888270106e-10	0.825864374878432	0.8	0.599	4.12408557889047e-06	DDX60L	Illeum_24h_TA_Infected_v_Illeum_Mock_TA_Non-Infected
+2.80977792198494e-10	1.17533898548243	0.8	0.21	5.95279550551729e-06	BST2	Illeum_24h_TA_Infected_v_Illeum_Mock_TA_Non-Infected
+6.14805483103887e-10	0.819525026075214	1	0.456	1.3025268965039e-05	GBP1	Illeum_24h_TA_Infected_v_Illeum_Mock_TA_Non-Infected
+6.7707366092413e-10	1.74339171581679	1	0.07	1.43444825803386e-05	IFIT1	Illeum_24h_TA_Infected_v_Illeum_Mock_TA_Non-Infected
+6.78992223571495e-10	0.796485844067454	1	0.401	1.43851292485857e-05	OAS3	Illeum_24h_TA_Infected_v_Illeum_Mock_TA_Non-Infected
+2.17570410021694e-09	1.22270526830033	1	0.147	4.60944670671962e-05	MX2	Illeum_24h_TA_Infected_v_Illeum_Mock_TA_Non-Infected
+4.5910423116386e-09	0.636975778504133	0.8	0.29	9.72658224143754e-05	IFIT2	Illeum_24h_TA_Infected_v_Illeum_Mock_TA_Non-Infected
+7.90195614568708e-09	1.18293096846064	0.8	0.938	0.000167410842902526	RNF213	Illeum_24h_TA_Infected_v_Illeum_Mock_TA_Non-Infected
+1.82853601718626e-08	0.634246376814862	0.8	0.331	0.000387393640601081	UBE2L6	Illeum_24h_TA_Infected_v_Illeum_Mock_TA_Non-Infected
+7.14765710504474e-08	0.929694209840245	0.8	0.562	0.00151430263427478	DDX60	Illeum_24h_TA_Infected_v_Illeum_Mock_TA_Non-Infected
+7.26382428516915e-08	0.823339446555007	1	0.912	0.00153891381305594	STAT1	Illeum_24h_TA_Infected_v_Illeum_Mock_TA_Non-Infected
+1.00242567273231e-07	0.956891918024706	0.8	0.096	0.00212373903025068	OAS2	Illeum_24h_TA_Infected_v_Illeum_Mock_TA_Non-Infected
+1.14948129425666e-07	0.97206576570006	0.8	0.007	0.00243529107001215	CXCL10	Illeum_24h_TA_Infected_v_Illeum_Mock_TA_Non-Infected
+1.30533382627655e-07	0.725360971531101	1	0.04	0.00276548024434951	RSAD2	Illeum_24h_TA_Infected_v_Illeum_Mock_TA_Non-Infected
+1.53396720835223e-07	0.856892299650977	0.8	0.382	0.00324986292761502	CXCL11	Illeum_24h_TA_Infected_v_Illeum_Mock_TA_Non-Infected
+4.37507506250114e-07	0.754559863020104	1	0.765	0.00926903402741492	IRF1	Illeum_24h_TA_Infected_v_Illeum_Mock_TA_Non-Infected
+4.40673431771983e-07	0.705083304420339	1	0.897	0.00933610732552124	EIF2AK2	Illeum_24h_TA_Infected_v_Illeum_Mock_TA_Non-Infected
+1.40759000260644e-06	0.545487259033436	0.8	0.603	0.02982120179522	OAS1	Illeum_24h_TA_Infected_v_Illeum_Mock_TA_Non-Infected
+1.59784408837455e-06	0.630385951353829	0.8	0.798	0.0338519248563032	PNPT1	Illeum_24h_TA_Infected_v_Illeum_Mock_TA_Non-Infected
+1.71817266945175e-06	0.756159174191218	1	0.695	0.0364012061750048	SAMD9L	Illeum_24h_TA_Infected_v_Illeum_Mock_TA_Non-Infected
+2.21082778338022e-44	1.90062874987044	1	0.412	4.68385974186933e-40	IFIT3	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+2.26554774730866e-41	1.72464637472712	1	0.816	4.79978945744813e-37	ISG15	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+6.1304620784624e-40	1.30851435188986	1	0.897	1.29879969594304e-35	PARP14	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+1.35593875201932e-38	1.80448934238831	1	0.45	2.87269184002813e-34	MX1	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+8.62350372855889e-31	1.39853119573838	0.933	0.181	1.82697549993249e-26	XAF1	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+9.01287246088218e-28	0.776997361887816	1	0.547	1.9094671595625e-23	PARP9	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+2.53841399425045e-27	2.92754402573491	1	0	5.377883888219e-23	COVID19	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+3.45756505658501e-27	0.86125054266075	1	0.759	7.325197328881e-23	SP100	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+3.9045532885681e-27	0.945808346768123	1	0.375	8.27218659716039e-23	EPSTI1	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+5.38212958139802e-27	0.951830786066842	0.867	0.378	1.14025797311498e-22	DDX60L	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+2.20525272969203e-26	0.792232035915222	1	0.466	4.67204843312552e-22	OAS1	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+5.01812618542458e-25	1.24136288880335	0.933	0.062	1.06314021364405e-20	MX2	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+3.01370575098087e-24	0.980888176731307	1	0.531	6.38483700402807e-20	OAS3	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+4.68080337745013e-24	1.04338433269514	0.933	0.206	9.91675003546585e-20	DDX58	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+6.91381636009712e-24	0.638870773863573	0.933	0.362	1.46476113405018e-19	C19orf66	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+1.34341566270802e-23	1.14846867817828	1	0.938	2.84616042301321e-19	RNF213	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+1.78239246758227e-23	0.744710420281613	0.867	0.356	3.77617668181979e-19	HELZ2	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+9.25861825100511e-23	1.57337426303667	1	0.034	1.96153086265794e-18	IFIT1	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+1.28524819518103e-22	0.739883210063141	0.933	0.391	2.72292682631053e-18	DDX60	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+9.07346309184334e-21	0.771937068855685	0.933	0.309	1.92230389063793e-16	SAMD9L	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+9.27839167714798e-21	0.847468553010481	0.933	0.319	1.96572006072057e-16	SAMD9	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+4.34206377275734e-20	0.887813995902436	1	0.841	9.19909630896369e-16	STAT1	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+4.54293352288202e-20	0.624947441951602	1	0.472	9.62465896157785e-16	TMEM238	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+1.81196164332967e-19	0.828499286684058	0.933	0.672	3.83882193755823e-15	ZC3HAV1	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+2.52258832452873e-19	0.972989461888399	1	0.756	5.34435562434658e-15	IRF1	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+8.78645864708603e-19	1.34030533101924	0.933	0.156	1.86149912897165e-14	IFIT2	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+1.22137831032255e-18	0.762306424476562	0.933	0.062	2.58761208824935e-14	CMPK2	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+1.8211384843522e-18	0.684439353726189	0.867	0.228	3.85826399294858e-14	USP18	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+2.49869605565745e-17	0.814375992283886	1	0.916	5.29373746351588e-13	EIF2AK2	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+3.45271344292055e-17	0.861704972363174	0.933	0.853	7.31491870017148e-13	ZNF292	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+2.90764338182226e-16	0.622820870172447	1	0.869	6.16013326872864e-12	TRIM25	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+2.01888700012383e-15	0.594070325011801	0.933	0.609	4.27721399846234e-11	ZNFX1	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+2.14412852699596e-15	0.803336638938331	0.867	0.497	4.54255069729364e-11	IFIH1	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+2.45009968001914e-15	0.897671275444084	0.8	0.041	5.19078118208855e-11	OAS2	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+2.90387477569075e-15	0.626094481698996	0.733	0.019	6.15214909977843e-11	RSAD2	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+3.51745668989089e-15	0.589804268352541	1	0.734	7.45208374320285e-11	DTX3L	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+3.68318513030345e-15	1.02093314187275	0.933	0.884	7.8031960170609e-11	JUN	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+6.94481503770051e-15	0.687970011947246	0.733	0.016	1.47132851388723e-10	IFI44L	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+8.18091117315002e-15	0.565601031541334	0.8	0.362	1.73320784114356e-10	UBE2L6	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+1.30394932898174e-14	0.908176270717715	1	0.778	2.76254704838071e-10	TNFSF10	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+3.85218376266251e-14	0.999420531938233	0.733	0.256	8.16123651957679e-10	CXCL11	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+4.20105905611676e-14	1.38397576482118	0.733	0.019	8.90036371628896e-10	CXCL10	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+4.57909258152997e-14	0.530743951979786	0.733	0.022	9.7012655432294e-10	OASL	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+6.18068659361343e-14	1.27135876261776	1	0.806	1.30944026172294e-09	NFKBIA	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+5.66289141910819e-13	0.633201176542323	1	0.881	1.19974017605226e-08	PLSCR1	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+1.08729285996957e-12	0.687404176754714	0.667	0.038	2.30353865313154e-08	HERC5	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+7.73420238579941e-12	0.549292244010375	1	0.372	1.63856811745546e-07	SAMHD1	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+1.03552836526709e-11	0.715519917239626	0.733	0.359	2.19387039465486e-07	EGR1	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+1.73693738722875e-11	0.607899505727238	0.733	0.394	3.67987554858283e-07	ISG20	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+3.52142758919355e-11	0.571956854978272	1	0.922	7.46049649046546e-07	PNPT1	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+5.64484688221435e-11	0.783165089455104	1	0.816	1.19591726046593e-06	PPP1R15A	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+1.19485530775002e-10	0.531666005814906	0.933	0.419	2.5314204549992e-06	ZBTB20	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+3.48053800073236e-10	0.689488923016856	0.867	0.362	7.37386780835158e-06	TNFAIP3	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+4.43390404500782e-10	0.533050328131722	1	0.697	9.39366910975356e-06	FAM46A	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+1.0028499136933e-09	0.584558171656875	0.8	0.528	2.12463782715062e-05	GBP1	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+1.17542201292349e-09	1.03433793898726	0.933	0.591	2.4902490765797e-05	IFI6	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+2.52564550992632e-09	0.559068109163394	0.933	0.669	5.3508325773299e-05	NFKBIZ	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+3.1404287139171e-09	-0.504987256315924	1	1	6.65331227330477e-05	CYBA	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+4.22726352804438e-09	0.872418274193811	0.467	0.191	8.95588051051482e-05	NR1D1	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+4.49427112558156e-09	0.572969769764515	1	0.822	9.52156280665709e-05	APOL6	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+2.62127489390024e-08	0.513849746836064	0.333	0	0.000555343299021705	CCL5	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+5.74118025826968e-08	0.733334328250278	1	0.912	0.00121632644951702	KLF6	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+6.29243032884036e-08	0.544016964192421	1	0.872	0.00133311428946812	RAB3IP	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+7.66769426755673e-08	0.507835562803702	1	0.881	0.00162447770752457	TRIM56	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+8.33467372124348e-08	0.569061605531753	1	0.756	0.00176578397458264	RHOB	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+9.11452317727436e-08	0.5945711295467	0.6	0.122	0.00193100288033735	ZBTB10	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+5.37280949530504e-07	0.901358093255345	1	1	0.0113828341967533	MALAT1	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+8.46059330666148e-07	0.592056900084828	0.6	0.159	0.017924612979493	ICAM1	Illeum_24h_Cycling TA_Infected_v_Illeum_Mock_Cycling TA_Non-Infected
+2.91803254307022e-18	3.22148515485735	1	0	6.18214374574857e-14	COVID19	Illeum_24h_Inmature Enterocyte 1_Infected_v_Illeum_Mock_Inmature Enterocyte 1_Non-Infected
+8.91655459296528e-15	1.33221818222579	1	0.622	1.88906125606562e-10	MX1	Illeum_24h_Inmature Enterocyte 1_Infected_v_Illeum_Mock_Inmature Enterocyte 1_Non-Infected
+8.48844009076365e-14	0.719617125555811	1	0.465	1.79836091762919e-09	DDX58	Illeum_24h_Inmature Enterocyte 1_Infected_v_Illeum_Mock_Inmature Enterocyte 1_Non-Infected
+3.54117960863497e-12	0.604610396320207	0.875	0.71	7.50234311885404e-08	ZNFX1	Illeum_24h_Inmature Enterocyte 1_Infected_v_Illeum_Mock_Inmature Enterocyte 1_Non-Infected
+6.57800721178492e-12	0.664492707960682	0.875	0.641	1.39361660788875e-07	DDX60L	Illeum_24h_Inmature Enterocyte 1_Infected_v_Illeum_Mock_Inmature Enterocyte 1_Non-Infected
+9.72853679297112e-12	1.17666922976253	1	0.553	2.06108780495886e-07	IFIT3	Illeum_24h_Inmature Enterocyte 1_Infected_v_Illeum_Mock_Inmature Enterocyte 1_Non-Infected
+1.57735966739192e-11	1.24478994970082	1	0.189	3.34179419133652e-07	IFIT1	Illeum_24h_Inmature Enterocyte 1_Infected_v_Illeum_Mock_Inmature Enterocyte 1_Non-Infected
+4.21125627965755e-11	0.720596735024069	0.875	0.286	8.92196755408249e-07	OAS3	Illeum_24h_Inmature Enterocyte 1_Infected_v_Illeum_Mock_Inmature Enterocyte 1_Non-Infected
+4.98502927904022e-11	0.556191221980018	0.625	0.232	1.05612830305746e-06	USP18	Illeum_24h_Inmature Enterocyte 1_Infected_v_Illeum_Mock_Inmature Enterocyte 1_Non-Infected
+2.5034276716409e-10	0.899811835659062	1	0.316	5.30376186513842e-06	XAF1	Illeum_24h_Inmature Enterocyte 1_Infected_v_Illeum_Mock_Inmature Enterocyte 1_Non-Infected
+7.87304040592831e-10	1.21529976079259	1	0.972	1.66798234039997e-05	ISG15	Illeum_24h_Inmature Enterocyte 1_Infected_v_Illeum_Mock_Inmature Enterocyte 1_Non-Infected
+5.30115084608336e-09	0.747699907545231	1	0.641	0.000112310181825122	EPSTI1	Illeum_24h_Inmature Enterocyte 1_Infected_v_Illeum_Mock_Inmature Enterocyte 1_Non-Infected
+2.68142652229266e-08	0.74886127839794	1	0.417	0.000568087023012923	ATF3	Illeum_24h_Inmature Enterocyte 1_Infected_v_Illeum_Mock_Inmature Enterocyte 1_Non-Infected
+4.27600009951007e-08	0.604150971819867	0.75	0.142	0.000905913381082203	MX2	Illeum_24h_Inmature Enterocyte 1_Infected_v_Illeum_Mock_Inmature Enterocyte 1_Non-Infected
+5.17810861259949e-08	0.870520463504276	1	0.923	0.00109703409066533	JUN	Illeum_24h_Inmature Enterocyte 1_Infected_v_Illeum_Mock_Inmature Enterocyte 1_Non-Infected
+5.55874058976004e-08	1.23025475582393	0.75	0.348	0.00117767478134656	IFIT2	Illeum_24h_Inmature Enterocyte 1_Infected_v_Illeum_Mock_Inmature Enterocyte 1_Non-Infected
+1.42385025480273e-07	0.611755141075831	1	0.925	0.00301656914982507	EIF2AK2	Illeum_24h_Inmature Enterocyte 1_Infected_v_Illeum_Mock_Inmature Enterocyte 1_Non-Infected
+1.64464045166602e-07	0.60849379969137	0.75	0.191	0.00348433526089963	NEURL3	Illeum_24h_Inmature Enterocyte 1_Infected_v_Illeum_Mock_Inmature Enterocyte 1_Non-Infected
+1.88786612052946e-07	1.26157816400986	1	0.695	0.00399963316295372	NFKBIA	Illeum_24h_Inmature Enterocyte 1_Infected_v_Illeum_Mock_Inmature Enterocyte 1_Non-Infected
+2.58315770669535e-07	0.724283142154359	1	0.606	0.00547267791740476	ZC3HAV1	Illeum_24h_Inmature Enterocyte 1_Infected_v_Illeum_Mock_Inmature Enterocyte 1_Non-Infected
+9.88345019375111e-07	0.518716244250712	1	0.665	0.0209390775804811	JUNB	Illeum_24h_Inmature Enterocyte 1_Infected_v_Illeum_Mock_Inmature Enterocyte 1_Non-Infected
+1.07846461441729e-06	0.962028308249949	0.75	0.097	0.0228483513210447	RSAD2	Illeum_24h_Inmature Enterocyte 1_Infected_v_Illeum_Mock_Inmature Enterocyte 1_Non-Infected
+1.17088888481272e-06	0.628020796147817	0.875	0.398	0.0248064519136422	NR1D1	Illeum_24h_Inmature Enterocyte 1_Infected_v_Illeum_Mock_Inmature Enterocyte 1_Non-Infected
+1.3532550258347e-06	0.840750161453902	0.75	0.049	0.0286700609773339	HERC5	Illeum_24h_Inmature Enterocyte 1_Infected_v_Illeum_Mock_Inmature Enterocyte 1_Non-Infected
+2.10516596233459e-06	0.557665969822701	1	0.688	0.0446000460780207	NFKBIZ	Illeum_24h_Inmature Enterocyte 1_Infected_v_Illeum_Mock_Inmature Enterocyte 1_Non-Infected
