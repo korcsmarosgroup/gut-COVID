@@ -103,25 +103,3 @@ get_degs(ileum_inf, 'Illeum_24h_', "_Infected", 'Illeum_Mock_', "_Non-Infected",
 
 # DEGS between 24h bystander and mock
 get_degs(ileum_inf, 'Illeum_24h_', "_Bystander", 'Illeum_Mock_', "_Non-Infected", "unfilt_degs_ileum_24h_bystander_v_mock_all_cells.txt", "filt_degs_ileum_24h_bystander_v_mock_all_cells_padj0.05_lfc0.5.txt")
-
-
-##### Other useful #####
-
-# Cell types annotation data
-#ileum_H_T$CellTypes
-
-# Timepoint of samples
-#ileum_H_T$Cond
-
-# Timepoint of samples
-#ileum_H_T$State
-
-# to get counts data use @assays$RNA@counts, But for the normalised data you would use @assays$RNA@data.
-
-# Counts data - use RNA not SCT https://www.biostars.org/p/395951/
-#ileum_H_T@assays[["RNA"]]@counts
-
-## Get only infected 24h cells
-#ileum_inf <- subset(ileum, subset = State == "Infected")
-#ave_exp_inf <- AverageExpression(ileum_inf, assays="RNA")
-
