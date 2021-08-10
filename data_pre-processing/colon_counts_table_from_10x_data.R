@@ -102,24 +102,3 @@ get_degs(colon_inf, 'Colon_24h_', "_Infected", 'Colon_Mock_', "_Non-Infected", "
 # DEGS between 24h bystander and mock
 get_degs(colon_inf, 'Colon_24h_', "_Bystander", 'Colon_Mock_', "_Non-Infected", "unfilt_degs_colon_24h_bystander_v_mock_all_cells.txt", "filt_degs_colon_24h_bystander_v_mock_all_cells_padj0.05_lfc0.5.txt")
 
-
-##### Other useful #####
-
-# Cell types annotation data
-#Colon_H_T$CellTypes
-
-# Timepoint of samples
-#Colon_H_T$Cond
-
-# Timepoint of samples
-#Colon_H_T$State
-
-# to get counts data use @assays$RNA@counts, But for the normalised data you would use @assays$RNA@data.
-
-# Counts data - use RNA not SCT https://www.biostars.org/p/395951/
-#Colon_H_T@assays[["RNA"]]@counts
-
-## Get only infected 24h cells
-#colon_inf <- subset(colon, subset = State == "Infected")
-#ave_exp_inf <- AverageExpression(colon_inf, assays="RNA")
-
