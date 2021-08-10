@@ -1,0 +1,482 @@
+p_val	avg_logFC	pct.1	pct.2	p_val_adj	gene	comparison
+8.61213337582513e-10	2.22287648241993	1	0.006	1.75902824201228e-05	COVID19	Colon_24h_Enterocyte 1_Infected_v_Colon_Mock_Enterocyte 1_Non-Infected
+5.76354860424686e-07	1.27154742269241	0.75	0.632	0.0117720480241742	PLCG2	Colon_24h_Enterocyte 1_Infected_v_Colon_Mock_Enterocyte 1_Non-Infected
+1.16395678286449e-06	2.84276458498511	1	0.004	0.0237738172900071	COVID19	Colon_24h_Stem Cells_Infected_v_Colon_Mock_Stem Cells_Non-Infected
+6.05276364960048e-21	4.14240590100483	1	0.002	1.2362769754309e-16	COVID19	Colon_24h_Enterocyte 2_Infected_v_Colon_Mock_Enterocyte 2_Non-Infected
+2.38154021047037e-13	1.79079730588264	1	0.789	4.86429587988572e-09	NFKBIA	Colon_24h_Enterocyte 2_Infected_v_Colon_Mock_Enterocyte 2_Non-Infected
+8.51365878341818e-10	0.802577930027774	0.727	0.545	1.73891480651316e-05	RCAN1	Colon_24h_Enterocyte 2_Infected_v_Colon_Mock_Enterocyte 2_Non-Infected
+1.65293309249952e-09	-0.656163456818272	1	1	3.37611584143027e-05	CLDN7	Colon_24h_Enterocyte 2_Infected_v_Colon_Mock_Enterocyte 2_Non-Infected
+1.85249307609542e-08	0.839825990086324	0.909	0.443	0.00037837171079249	TNFAIP3	Colon_24h_Enterocyte 2_Infected_v_Colon_Mock_Enterocyte 2_Non-Infected
+5.8755012801772e-08	1.49855363310442	1	0.871	0.00120007113647619	JUN	Colon_24h_Enterocyte 2_Infected_v_Colon_Mock_Enterocyte 2_Non-Infected
+1.6341785786364e-07	0.80726266144002	0.727	0.572	0.00333780974686484	NFKBIZ	Colon_24h_Enterocyte 2_Infected_v_Colon_Mock_Enterocyte 2_Non-Infected
+2.41450804095665e-07	-0.672462848403651	1	1	0.00493163267365397	EPCAM	Colon_24h_Enterocyte 2_Infected_v_Colon_Mock_Enterocyte 2_Non-Infected
+2.44334327322457e-07	0.966246495060015	0.909	0.791	0.00499052863556119	IER2	Colon_24h_Enterocyte 2_Infected_v_Colon_Mock_Enterocyte 2_Non-Infected
+2.77183526886116e-07	0.872521354855852	0.727	0.356	0.00566147353664893	IFIT3	Colon_24h_Enterocyte 2_Infected_v_Colon_Mock_Enterocyte 2_Non-Infected
+2.945139333988e-07	-0.794403050024645	1	1	0.0060154470896705	CD63	Colon_24h_Enterocyte 2_Infected_v_Colon_Mock_Enterocyte 2_Non-Infected
+3.77187182984226e-07	0.974406873183693	0.909	0.303	0.00770404821245281	IFIT2	Colon_24h_Enterocyte 2_Infected_v_Colon_Mock_Enterocyte 2_Non-Infected
+4.09870835512165e-07	-0.768122289598211	1	1	0.00837161181533596	HLA-A	Colon_24h_Enterocyte 2_Infected_v_Colon_Mock_Enterocyte 2_Non-Infected
+6.534699728627e-07	1.13476459423743	1	0.689	0.0133471241957206	ATF3	Colon_24h_Enterocyte 2_Infected_v_Colon_Mock_Enterocyte 2_Non-Infected
+7.15393980765063e-07	-0.705793898004236	1	1	0.0146119220571264	TMBIM6	Colon_24h_Enterocyte 2_Infected_v_Colon_Mock_Enterocyte 2_Non-Infected
+8.12443074070695e-07	0.975076484575998	0.273	0.259	0.016594149787894	NR0B2	Colon_24h_Enterocyte 2_Infected_v_Colon_Mock_Enterocyte 2_Non-Infected
+1.92524448511554e-06	0.846230633451479	0.727	0.152	0.0393231186084849	MX2	Colon_24h_Enterocyte 2_Infected_v_Colon_Mock_Enterocyte 2_Non-Infected
+2.3357086844839e-06	-0.572192851902707	1	1	0.0477068498805836	B2M	Colon_24h_Enterocyte 2_Infected_v_Colon_Mock_Enterocyte 2_Non-Infected
+3.67831109114597e-30	2.65177946944356	1	0.008	7.51295040366565e-26	COVID19	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+3.22991776626002e-23	1.44230485910388	1	0.287	6.59710703758609e-19	IFIT3	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+1.14684198213749e-20	1.0849931526267	0.952	0.238	2.34242474851582e-16	XAF1	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+1.0820289976111e-18	1.51748088362614	1	0.361	2.21004422762067e-14	MX1	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+3.94721234576153e-17	0.866461274753163	0.857	0.07	8.06218121621793e-13	MX2	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+1.01409220476465e-15	-1.10796842420541	1	1	2.0712833282318e-11	KRT20	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+1.13639959426439e-15	1.34064708479071	1	0.779	2.32109617128503e-11	NFKBIA	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+8.85185352702273e-15	1.21275227980192	0.857	0.098	1.80799108289439e-10	IFIT1	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+3.77180201578707e-14	1.45000223117808	0.619	0.012	7.70390561724509e-10	CXCL10	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+6.08444854933629e-14	0.696699767555424	1	0.352	1.24274861620194e-09	OAS3	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+6.78981882137512e-14	0.514744806144333	0.905	0.156	1.38682049426587e-09	USP18	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+1.13674814349964e-13	0.596582019265126	0.905	0.426	2.32180808309801e-09	PARP9	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+4.17802863025113e-13	-0.800620495279574	1	1	8.53362347728794e-09	EPCAM	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+1.10969661777171e-12	-0.680826218767639	1	0.992	2.26655534179873e-08	LIMA1	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+1.58171558720967e-12	0.898700330527239	1	0.779	3.23065408687575e-08	IRF1	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+2.26957338529392e-12	0.564666882965437	0.714	0.074	4.63560363946283e-08	OAS2	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+2.96139102160784e-12	0.553041812535983	0.857	0.414	6.04864116163401e-08	HELZ2	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+3.43498932214115e-12	-0.798105943780325	0.952	0.992	7.01596569047331e-08	ITM2C	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+3.48124221347034e-12	0.755040673673753	0.952	0.787	7.11043722101317e-08	PARP14	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+5.85927770122187e-12	1.16067155546556	0.905	0.418	1.19675747047457e-07	CXCL11	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+9.70065851609451e-12	0.71399299652633	0.905	0.705	1.9813595019123e-07	STAT1	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+9.92976508239671e-12	0.626603489997626	1	0.754	2.02815451807953e-07	EIF2AK2	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+1.3600683953632e-11	1.05364804729025	0.952	0.861	2.77793969752933e-07	ISG15	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+2.46094228764397e-11	0.876760744785346	1	0.664	5.0264746225128e-07	IFITM3	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+4.15792880175472e-11	-0.859904020880674	0.905	0.992	8.49256957758402e-07	TSPAN1	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+1.24873930652783e-10	-0.656716031818834	0.952	0.988	2.55055003358309e-06	PLS1	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+2.66602708405229e-10	1.10261552121313	0.714	0.27	5.44536031917681e-06	IFIT2	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+4.8015910511041e-10	-0.590283646894007	1	1	9.80724972188013e-06	KRT19	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+5.70804544309374e-10	0.681836116088088	0.952	0.68	1.1658682817519e-05	CEBPD	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+8.88923296848766e-10	0.764220024970928	1	0.84	1.81562583381361e-05	NAP1L1	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+1.00365990104843e-09	-0.643187717748893	1	1	2.04997534789141e-05	CD63	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+1.06390320440506e-09	-0.858816009947243	1	1	2.17302229499734e-05	FXYD3	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+1.34040782564308e-09	0.546100281128828	0.952	0.344	2.737782983876e-05	TNFAIP3	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+1.38584523693459e-09	0.755230460895155	1	1	2.83058889643891e-05	RPL11	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+3.29491515819956e-09	0.598402582708687	0.81	0.283	6.7298642106226e-05	DDX58	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+3.93041336029433e-09	-0.691174092639512	0.905	0.93	8.02786928840116e-05	CDH17	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+6.39297932386507e-09	-0.555424715421015	1	0.967	0.000130576602689944	DSG2	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+7.60531406594435e-09	0.763273060885736	1	0.992	0.000155338539796913	RPL21	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+9.44450239805117e-09	-0.696134200477292	1	1	0.000192903961480195	CLDN7	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+9.81460171315096e-09	0.738800644326998	1	0.996	0.000200463239991108	RPL27A	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+1.6338562567149e-08	-0.900497404124023	0.905	0.947	0.000333715140434017	MALL	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+2.5583223410761e-08	0.63490649513052	1	0.898	0.000522537338164794	RNF213	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+2.55869310560776e-08	0.675067341566674	1	0.996	0.000522613066820385	RPS27	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+2.79814562053192e-08	0.702628445423833	1	0.549	0.000571521242993645	CXCL2	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+2.90795622841933e-08	0.829515910140731	1	1	0.000593950059654649	RPS12	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+4.35955660932387e-08	0.736863607014524	1	0.803	0.000890439437454401	HIST1H4C	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+6.45838066933738e-08	-0.882507855557454	1	1	0.00131912425171216	LGALS3	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+7.40199369581543e-08	-0.672521913137037	0.905	0.963	0.0015118572123703	TMEM59	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+7.46113903713828e-08	0.669568666114631	1	0.996	0.00152393764833549	RPL18A	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+7.53401351918023e-08	0.526007173768293	0.952	0.443	0.00153882226129256	SAMD9	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+9.60935874235231e-08	-0.528599421753242	0.952	0.943	0.00196271152312546	SLC44A4	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+1.34142220493163e-07	0.501953631132263	1	0.594	0.00273985485357286	CCDC85B	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+1.37352192071112e-07	0.589120169360598	0.905	0.512	0.00280541852305246	UBE2S	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+1.43659457500025e-07	-0.873293916012109	0.905	0.943	0.00293424441943801	ATP1B3	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+1.51049834626839e-07	-0.539085737073981	0.952	0.992	0.00308519287225319	TSPAN3	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+1.71121444620332e-07	-0.641953150853816	0.905	0.984	0.00349515550637029	TMBIM6	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+2.25276958160995e-07	0.65431475528685	1	0.996	0.00460128187043832	RPS27A	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+2.32548437824135e-07	0.652925474594398	1	0.992	0.00474980184255797	RPL37	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+2.33105399924181e-07	-0.576907013520051	1	0.996	0.00476117779345139	ANXA2	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+2.56889730481424e-07	-1.07601241696882	0.81	0.955	0.00524697274508309	EMP1	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+2.59384027767069e-07	0.57861258102586	1	0.996	0.00529791876714238	RPL36	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+2.61520390936122e-07	0.631628607453084	1	0.455	0.00534155398487029	CXCL8	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+2.61550694146581e-07	0.60103850001929	1	0.992	0.00534217292794391	RPL14	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+3.17572989044526e-07	0.686783210046267	1	0.98	0.00648642830123445	RPSA	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+3.79237095119316e-07	-0.572484495770421	0.714	0.926	0.00774591766781204	PARP4	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+5.10067641830929e-07	-0.658104151418531	0.238	0.783	0.0104181315843967	DHRS9	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+5.86364592761309e-07	0.703856490174295	1	0.746	0.0119764968071497	CXCL3	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+5.93860405019923e-07	-0.565992666617825	0.905	0.963	0.0121295987725319	BZW1	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+7.21165784469196e-07	0.629684152085594	1	0.988	0.0147298111477833	RPS15A	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+7.50237226391721e-07	-0.659071277165485	1	0.939	0.0153235953490509	DSC2	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+8.36496162931763e-07	0.854349179406159	1	0.623	0.0170854341278813	LTB	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+8.50231220631531e-07	0.65610269762524	1	1	0.017365972681399	RPLP1	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+8.56893973687576e-07	0.545093601270204	0.905	0.574	0.0175020594125687	WDR43	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+8.57157786667834e-07	0.644052576111745	0.619	0.143	0.0175074477926905	MT2A	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+8.84129495725232e-07	0.54427372783251	0.762	0.275	0.0180583449501879	EPSTI1	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+9.5073842275041e-07	0.581544125052638	1	0.963	0.0194188322846771	RPL38	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+1.09376470770083e-06	-0.586161313580115	0.905	0.93	0.0223401441547895	TMEM45B	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+1.11251533815308e-06	1.06419956857305	0.857	0.344	0.0227231257817767	CCL2	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+1.16749692557488e-06	-0.55108469726624	1	0.967	0.023846124704867	AHNAK	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+1.26571987818868e-06	0.633827822849345	1	0.996	0.0258523285120037	RPL7A	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+1.28662611223537e-06	0.608942546708199	1	0.996	0.0262793383424075	RPS28	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+1.30864308239225e-06	0.82403517887379	1	0.746	0.0267290349578617	TNFAIP2	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+1.31815769921871e-06	-0.581718182733216	0.952	0.898	0.0269233710065422	IDI1	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+1.34889756785297e-06	0.522414698371776	1	0.73	0.0275512328233969	ETS2	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+1.49587743414366e-06	0.596834723909215	1	1	0.0305532965923843	RPL28	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+1.58407952985729e-06	-0.748267204263818	1	1	0.0323548243973351	PIGR	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+1.60053443798004e-06	-0.686715541019352	0.905	0.926	0.0326909158957423	CA12	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+1.68633988627471e-06	-0.783450919569	0.905	0.955	0.0344434921771609	PTTG1IP	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+1.77339684403474e-06	0.640548637384321	1	0.561	0.0362216305394095	IFI6	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+1.78482899757683e-06	-0.642071613126919	1	1	0.0364551322755068	FTH1	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+1.82424680332496e-06	-0.504185857336439	1	0.992	0.0372602409579123	MGST3	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+1.93952279900634e-06	-0.551347981587976	0.952	0.959	0.0396147531697045	PRR13	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+1.94140838812808e-06	-0.637076225520754	1	0.947	0.0396532663275161	TXNRD1	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+1.94625625388717e-06	0.721894151391717	1	1	0.0397522839856454	RPS2	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+1.99211208505517e-06	-0.5321364060664	0.952	0.988	0.0406888893372518	CALM2	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+2.18127858012805e-06	-1.19332048512631	1	1	0.0445526149991155	FABP1	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+2.43317784844606e-06	-0.760075092802494	0.857	0.93	0.0496976575545108	CES2	Colon_24h_TA_Infected_v_Colon_Mock_TA_Non-Infected
+9.63995863749471e-13	2.03959550876339	1	0.015	1.96896155170829e-08	COVID19	Colon_24h_Cycling TA_Infected_v_Colon_Mock_Cycling TA_Non-Infected
+2.35870289898792e-08	0.89502488319355	0.667	0.205	0.000481765067118283	IFIT3	Colon_24h_Cycling TA_Infected_v_Colon_Mock_Cycling TA_Non-Infected
+1.866023663614e-07	0.540177031500267	1	0.308	0.0038113533329316	PARP9	Colon_24h_Cycling TA_Infected_v_Colon_Mock_Cycling TA_Non-Infected
+1.89274093523512e-07	1.17828776161287	0.833	0.304	0.00386592336021774	MX1	Colon_24h_Cycling TA_Infected_v_Colon_Mock_Cycling TA_Non-Infected
+7.99956274779883e-15	1.37042718718958	0.714	0.285	1.63391069123791e-10	NR1D1	Colon_24h_Inmature Enterocyte 1_Infected_v_Colon_Mock_Inmature Enterocyte 1_Non-Infected
+8.63143889763689e-15	3.87027396183003	1	0.005	1.76297139484234e-10	COVID19	Colon_24h_Inmature Enterocyte 1_Infected_v_Colon_Mock_Inmature Enterocyte 1_Non-Infected
+3.24604972860718e-09	1.52469362284958	1	0.638	6.63005657068017e-05	NFKBIA	Colon_24h_Inmature Enterocyte 1_Infected_v_Colon_Mock_Inmature Enterocyte 1_Non-Infected
+1.18990517838524e-08	1.1293596223337	1	0.669	0.000243038132685185	NEDD4L	Colon_24h_Inmature Enterocyte 1_Infected_v_Colon_Mock_Inmature Enterocyte 1_Non-Infected
+2.12678419629011e-07	0.893261263136727	0.429	0.114	0.00434395672092256	HIST1H1D	Colon_24h_Inmature Enterocyte 1_Infected_v_Colon_Mock_Inmature Enterocyte 1_Non-Infected
+4.43189329892888e-07	1.18378431469498	1	0.913	0.00905214206306223	JUN	Colon_24h_Inmature Enterocyte 1_Infected_v_Colon_Mock_Inmature Enterocyte 1_Non-Infected
+1.03471828858755e-06	0.851965953617801	0.143	0.169	0.0211341210444007	CCL2	Colon_24h_Inmature Enterocyte 1_Infected_v_Colon_Mock_Inmature Enterocyte 1_Non-Infected
+1.20048994109723e-06	0.838165967959706	1	0.498	0.0245200070469109	CREBBP	Colon_24h_Inmature Enterocyte 1_Infected_v_Colon_Mock_Inmature Enterocyte 1_Non-Infected
+1.97350614496092e-06	0.759176302491195	0.714	0.563	0.0403088630108268	DUSP8	Colon_24h_Inmature Enterocyte 1_Infected_v_Colon_Mock_Inmature Enterocyte 1_Non-Infected
+2.13046236115727e-06	0.831463392807881	0.429	0.234	0.0435146937266372	FABP5	Colon_24h_Inmature Enterocyte 1_Infected_v_Colon_Mock_Inmature Enterocyte 1_Non-Infected
+5.84242347084054e-52	3.82083327887548	1	0.01	1.19331499391918e-47	COVID19	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.18373952775367e-44	2.29198505884623	1	0.798	4.46028798543688e-40	NFKBIA	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.95087741534464e-43	2.0625025711765	1	0.683	3.98466712084143e-39	IRF1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.40628937440739e-29	2.14574021198641	1	0.841	2.8723460472271e-25	JUN	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+6.5070330759429e-28	-1.22981623821833	1	1	1.32906150576134e-23	KRT20	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+3.10627550654522e-25	-1.31844537812613	0.872	0.99	6.34456772211861e-21	TSPAN1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+3.1717110160889e-25	-1.30320074358515	0.83	0.99	6.47821975036157e-21	CEACAM5	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+3.93535378978781e-25	1.5297934722447	0.957	0.534	8.0379601156416e-21	TNFAIP3	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+5.27482696905236e-25	-0.87936633942549	0.979	0.981	1.07738340842894e-20	CLDN7	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.46030103812638e-23	-1.20542038531256	1	1	2.98266487037312e-19	ACTB	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.99976182939899e-23	1.30985357197126	0.894	0.534	6.12701353654743e-19	BHLHE41	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.970930696209e-22	1.3965453848481	1	0.784	4.02562594700689e-18	IER2	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+8.74324326369481e-21	-1.03872533934675	0.681	0.952	1.78580743660966e-16	DSG2	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+8.89312081498265e-21	-1.13185929901039	0.766	0.942	1.81641992646021e-16	TMBIM6	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.35286360640863e-20	1.55240504022535	0.979	0.697	4.80572391608962e-16	PPP1R15A	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.95631499792762e-20	-1.19139581381225	0.957	0.971	6.03827338326716e-16	CD63	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+8.19278442686963e-20	0.930202382978329	0.745	0.471	1.67337621918812e-15	RBBP6	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.57905773324714e-19	-1.26610108447273	0.872	0.995	3.22522542015729e-15	ANXA2	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+4.15509476947493e-19	-1.08582172708273	0.723	0.966	8.48678106665255e-15	CYBA	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+6.51468022900405e-19	-0.913540278071512	0.851	0.995	1.33062343677408e-14	OAZ1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+7.62936288638096e-19	-0.949734048967426	1	1	1.55829736954331e-14	TPM1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+9.30042222451756e-19	1.27405433449452	0.681	0.197	1.89961123935771e-14	NR1D1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.06748403998047e-18	-0.992192937198836	1	1	4.22283615166012e-14	PIGR	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+6.8340594287776e-17	-0.850294730031209	0.851	0.976	1.39585663832782e-12	TPM4	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+9.03402316326178e-17	-0.983382910612756	1	1	1.84519923109622e-12	B2M	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.14242079417905e-16	1.02034981071952	0.915	0.601	2.33339447211071e-12	REL	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.21465083371779e-16	-0.948127486507339	1	0.995	2.48092432786858e-12	EPCAM	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.3221211066621e-16	-0.857711273223624	0.66	0.933	2.70043236035734e-12	TSPAN3	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.69759567136544e-16	-1.44550117717963	0.723	0.933	5.50983915876391e-12	TXNRD1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+3.25782871216578e-16	1.06357844922561	0.66	0.332	6.6541151445986e-12	ZC3H12C	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+7.17372200558876e-16	0.859214275760726	0.787	0.49	1.4652327196415e-11	ZFP36	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+7.67301461435565e-16	0.87402148398959	0.872	0.495	1.56721323498214e-11	EPC1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+9.30204231447217e-16	1.12293983854982	0.979	0.62	1.89994214273094e-11	CXCL2	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.45105935311423e-15	0.800749524400493	0.745	0.5	2.96378872873582e-11	SETD5	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.46995347596638e-15	1.2511049449938	0.681	0.37	3.00237997466132e-11	ZBTB10	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.47961762369871e-15	0.997262904892672	0.957	0.726	3.02211899640462e-11	RSRC2	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.49898990643081e-15	-0.855187373983849	0.596	0.894	3.06168688388493e-11	APLP2	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.99904827287252e-15	-0.892429401245692	0.532	0.913	6.12555609734212e-11	SLC44A4	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+3.50652780997631e-15	-1.04711725997403	0.723	0.942	7.16208305187662e-11	MUC1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+8.7381089208727e-15	0.868182825933177	0.787	0.582	1.78475874708825e-10	RSF1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+9.08169357121533e-15	-0.675279504077192	1	1	1.85493591192073e-10	TMSB4X	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+9.42512908326339e-15	-0.885877812483585	0.404	0.894	1.92508261525655e-10	BSG	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+9.82957426873049e-15	0.899085781226119	0.851	0.639	2.0076905443882e-10	CHD1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.06029974010597e-14	0.984928011846144	0.851	0.591	2.16566221916645e-10	CHD2	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.27668167683098e-14	-0.711142917560219	0.894	0.976	2.60762232492729e-10	PLS1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.58431969033433e-14	-0.896663370868733	0.787	0.976	3.23597296750787e-10	HSPB1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.59529274191985e-14	0.759701702625338	0.851	0.567	3.25838542537129e-10	SUZ12	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.90841077581852e-14	-0.805157188977438	0.979	1	3.89792900960933e-10	MYL6	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.24052977099433e-14	1.2873523374192	0.915	0.587	4.57628205725591e-10	HES1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.73905453209633e-14	0.66784733581898	0.851	0.567	5.59451888180676e-10	XPO1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+3.04153583605594e-14	-1.014282516079	0.553	0.909	6.21233694514426e-10	ABCB1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+3.35505301213721e-14	-0.809509144882695	0.596	0.952	6.85269577729026e-10	CST3	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+3.45143366592493e-14	0.796587166377035	0.809	0.438	7.04955326265167e-10	CNOT4	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+3.46440267561842e-14	0.921494938659039	0.617	0.284	7.07604246495063e-10	UVRAG	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+4.16067060614105e-14	-0.835711832977643	0.915	0.995	8.4981697130431e-10	CYSTM1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+4.37189310903747e-14	-0.899694483829799	0.787	0.976	8.92959167520902e-10	EDF1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+4.7126830573748e-14	0.83044800363833	0.915	0.635	9.62565514468802e-10	PIM3	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+4.96325909941187e-14	0.779805368037048	0.702	0.399	1.01374567105488e-09	GATA6	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+5.21635790973426e-14	0.897223739757023	0.894	0.62	1.06544110306322e-09	NFKBIZ	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+5.7943514171471e-14	-0.999392339210614	1	0.995	1.1834962769523e-09	IFI27	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+7.59001646231503e-14	-1.06156827846914	0.532	0.827	1.55026086242784e-09	COPB1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+7.624970501149e-14	0.99787861283395	1	0.832	1.55740022485968e-09	CXCL3	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+8.07053653811523e-14	0.81541636115041	0.83	0.673	1.64840708791004e-09	KMT2E	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+8.91634132384504e-14	-1.07889582952674	0.957	0.99	1.82116271539535e-09	HLA-B	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+9.49923939433283e-14	0.898029302729512	0.638	0.37	1.94021964629248e-09	ZBTB20	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.05946460785465e-13	0.82700844935513	0.66	0.404	2.16395646154313e-09	CYLD	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.12555477903519e-13	-0.727267718573799	1	0.986	2.29894563617939e-09	EIF1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.38786893896826e-13	0.641955146232493	0.723	0.582	2.83472230784267e-09	NRIP1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.40878189289878e-13	0.805357871066849	0.617	0.183	2.87743701624576e-09	ARRDC3	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.48470327983801e-13	0.892102628677889	0.957	0.784	3.03250644906914e-09	TXNIP	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.66620952167791e-13	-0.904000709950551	0.809	0.947	3.40323294802714e-09	ITGB1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.7302089524318e-13	-0.75688244331296	0.894	0.99	3.53395178534196e-09	YWHAZ	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.64188146315937e-13	-0.653256768869467	0.766	0.923	5.39604288850301e-09	TAX1BP1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+3.08790556573394e-13	0.788202460543753	0.745	0.486	6.30704711801158e-09	NSRP1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+3.21023877135032e-13	-1.01944071298825	0.702	0.904	6.55691269048302e-09	CD59	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+3.63275543264635e-13	0.80697381626502	0.723	0.442	7.41990297118018e-09	ESF1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+3.72907215774798e-13	-0.691217386163891	0.66	0.889	7.61662988220024e-09	PSAP	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+3.90681922521588e-13	-1.00085337298396	0.957	0.976	7.97967826750343e-09	HLA-C	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+4.17345954474377e-13	-0.858063830719752	1	1	8.52429112013915e-09	HLA-A	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+4.38696776342549e-13	0.797528288167778	0.766	0.375	8.96038165679657e-09	ODC1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+5.07196163983929e-13	0.669551701934721	0.532	0.332	1.03594816493718e-08	KLF10	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+6.22773749050942e-13	-0.73162940340733	0.83	0.962	1.27201538243655e-08	TPM3	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+6.60727589380456e-13	1.06935921574362	0.702	0.322	1.34953610130958e-08	EGR1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+6.76379744137769e-13	-0.663624894008658	0.723	0.942	1.38150562740139e-08	CTNNA1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+7.73255731078587e-13	-0.571348384541439	1	0.995	1.57937483072801e-08	CALM1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+7.81036072203878e-13	-0.924302479202582	0.383	0.851	1.59526617747642e-08	CD55	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+7.98314560222954e-13	-0.71937814099077	1	1	1.63055748925538e-08	TSPAN8	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.40548124761903e-12	-0.750258243019015	0.936	0.971	2.87069544826187e-08	MYL12A	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.42614838818814e-12	-1.0152764926848	0.596	0.827	2.91290808287427e-08	ANXA1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.6373104835095e-12	0.888492046923733	0.851	0.663	3.34420666256815e-08	ARID4B	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.74019069271608e-12	-0.789212165886724	0.723	0.918	3.5543394898726e-08	ANXA3	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.29045490343667e-12	-0.973552671888763	0.936	0.99	4.67825414026941e-08	S100A11	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.34966743446923e-12	1.29040812563475	0.851	0.601	4.79919573490339e-08	ZNF292	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.54701270536724e-12	0.906771215134675	0.681	0.428	5.20227345071259e-08	BHLHE40	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+3.02858627649527e-12	0.783822408290697	0.745	0.562	6.1858874697416e-08	NFKB1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+3.66220951999774e-12	0.76151869481753	0.809	0.495	7.48006294459538e-08	C6orf222	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+4.78122035672152e-12	0.701802519639235	0.723	0.438	9.7656425786037e-08	BCL3	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+4.86347158751068e-12	-0.787506951439476	1	1	9.93364071749056e-08	FTH1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+5.97794401880458e-12	0.840641507087436	0.83	0.611	1.22099506584084e-07	CEP350	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+7.32374139883022e-12	0.70796239940233	0.745	0.519	1.49587418071107e-07	NFAT5	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+8.61497506242798e-12	0.883471828242888	0.83	0.553	1.75960865650091e-07	TIPARP	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+9.25724411322666e-12	-0.7560398623252	0.872	0.962	1.89079211012655e-07	PFN1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+9.74759607876608e-12	1.03299138379284	0.915	0.721	1.99094649908797e-07	NEDD4L	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.05270588503877e-11	-0.77383283868451	0.596	0.942	2.15015177019169e-07	CTSD	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.12763859920066e-11	-0.952300403394555	1	0.995	2.30320183886736e-07	IL32	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.13006785237059e-11	-0.71012186584544	0.681	0.909	2.30816358846694e-07	DYNLT1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.19454059808571e-11	0.781459703049586	0.872	0.635	2.43984917159006e-07	BAZ1A	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.27582923928065e-11	1.14885958322443	0.532	0.274	2.60588122123072e-07	NAV2	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.41765920935605e-11	-0.697943617935151	0.915	0.986	2.89556893510974e-07	CFL1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.57708619241861e-11	-0.711100142620009	0.915	0.938	3.221198548015e-07	ITM2C	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.58038412167711e-11	-0.61955599865169	1	1	3.2279345685255e-07	S100A6	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.62709517088449e-11	0.613239170670318	0.468	0.389	3.32334188653157e-07	CTDSPL2	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.96550128465711e-11	-0.705181081984243	0.617	0.875	4.01453637391214e-07	ERO1A	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.08276449915975e-11	-0.843974067727424	0.489	0.875	4.25404648953379e-07	TMEM59	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.20117099093131e-11	-0.57113446664262	0.83	0.981	4.4958917489772e-07	ARPC2	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.60488609181066e-11	-0.623684122687877	0.83	0.909	5.32047984252327e-07	MAL2	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.70781204764834e-11	0.689071765048719	0.915	0.62	5.53070610732173e-07	BRD2	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+3.08118436174357e-11	0.996996987766129	0.957	0.788	6.29331905886124e-07	TNFAIP2	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+3.24694257351026e-11	-0.63450196001845	0.979	0.995	6.63188020639471e-07	SERF2	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+3.29845633617778e-11	1.00625756578857	0.851	0.745	6.73709706664312e-07	SPEN	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+3.30494755511759e-11	0.860343199119263	0.638	0.337	6.75035538132768e-07	HIVEP2	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+3.74251496065979e-11	-0.754346367870835	0.894	0.962	7.64408680714763e-07	RRBP1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+3.74856268512143e-11	-0.627140565457564	0.936	0.976	7.65643928436052e-07	EZR	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+4.03515420297509e-11	0.822461080622162	0.723	0.495	8.24180245957662e-07	PDE4D	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+4.19168118019981e-11	0.6876893465707	0.702	0.486	8.56150881055811e-07	TNF	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+4.20458106311059e-11	-0.717575179794595	1	0.995	8.58785682140337e-07	MYL12B	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+4.4276599757065e-11	-0.593411955030917	0.638	0.788	9.04349550038053e-07	ADAM9	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+4.56288446152146e-11	-0.74097100798706	0.404	0.822	9.31969151265759e-07	GALNT3	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+4.95146419486925e-11	0.681741511553228	0.511	0.192	1.01133656180204e-06	DENND4A	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+5.09155888254429e-11	-0.617359403561376	0.681	0.865	1.03995090175967e-06	CAP1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+5.51999207037371e-11	-0.841930939010158	0.915	0.918	1.12745838037383e-06	GPRC5A	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+5.78538069370259e-11	-0.712687149377944	0.426	0.788	1.18166400668875e-06	ERP29	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+6.79238119750857e-11	0.773120728734234	0.83	0.615	1.38734385959113e-06	YTHDC1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+8.28759567385602e-11	0.593195296177747	0.702	0.38	1.69274141638509e-06	SFSWAP	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+9.53776685952534e-11	0.719356812123514	0.894	0.611	1.94808888105805e-06	CHD9	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.01065456315928e-10	-0.919415603649175	0.915	0.99	2.06426194525284e-06	SH3BGRL3	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.02501586378293e-10	-0.774908348871524	0.745	0.928	2.09359490177664e-06	COL17A1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.11818527777044e-10	-0.742740086401849	0.681	0.928	2.28389342984613e-06	SFN	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.1208794915563e-10	-0.77607844157669	0.872	0.981	2.28939636150374e-06	ASS1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.23787762975192e-10	-0.739073762484709	0.66	0.899	2.52836505876829e-06	CTSS	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.28619872908944e-10	-1.29699189684139	0.787	0.942	2.62706090416518e-06	S100P	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.42876026566978e-10	-0.661705618435859	0.617	0.909	2.91824284263052e-06	CD46	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.49342062028494e-10	0.62153949111729	0.915	0.63	3.05031161693199e-06	BRD4	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.504837451238e-10	0.766802779596105	0.809	0.62	3.07363049415363e-06	KMT2A	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.58463095554202e-10	-0.552692525245573	1	1	3.23660872669458e-06	TMSB10	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.59071212285778e-10	0.702242886936204	0.404	0.096	3.24902951093701e-06	GEM	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.68211549077101e-10	0.59484140521742	0.851	0.659	3.4357208898998e-06	ACSL3	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.88810177285544e-10	0.543911785418491	0.383	0.053	3.85644787105723e-06	PER1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.05218037071146e-10	0.851529599312012	0.489	0.168	4.19157840717815e-06	SRFBP1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.1775021845529e-10	-0.573052302741484	0.745	0.962	4.4475482119493e-06	ANXA11	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.36128829886052e-10	1.24255543582482	0.66	0.404	4.8229313504226e-06	GADD45B	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.48711089044248e-10	0.621055846392859	0.766	0.534	5.07992399372876e-06	DHX36	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.5388174670827e-10	0.698998274791779	0.447	0.139	5.18553467651641e-06	NOCT	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.62156892048614e-10	-0.806407011647906	0.809	0.885	5.35455452009295e-06	LAMC2	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.65276547508112e-10	0.753345212273278	0.83	0.611	5.41827348285318e-06	ASCC3	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.70923241639465e-10	0.796751536938777	0.851	0.543	5.53360721048608e-06	ICAM1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.76023251020927e-10	-0.943837492425039	0.596	0.894	5.63777490210243e-06	SLPI	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.9042692635934e-10	-0.589962093400626	0.979	0.995	5.93196997088952e-06	HSP90AA1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.9233472033641e-10	-0.595558806800975	0.489	0.875	5.97093666287117e-06	GIPC1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+3.30768148882742e-10	-0.636818483813424	0.298	0.755	6.75593944093001e-06	PARM1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+3.40560348267872e-10	-0.728654708728897	0.809	0.966	6.95594511337129e-06	SMIM22	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+4.03385867925895e-10	0.636187009044017	0.681	0.486	8.23915635238641e-06	ZFHX3	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+4.41799817668741e-10	0.559338294137005	0.426	0.125	9.02376127588403e-06	TRAF1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+6.00688869997788e-10	-0.52130813427814	0.83	0.971	1.22690701697048e-05	CAST	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+6.14828826362239e-10	0.754796818242145	0.83	0.62	1.25578787784487e-05	BDP1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+7.08875448503702e-10	0.501882265824214	0.489	0.207	1.44787810356881e-05	CSRNP1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+7.11651308101285e-10	0.654822517095141	0.234	0	1.45354779679687e-05	AC140912.1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+7.84417413727365e-10	-0.590993122358558	0.787	0.889	1.60217256753814e-05	PERP	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+8.92387062845292e-10	-0.583615952509746	0.787	0.938	1.82270057586151e-05	PRELID1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.00893863180186e-09	-0.6983938361513	0.277	0.745	2.0607571554553e-05	TIMP2	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.03365652143561e-09	0.558184060549667	0.447	0.231	2.11124344503224e-05	NBPF14	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.07085453428563e-09	0.67612759831914	0.66	0.514	2.1872203862784e-05	GOPC	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.09564200358989e-09	-0.586204855460936	0.553	0.913	2.23784879233236e-05	MGAT4B	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.11318875617524e-09	0.73352875400076	0.851	0.625	2.27368803448792e-05	JUNB	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.19323326484347e-09	0.559521094756113	0.511	0.236	2.43717894344279e-05	NEURL3	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.25290911488024e-09	-0.694547354437864	0.723	0.918	2.5590668671429e-05	VAMP8	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.26921655329618e-09	-0.617989963116754	0.979	1	2.59237481010745e-05	S100A10	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.45419818661358e-09	-0.646684863097033	0.638	0.885	2.97019979615825e-05	LGALS3BP	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.58556247967126e-09	-0.535102278231779	0.723	0.865	3.23851136472856e-05	TAPBP	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.61817730432284e-09	-0.71899898518994	0.723	0.913	3.3051271440794e-05	ARPC3	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.62054629216158e-09	-0.533864327549289	0.83	0.913	3.30996580174003e-05	TM9SF3	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.63035578315139e-09	-0.856280602494113	0.362	0.74	3.33000168708671e-05	CTSE	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.68833788571828e-09	0.830427830638218	0.681	0.635	3.44843013157959e-05	HUWE1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.72563268492452e-09	0.515351075440574	0.596	0.438	3.52460475895834e-05	RBPJ	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.0182350947354e-09	-0.544412059279396	0.34	0.803	4.12224518099705e-05	CORO1B	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.3029263222565e-09	0.779796579987551	0.787	0.606	4.70372701320891e-05	PPP1R15B	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.30909462093447e-09	0.503927048143754	0.426	0.274	4.71632576325866e-05	SNIP1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.3751700748587e-09	-0.584773602681321	0.468	0.769	4.8512848778989e-05	PARP4	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.3876651483163e-09	-0.534173616775725	0.915	0.986	4.87680606543604e-05	COX5B	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.42029174219555e-09	0.876847105878523	0.723	0.38	4.94344588343442e-05	FILIP1L	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.55620621654992e-09	0.581847156815865	0.511	0.317	5.22105119730322e-05	RNF111	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.59157909495758e-09	0.623093611293298	0.489	0.178	5.29330030145085e-05	DUSP10	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.62954399734352e-09	0.55317734486736	0.468	0.139	5.37084361457414e-05	HSPA4L	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.75876772194909e-09	-0.606806405686156	0.936	0.971	5.63478307208101e-05	RPS27L	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.77625794380219e-09	-0.674697142500764	0.426	0.822	5.67050685021597e-05	MYO5B	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.9348408302755e-09	0.729439904034261	0.851	0.615	5.99441239583771e-05	TRIP11	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+3.09388380986048e-09	0.629557174442734	0.638	0.375	6.31925768164003e-05	FAS	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+3.61174071045482e-09	-0.652353273194775	0.809	0.952	7.37698040110396e-05	COX6A1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+3.98584512739486e-09	-0.619310569047698	0.617	0.918	8.14108867270401e-05	RTN4	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+4.36809526146441e-09	-0.574110715146688	0.553	0.885	8.92183457154105e-05	CDH1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+4.3965552090985e-09	-0.559577540781646	0.915	0.966	8.97996401458368e-05	CLIC1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+4.41697588431699e-09	-0.646957708810463	0.915	0.962	9.02167324371745e-05	DSTN	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+4.81455845171303e-09	-0.935627747758982	0.489	0.817	9.83373563762387e-05	CEACAM6	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+4.96658257901826e-09	0.692511158121823	0.574	0.341	0.000101442449176448	CEP135	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+5.12984563633526e-09	-0.524184532811491	0.277	0.75	0.000104777097122148	WLS	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+5.46186279746363e-09	0.691109392936854	0.745	0.495	0.000111558547638195	RBM33	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+5.72982231701635e-09	0.624248268116022	0.489	0.394	0.000117031620825059	MAST4	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+5.86284097917132e-09	0.537692992205618	0.638	0.433	0.000119748526999574	MYCBP2	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+6.12193273398158e-09	-0.546935270275178	0.872	0.938	0.000125040476091574	GUK1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+6.4227660570961e-09	-0.736110914698259	0.362	0.803	0.000131184996716188	CDHR5	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+6.54316360811569e-09	-0.629013212702473	0.426	0.841	0.000133644116695763	RRAS	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+6.89801562313048e-09	-0.702765370250095	0.936	0.986	0.00014089196910244	GSTP1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+6.99816559343692e-09	-0.565524578511333	0.404	0.803	0.000142937532245949	BCAP31	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+7.45764252470992e-09	-0.504111426546262	1	1	0.0001523223485672	EEF1A1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+7.54968367747991e-09	0.556034919183034	0.553	0.264	0.000154202289112527	LINC00511	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+7.73341325979817e-09	-0.568075995953028	0.936	0.947	0.000157954965831378	DYNLL1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+7.9044895987541e-09	-0.597375041910931	0.638	0.918	0.000161449200054553	SERINC2	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+8.03339034546033e-09	-0.65554084086154	0.532	0.851	0.000164081997806027	PDIA3	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+8.15360804426623e-09	0.643516948618992	0.617	0.389	0.000166537444304138	CITED4	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+8.46261780341936e-09	-0.620876954320214	0.681	0.861	0.00017284896863484	APP	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+8.86531579518911e-09	0.622911558682023	0.809	0.596	0.000181074075116737	ASH1L	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+8.87921307775635e-09	-0.671401647232915	0.383	0.74	0.000181357927113174	CCPG1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+9.59483085140312e-09	0.522855916639941	0.745	0.442	0.000195974420139909	RSBN1L	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+9.90160262011803e-09	0.631806186129866	0.702	0.644	0.000202240233515911	DDX21	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.01333091750975e-08	0.509475868951332	0.532	0.486	0.000206972839901366	FBXO22	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.03055183108612e-08	0.557532258760105	0.851	0.683	0.00021049021149934	MIER1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.0708623266369e-08	0.735566894115132	0.66	0.49	0.000218723630215586	NEDD4	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.12614285286698e-08	-0.570599223882608	0.319	0.769	0.000230014677698081	TRAM1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.16316352343078e-08	-0.599208999494784	0.915	0.976	0.000237576149660736	SRP14	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.1813341319189e-08	-0.52067392880306	0.362	0.779	0.000241287496444435	IDH1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.38936572509497e-08	-0.817031901178366	0.34	0.755	0.000283777949350648	MYL9	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.46418193154478e-08	0.514226346206761	0.489	0.24	0.000299059159518022	PHF12	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.65990469947909e-08	-0.58034503460596	0.702	0.928	0.000339035534868604	SDCBP2	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.73698973474605e-08	0.566958275371933	0.66	0.466	0.000354780153321881	GIGYF2	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.83856346567042e-08	-0.574316859310948	0.723	0.889	0.000375526587863182	HEBP2	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.84220156937336e-08	-0.601609168683514	0.426	0.812	0.000376269670544509	CTTN	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.87978750312903e-08	0.599592212591249	0.787	0.625	0.000383946597514104	RAB3IP	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.90367948478002e-08	0.51966505248423	0.532	0.317	0.00038882653476632	ZNF827	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.96606776913137e-08	0.511488088664228	0.702	0.635	0.000401569341845083	MED13	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.98632321830728e-08	-0.765194365919958	0.468	0.779	0.000405706517339261	GALNT5	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.08312153222263e-08	0.591149006951237	0.915	0.764	0.000425477572956472	TOP1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.11712613083712e-08	0.677714711194037	0.915	0.668	0.000432423012223482	CCNL1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.35102444209041e-08	-1.13103137797247	0.745	0.957	0.000480196742296966	PI3	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.42661137180039e-08	0.537840444811994	0.596	0.447	0.000495635372690229	DNTTIP2	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.51180493371221e-08	-0.580285494678954	0.553	0.812	0.000513036157710718	TARS	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.57296935639425e-08	1.22883339121891	0.851	0.75	0.000525528991043525	ATF3	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.81750756753787e-08	-0.607920929144216	0.66	0.875	0.000575475920669609	FKBP2	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.87318860986272e-08	-0.62821857821419	0.894	0.981	0.00058684877356446	SAT1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.95458989661518e-08	-0.622852303160889	0.809	0.923	0.00060347498638365	AHNAK	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+3.01764536013565e-08	-0.570092911158103	0.894	0.966	0.000616354064807707	CALM2	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+3.35463883619256e-08	0.705320187976251	0.574	0.409	0.000685184982292331	TNRC6A	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+3.48576447295516e-08	-0.535337342408507	0.426	0.808	0.000711967393601091	LRPAP1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+3.60776550919776e-08	-0.51154691425639	0.723	0.966	0.000736886105253642	CDC42EP5	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+3.62950876549806e-08	-0.59437336637277	0.809	0.966	0.000741327165352979	C12orf75	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+3.6863124514036e-08	-0.653697165216726	0.298	0.712	0.000752929318199186	IL2RG	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+3.74783548629546e-08	0.737930102664408	0.915	0.736	0.000765495398075848	ANKLE2	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+3.8739508098724e-08	0.52887072068254	0.447	0.212	0.000791254452916437	ABCE1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+4.28830434729823e-08	-0.699676015636078	0.426	0.812	0.000875886162935664	DYNLRB1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+4.29709042973613e-08	-0.542184162386773	0.872	0.933	0.000877680720273604	SPINT2	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+4.30332367855411e-08	0.570947668731782	0.787	0.601	0.000878953861344676	SERTAD2	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+4.39128820670534e-08	-0.77096224127512	0.426	0.817	0.000896920616219565	CDKN2A	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+4.69815046765383e-08	-0.817853189078003	0.894	0.981	0.000959597233018294	AREG	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+4.85021838216199e-08	-0.526776483093331	0.681	0.904	0.000990657104556587	PTTG1IP	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+5.05873359341437e-08	0.747668357608811	0.83	0.587	0.00103324633645488	HIST1H2AC	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+5.23902348007118e-08	0.627628915443848	0.702	0.409	0.00107007054580454	ARHGEF38	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+5.28990114133923e-08	0.513049887405225	0.596	0.457	0.00108046230811854	SLCO3A1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+5.36740210287679e-08	0.545622073433679	0.66	0.553	0.00109629187951258	FAM46A	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+5.39107104673746e-08	-0.58642361461582	0.319	0.75	0.00110112626129613	PLAUR	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+5.57829399667313e-08	0.79230991336114	0.936	0.688	0.00113936654882049	IER3	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+5.91886953260513e-08	-0.60529532170012	0.362	0.769	0.0012089291020346	FKBP1A	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+6.55294915827877e-08	-0.634772656753005	0.66	0.923	0.00133843986557844	RHOC	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+6.84145340928508e-08	-0.511988159108449	0.362	0.76	0.00139736685884648	UBE2A	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+7.35956177066885e-08	-0.659656852274526	0.851	0.952	0.00150319049165911	SERPINB1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+7.45904387223806e-08	-0.524082563482678	0.511	0.851	0.00152350971090462	CMAS	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+8.6903368712825e-08	0.816587637611869	0.766	0.577	0.00177500130595945	ZNF217	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+9.20828264098539e-08	0.805103939028369	1	1	0.00188079172942127	MALAT1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+9.55721129717631e-08	-0.690840658384267	0.596	0.87	0.00195206040744826	GPX1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+9.66209203202996e-08	0.8815891538471	0.362	0.043	0.00197348229754212	CXCL10	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.03195991064952e-07	-0.620652192002602	0.553	0.851	0.00210777811750165	ARF4	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.06585076465276e-07	0.626425183666516	0.426	0.115	0.00217700018680326	CLEC2D	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.07364282248892e-07	-0.65193467491516	0.489	0.846	0.00219291546493362	DHRS7	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.1466267303993e-07	0.837968248979498	0.574	0.38	0.00234198509684056	IFIT3	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.16847368467433e-07	0.579681301878309	0.702	0.476	0.00238660750094732	TDG	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.1767573912522e-07	-0.513056906399807	0.234	0.673	0.00240352697163262	CLIC5	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.20809206534842e-07	-0.649282056382862	0.447	0.798	0.00246752804347414	CAPG	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.21614943588708e-07	-0.653022882867923	0.787	0.889	0.00248398522279936	ITM2B	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.24192403166416e-07	-0.560984838140891	0.957	1	0.00253662983467405	ACTG1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.29504116793166e-07	-0.557079004930271	0.787	0.952	0.00264512158550042	MYH14	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.32553498765538e-07	-0.584761572183298	0.638	0.918	0.00270740521228612	PRDX1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.41622553086613e-07	-0.520346017005294	0.383	0.793	0.00289264064679408	EIF6	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.67922214238512e-07	-0.564335475406982	0.383	0.764	0.00342981122582161	MYDGF	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.67998761367286e-07	0.526017636254047	0.745	0.462	0.00343137470092681	KAT6A	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.68251302317325e-07	-0.537882517743885	0.574	0.851	0.00343653284983136	MYO6	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.7501721104709e-07	-0.72749424355237	0.383	0.716	0.00357472653563682	GSTM4	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.8122925785674e-07	0.53399803298359	0.723	0.577	0.00370160759172392	NSD1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.8742820474033e-07	-0.503681475160688	0.894	0.918	0.00382822108182123	MYH9	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.99429701423326e-07	-0.553307696972236	0.489	0.861	0.00407335165157144	BLVRB	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.15661809991068e-07	-1.68559790276153	0.638	0.861	0.00440489246906756	CLCA4	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.24802306728418e-07	0.599812320591112	0.745	0.534	0.00459158711492795	TRIO	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.29763914853455e-07	-0.547084427856543	0.851	0.889	0.00469292796088182	LAMB3	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.34697186487653e-07	-0.556391497069004	0.553	0.817	0.0047936900340103	WDR1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.493092274361e-07	-0.549743889415706	0.511	0.755	0.00509214097038233	ITGA6	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.51705605520105e-07	-0.505744614202463	0.468	0.822	0.00514108699274815	PNPLA2	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.64448120465258e-07	0.503683879364915	0.511	0.462	0.0054013528605029	ST5	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.67942067113882e-07	-0.531052029540122	0.511	0.832	0.00547271672080104	TMCO1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.72289414226486e-07	0.57843926226554	0.596	0.346	0.00556151128557598	EPSTI1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.83015381382704e-07	0.653118529959086	0.638	0.466	0.00578058916474173	HIVEP1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.94414715650995e-07	0.546614294747507	0.596	0.582	0.00601342056717157	EXT1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+3.14351113730627e-07	-0.588402102792431	0.66	0.822	0.00642062149794806	MPC2	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+3.28732080482562e-07	-0.637919302774331	0.851	0.947	0.00671435274385632	CD9	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+3.29953835893585e-07	-0.534191062496017	0.447	0.808	0.00673930709812648	TMED9	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+3.39682768731908e-07	-0.551882637239954	0.617	0.851	0.00693802055134922	LRRFIP1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+3.6888788601545e-07	-0.533989518917154	0.553	0.856	0.00753453507186557	CAPZB	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+3.73522301359148e-07	-0.594846503951926	0.596	0.817	0.00762919300526059	CXADR	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+4.22375449780095e-07	-0.571353566056078	0.66	0.846	0.00862701856175844	CALM3	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+4.51696694328704e-07	-0.538524305762897	0.574	0.904	0.00922590498166378	BLOC1S1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+5.05121829646312e-07	0.640318142230611	0.957	0.894	0.0103171133705259	H3F3B	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+5.47301620845909e-07	-0.508090130982395	0.66	0.87	0.0111786356057777	ATP6V0B	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+5.48210265420327e-07	0.548971163962441	0.83	0.635	0.0111971946712102	DDX24	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+5.6542067108529e-07	0.715885077442775	0.723	0.538	0.011548717206917	FOS	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+6.19118705084127e-07	0.669767272410309	0.553	0.385	0.0126454995513433	DDIT3	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+6.28494699738362e-07	-0.556624050560731	0.83	0.957	0.012837004242156	PRDX5	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+6.78122607247123e-07	0.598767740381878	0.702	0.5	0.0138506542530225	TRA2B	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+6.82383800361667e-07	-0.586921077112605	0.66	0.841	0.013937689122387	ATP6V0E1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+7.03481020217923e-07	-0.502919163399287	0.787	0.913	0.0143685998379511	HLA-E	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+8.0139284011573e-07	0.808192301397701	1	0.947	0.0163684487593638	NEAT1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+8.10346463183941e-07	-0.506196922202414	0.596	0.827	0.016551326510532	NARS	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+9.65197478348816e-07	-0.594801248150722	0.617	0.865	0.0197141584952746	GSN	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+9.66036527205352e-07	0.72844464978652	0.553	0.245	0.0197312960681693	IFIT1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+9.97929035184754e-07	0.523540603774573	0.766	0.625	0.0203827005436486	ZC3H13	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.02109860214283e-06	-0.545738701008035	0.298	0.697	0.0208559389487672	MUC3A	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.12984775305007e-06	-0.55546432547755	0.468	0.793	0.0230771403560476	ADI1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.13952758322925e-06	-0.537477987524776	0.532	0.803	0.0232748508874574	PDLIM5	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.15439524172554e-06	-0.76748441437268	0.702	0.861	0.0235785228122442	DUOX2	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.16449555500564e-06	0.578800088998037	0.809	0.63	0.0237848217109902	FAM133B	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.17484263849595e-06	0.502348041746482	0.681	0.562	0.0239961608912798	PCM1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.25684090823132e-06	-0.507715519603437	0.894	0.99	0.0256709755506246	PPDPF	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.25899246116601e-06	-0.610080387156275	0.745	0.841	0.0257149210193157	TM4SF1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.27718731248155e-06	-0.588410969982837	0.809	0.899	0.0260865508574357	CLDN4	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.37092903061456e-06	0.587086565214613	0.787	0.625	0.0280012254503024	FRYL	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.48997624269947e-06	0.57189396999091	0.915	0.74	0.0304327647571366	GPBP1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.70324598723965e-06	-0.603832683792848	0.574	0.817	0.0347887992893698	CD47	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.77700079338663e-06	0.503105122334814	0.915	0.74	0.036295241204922	RASSF6	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.83336503311257e-06	-0.547448368829734	0.681	0.88	0.0374464808013242	HSP90B1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.86703527799465e-06	-0.506875153670479	0.723	0.938	0.0381341955530407	NDUFA1	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.90285055597552e-06	0.636322192000951	0.34	0.087	0.0388657226057999	HIST4H4	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+1.99418655905063e-06	0.598963520251988	0.851	0.692	0.0407312604686092	RHOB	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.21033108011945e-06	0.747201865521033	0.872	0.721	0.0451460123114397	HIST1H4C	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected
+2.42606819480141e-06	0.536393083221784	0.681	0.558	0.0495524428788188	PRPF38B	Colon_24h_Inmature Enterocyte 2_Infected_v_Colon_Mock_Inmature Enterocyte 2_Non-Infected

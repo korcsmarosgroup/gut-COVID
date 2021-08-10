@@ -1,0 +1,9 @@
+counts: input_files/example_expression_data/GSE147507_RNA_Seq_Raw_Counts.tsv
+meta: input_files/example_expression_data/GSE147507_mapping.txt
+lfccutoff: 0.5
+pcutoff: 0.05
+id_type: symbol
+hbps: input_files/miRNA_to_human_proteins_uniprot.txt
+sars: input_files/sarscov2_protein_annotations_revised_oct2020.txt
+outdir: output_directory
+anubixreactome: input_files/anubix_reactome_pathways.txt
