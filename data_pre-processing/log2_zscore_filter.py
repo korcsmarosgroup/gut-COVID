@@ -1,7 +1,8 @@
 # Gene expression filtration based on z-score
 # Based on Hart et al, 2013 and a discussion here: https://www.biostars.org/p/94680/
 # Aim: discarding gene expressions with low value
-# Input: Gene expression table
+# Input: (Unfiltered) Gene expression table
+# Output: Filtered gene expression table (expressed genes only)
 
 import pandas as pd
 from scipy.stats import gaussian_kde
