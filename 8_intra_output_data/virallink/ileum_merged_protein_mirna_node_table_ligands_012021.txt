@@ -1,0 +1,1317 @@
+all_nodes	bindingprot_layer	cov_layer	deg_layer	gene_symbol	log2FoldChange	Matching.Attribute	name	node_source	padj	ppi_layer	selected	node	tf_layer
+cov2	NA	cov2	NA	orf10		A0A663DJA2	A0A663DJA2	viralprotein		NA	FALSE	A0A663DJA2	NA
+bindingprot	bindingprot	NA	NA	RPSA		P08865	P08865	viralprotein		NA	FALSE	P08865	NA
+bindingprot	bindingprot	NA	NA	IMPDH2		P12268	P12268	viralprotein		NA	FALSE	P12268	NA
+bindingprot	bindingprot	NA	NA	ATP2A2	-0.31743533	P16615	P16615	viralprotein	0.028176105	NA	FALSE	P16615	NA
+bindingprot	bindingprot	NA	NA	HACD3		Q9P035	Q9P035	viralprotein		NA	FALSE	Q9P035	NA
+protein	NA	NA	NA	XPO1	0.418914833	O14980	O14980	viralmirna;viralprotein	4.47E-10	protein	FALSE	O14980	NA
+protein	NA	NA	NA	RBX1		P62877	P62877	viralmirna;viralprotein		protein	FALSE	P62877	NA
+cov2	NA	cov2	NA	nsp2		P0DTC1-PRO_0000449636	P0DTC1-PRO_0000449636	viralprotein		NA	FALSE	P0DTC1-PRO_0000449636	NA
+bindingprot;protein	bindingprot	NA	NA	NR2F2		P24468	P24468	viralmirna;viralprotein		protein	FALSE	P24468	NA
+bindingprot	bindingprot	NA	NA	HSPA5	-0.549639992	P11021	P11021	viralprotein	5.70E-09	NA	FALSE	P11021	NA
+cov2	NA	cov2	NA	nsp4		P0DTC1-PRO_0000449638	P0DTC1-PRO_0000449638	viralprotein		NA	FALSE	P0DTC1-PRO_0000449638	NA
+bindingprot;protein	bindingprot	NA	NA	PRKDC	-0.27474497	P78527	P78527	viralmirna;viralprotein	0.001461544	protein	FALSE	P78527	NA
+bindingprot	bindingprot	NA	NA	BAG2		O95816	O95816	viralprotein		NA	FALSE	O95816	NA
+cov2	NA	cov2	NA	S		P0DTC2	P0DTC2	viralprotein		NA	FALSE	P0DTC2	NA
+bindingprot;protein	bindingprot	NA	NA	DOCK7		Q96N67	Q96N67	viralprotein		protein	FALSE	Q96N67	NA
+bindingprot;protein	bindingprot	NA	NA	BSG	-0.527317483	P35613	P35613	viralprotein	8.51E-16	protein	FALSE	P35613	NA
+bindingprot	bindingprot	NA	NA	FURIN		P09958	P09958	viralprotein		NA	FALSE	P09958	NA
+bindingprot	bindingprot	NA	NA	ACE2	-0.595232394	Q9BYF1	Q9BYF1	viralprotein	1.64E-04	NA	FALSE	Q9BYF1	NA
+bindingprot	bindingprot	NA	NA	PCSK1		P29120	P29120	viralprotein		NA	FALSE	P29120	NA
+bindingprot	bindingprot	NA	NA	CTSB		P07858	P07858	viralprotein		NA	FALSE	P07858	NA
+bindingprot	bindingprot	NA	NA	CTSL		P07711	P07711	viralprotein		NA	FALSE	P07711	NA
+bindingprot;protein	bindingprot	NA	NA	CCNB1		P14635	P14635	viralmirna;viralprotein		protein	FALSE	P14635	NA
+cov2	NA	cov2	NA	orf3a		P0DTC3	P0DTC3	viralprotein		NA	FALSE	P0DTC3	NA
+bindingprot;protein	bindingprot	NA	NA	UBA1		P22314	P22314	viralprotein		protein	FALSE	P22314	NA
+bindingprot;protein	bindingprot	NA	NA	GAPDH	-0.456195131	P04406	P04406	viralmirna;viralprotein	2.26E-14	protein	FALSE	P04406	NA
+bindingprot	bindingprot	NA	NA	BAG6		P46379	P46379	viralprotein		NA	FALSE	P46379	NA
+bindingprot	bindingprot	NA	NA	SLC25A22		Q9H936	Q9H936	viralprotein		NA	FALSE	Q9H936	NA
+bindingprot	bindingprot	NA	NA	DNAJA2		O60884	O60884	viralprotein		NA	FALSE	O60884	NA
+bindingprot	bindingprot	NA	NA	PTBP1		P26599	P26599	viralprotein		NA;protein	FALSE	P26599	NA
+bindingprot;protein	bindingprot	NA	NA	HMOX1		P09601	P09601	viralmirna;viralprotein		protein	FALSE	P09601	NA
+bindingprot	bindingprot	NA	NA	IL13RA1		P78552	P78552	viralprotein		NA	FALSE	P78552	NA
+bindingprot;protein	bindingprot	NA	NA	PLXNA1		Q9UIW2	Q9UIW2	viralmirna		NA;protein	FALSE	Q9UIW2	NA
+bindingprot	bindingprot	NA	NA	BLVRA		P53004	P53004	viralprotein		NA	FALSE	P53004	NA
+bindingprot	bindingprot	NA	NA	PTPRF	-0.318682542	P10586	P10586	viralprotein	0.010499793	NA	FALSE	P10586	NA
+bindingprot	bindingprot	NA	NA	ZDHHC9		Q9Y397	Q9Y397	viralprotein		NA	FALSE	Q9Y397	NA
+bindingprot	bindingprot	NA	NA	PROCR		Q9UNN8	Q9UNN8	viralmirna;viralprotein		NA	FALSE	Q9UNN8	NA
+bindingprot	bindingprot	NA	NA	STUB1	-0.312327453	Q9UNE7	Q9UNE7	viralprotein	3.15E-04	NA	FALSE	Q9UNE7	NA
+bindingprot	bindingprot	NA	NA	UBQLN1		Q9UMX0	Q9UMX0	viralprotein		NA	FALSE	Q9UMX0	NA
+bindingprot	bindingprot	NA	NA	ZNRF3		Q9ULT6	Q9ULT6	viralprotein		NA	FALSE	Q9ULT6	NA
+bindingprot	bindingprot	NA	NA	TNFRSF10D		Q9UBN6	Q9UBN6	viralprotein		NA	FALSE	Q9UBN6	NA
+bindingprot;protein	bindingprot	NA	NA	SLK		Q9H2G2	Q9H2G2	viralprotein		protein	FALSE	Q9H2G2	NA
+bindingprot;protein	bindingprot	NA	NA	WWP1		Q9H0M0	Q9H0M0	viralprotein		protein	FALSE	Q9H0M0	NA
+bindingprot	bindingprot	NA	NA	EIF2A		Q9BY44	Q9BY44	viralprotein		NA	FALSE	Q9BY44	NA
+bindingprot	bindingprot	NA	NA	NDFIP1	-0.376992965	Q9BT67	Q9BT67	viralprotein	2.76E-07	NA	FALSE	Q9BT67	NA
+bindingprot	bindingprot	NA	NA	OSMR		Q99650	Q99650	viralprotein		NA	FALSE	Q99650	NA
+bindingprot;protein	bindingprot	NA	NA	ITCH		Q96J02	Q96J02	viralmirna;viralprotein		protein	FALSE	Q96J02	NA
+bindingprot	bindingprot	NA	NA	NEO1		Q92859	Q92859	viralprotein		NA	FALSE	Q92859	NA
+bindingprot	bindingprot	NA	NA	TAX1BP1	-0.619451313	Q86VP1	Q86VP1	viralprotein	3.22E-21	NA	FALSE	Q86VP1	NA
+bindingprot;protein	bindingprot	NA	NA	RHEB	-0.29091172	Q15382	Q15382	viralprotein	0.099571941	protein	FALSE	Q15382	NA
+bindingprot	bindingprot	NA	NA	PPA1		Q15181	Q15181	viralprotein		NA	FALSE	Q15181	NA
+bindingprot	bindingprot	NA	NA	TNIP1		Q15025	Q15025	viralprotein		NA	FALSE	Q15025	NA
+bindingprot;protein	bindingprot	NA	NA	GNA13		Q14344	Q14344	viralmirna;viralprotein		protein	FALSE	Q14344	NA
+bindingprot	bindingprot	NA	NA	LRP8		Q14114	Q14114	viralprotein		NA	FALSE	Q14114	NA
+bindingprot;protein	bindingprot	NA	NA	BMPR2		Q13873	Q13873	viralprotein		protein	FALSE	Q13873	NA
+bindingprot	bindingprot	NA	NA	NCOA4		Q13772	Q13772	viralprotein		NA	FALSE	Q13772	NA
+bindingprot	bindingprot	NA	NA	TPBG		Q13641	Q13641	viralprotein		NA	FALSE	Q13641	NA
+bindingprot	bindingprot	NA	NA	SNX1		Q13596	Q13596	viralmirna;viralprotein		NA	FALSE	Q13596	NA
+bindingprot	bindingprot	NA	NA	ADAM9	-0.643595409	Q13443	Q13443	viralmirna;viralprotein	1.22E-14	NA	FALSE	Q13443	NA
+bindingprot	bindingprot	NA	NA	BAMBI		Q13145	Q13145	viralprotein		NA	FALSE	Q13145	NA
+bindingprot;protein	bindingprot	NA	NA	DLG1		Q12959	Q12959	viralprotein		protein	FALSE	Q12959	NA
+bindingprot;protein	bindingprot	NA	NA	PTPRJ		Q12913	Q12913	viralprotein		NA;protein	FALSE	Q12913	NA
+protein	NA	NA	NA	DDR1		Q08345	Q08345	viralmirna;viralprotein		protein	FALSE	Q08345	NA
+bindingprot	bindingprot	NA	NA	IL10RB		Q08334	Q08334	viralprotein		NA	FALSE	Q08334	NA
+protein	NA	NA	NA	PTPN11		Q06124	Q06124	viralmirna;viralprotein		protein	FALSE	Q06124	NA
+protein	NA	NA	NA	ACVR1		Q04771	Q04771	viralmirna;viralprotein		protein	FALSE	Q04771	NA
+bindingprot	bindingprot	NA	NA	NOTCH2		Q04721	Q04721	viralprotein		NA	FALSE	Q04721	NA
+protein	NA	NA	NA	ROR1		Q01973	Q01973	viralmirna		NA;protein	FALSE	Q01973	NA
+protein	NA	NA	NA	ADAM17		P78536	P78536	viralmirna;viralprotein		protein	FALSE	P78536	NA
+bindingprot;protein	bindingprot	NA	NA	FKBP1A	-0.517752151	P62942	P62942	viralprotein	3.01E-08	protein	FALSE	P62942	NA
+bindingprot	bindingprot	NA	NA	RHOB	0.885804545	P62745	P62745	viralprotein	6.53E-17	NA	FALSE	P62745	NA
+bindingprot;deg	bindingprot	NA	deg	B2M	-0.971138192	P61769	P61769	viralmirna;viralprotein	1.48E-36	NA	FALSE	P61769	NA
+bindingprot	bindingprot	NA	NA	RAB2A	-0.280894508	P61019	P61019	viralprotein	0.017830354	NA	FALSE	P61019	NA
+bindingprot;protein	bindingprot	NA	NA	EPHB3		P54753	P54753	viralmirna;viralprotein		protein	FALSE	P54753	NA
+bindingprot	bindingprot	NA	NA	LRBA		P50851	P50851	viralprotein		NA	FALSE	P50851	NA
+protein	NA	NA	NA	GNAQ		P50148	P50148	viralmirna;viralprotein		protein	FALSE	P50148	NA
+bindingprot;protein	bindingprot	NA	NA	GSK3A		P49840	P49840	viralmirna;viralprotein		protein	FALSE	P49840	NA
+bindingprot	bindingprot	NA	NA	HINT1	-0.550883182	P49773	P49773	viralprotein	8.07E-10	NA	FALSE	P49773	NA
+bindingprot;protein	bindingprot	NA	NA	GCLC		P48506	P48506	viralprotein		protein	FALSE	P48506	NA
+bindingprot;protein	bindingprot	NA	NA	NOTCH1		P46531	P46531	viralmirna;viralprotein		protein	FALSE	P46531	NA
+bindingprot	bindingprot	NA	NA	ECE1	0.312311005	P42892	P42892	viralprotein	0.002780414	NA	FALSE	P42892	NA
+bindingprot	bindingprot	NA	NA	TNFSF9		P41273	P41273	viralprotein		NA	FALSE	P41273	NA
+bindingprot	bindingprot	NA	NA	NAA10		P41227	P41227	viralprotein		NA	FALSE	P41227	NA
+bindingprot	bindingprot	NA	NA	USP8		P40818	P40818	viralprotein		NA	FALSE	P40818	NA
+protein	NA	NA	NA	IL6ST	0.411085913	P40189	P40189	viralmirna;viralprotein	1.13E-08	protein	FALSE	P40189	NA
+bindingprot;protein	bindingprot	NA	NA	TGFBR2		P37173	P37173	viralmirna;viralprotein		protein	FALSE	P37173	NA
+protein	NA	NA	NA	TGFBR1		P36897	P36897	viralmirna;viralprotein		protein	FALSE	P36897	NA
+bindingprot;protein	bindingprot	NA	NA	ACVR1B		P36896	P36896	viralmirna;viralprotein		protein	FALSE	P36896	NA
+protein	NA	NA	NA	BMPR1A		P36894	P36894	viralmirna;viralprotein		protein	FALSE	P36894	NA
+protein	NA	NA	NA	AXL		P30530	P30530	viralmirna		NA;protein	FALSE	P30530	NA
+bindingprot;protein	bindingprot	NA	NA	SHC1		P29353	P29353	viralmirna;viralprotein		protein	FALSE	P29353	NA
+bindingprot;protein	bindingprot	NA	NA	EPHB2		P29323	P29323	viralmirna;viralprotein		protein	FALSE	P29323	NA
+bindingprot;protein	bindingprot	NA	NA	EPHA2	0.402979129	P29317	P29317	viralmirna;viralprotein	3.15E-08	protein	FALSE	P29317	NA
+bindingprot	bindingprot	NA	NA	PTPRM		P28827	P28827	viralprotein		NA	FALSE	P28827	NA
+bindingprot	bindingprot	NA	NA	ACVR2A		P27037	P27037	viralprotein		NA	FALSE	P27037	NA
+protein	NA	NA	NA	ITGA6	-0.414249002	P23229	P23229	viralmirna;viralprotein	2.03E-06	protein	FALSE	P23229	NA
+bindingprot	bindingprot	NA	NA	RAB5A		P20339	P20339	viralprotein		NA	FALSE	P20339	NA
+protein	NA	NA	NA	TNFRSF1A		P19438	P19438	viralmirna		NA;protein	FALSE	P19438	NA
+bindingprot	bindingprot	NA	NA	PTPRA		P18433	P18433	viralprotein		NA	FALSE	P18433	NA
+protein	NA	NA	NA	LGALS3	-0.96578797	P17931	P17931	viralmirna	2.00E-19	NA;protein	FALSE	P17931	NA
+protein	NA	NA	NA	CD44	0.686392637	P16070	P16070	viralmirna;viralprotein	3.76E-05	protein	FALSE	P16070	NA
+bindingprot	bindingprot	NA	NA	ATP6V1B1		P15313	P15313	viralprotein		NA	FALSE	P15313	NA
+protein	NA	NA	NA	EZR	-0.675351275	P15311	P15311	viralmirna	4.43E-17	NA;protein	FALSE	P15311	NA
+protein	NA	NA	NA	IFNGR1	-0.408348857	P15260	P15260	viralmirna;viralprotein	2.67E-04	protein	FALSE	P15260	NA
+bindingprot	bindingprot	NA	NA	PVR		P15151	P15151	viralprotein		NA	FALSE	P15151	NA
+bindingprot;protein	bindingprot	NA	NA	HLA-E		P13747	P13747	viralmirna;viralprotein		protein	FALSE	P13747	NA
+bindingprot	bindingprot	NA	NA	HLA-C	-0.875770736	P10321	P10321	viralprotein	1.75E-25	NA	FALSE	P10321	NA
+bindingprot	bindingprot	NA	NA	UCHL1		P09936	P09936	viralprotein		NA	FALSE	P09936	NA
+bindingprot	bindingprot	NA	NA	ANXA5	-0.322390769	P08758	P08758	viralprotein	0.005786325	NA	FALSE	P08758	NA
+bindingprot;protein	bindingprot	NA	NA	MET		P08581	P08581	viralmirna;viralprotein		protein	FALSE	P08581	NA
+bindingprot	bindingprot	NA	NA	GPI		P06744	P06744	viralprotein		NA	FALSE	P06744	NA
+bindingprot	bindingprot	NA	NA	HLA-A	-0.812997608	P04439	P04439	viralprotein	4.13E-27	NA	FALSE	P04439	NA
+bindingprot	bindingprot	NA	NA	STAM2		O75886	O75886	viralprotein		NA	FALSE	O75886	NA
+bindingprot	bindingprot	NA	NA	TNFRSF21		O75509	O75509	viralprotein		NA	FALSE	O75509	NA
+bindingprot;protein	bindingprot	NA	NA	ADCY9		O60503	O60503	viralprotein		protein	FALSE	O60503	NA
+protein	NA	NA	NA	SPAG9	0.460443196	O60271	O60271	viralmirna;viralprotein	1	protein	FALSE	O60271	NA
+bindingprot;protein	bindingprot	NA	NA	ADCY6		O43306	O43306	viralprotein		protein	FALSE	O43306	NA
+bindingprot	bindingprot	NA	NA	TNFRSF10B	0.361628523	O14763	O14763	viralprotein	1.45E-10	NA	FALSE	O14763	NA
+bindingprot	bindingprot	NA	NA	TNFRSF10A		O00220	O00220	viralprotein		NA	FALSE	O00220	NA
+bindingprot	bindingprot	NA	NA	LTBR		P36941	P36941	viralprotein		NA	FALSE	P36941	NA
+cov2	NA	cov2	NA	E		P0DTC4	P0DTC4	viralprotein		NA	FALSE	P0DTC4	NA
+bindingprot	bindingprot	NA	NA	EMD		P50402	P50402	viralprotein		NA	FALSE	P50402	NA
+bindingprot	bindingprot	NA	NA	BRD4	0.441126646	O60885	O60885	viralprotein	5.15E-12	NA	FALSE	O60885	NA
+cov2	NA	cov2	NA	M		P0DTC5	P0DTC5	viralprotein		NA	FALSE	P0DTC5	NA
+bindingprot	bindingprot	NA	NA	POLR2B		P30876	P30876	viralprotein		NA;protein	FALSE	P30876	NA
+bindingprot	bindingprot	NA	NA	PSMC5		P62195	P62195	viralprotein		NA	FALSE	P62195	NA
+bindingprot	bindingprot	NA	NA	PSMD11		O00231	O00231	viralmirna;viralprotein		NA	FALSE	O00231	NA
+bindingprot	bindingprot	NA	NA	DNAJA3		Q96EY1	Q96EY1	viralprotein		NA	FALSE	Q96EY1	NA
+bindingprot	bindingprot	NA	NA	PSMD6		Q15008	Q15008	viralprotein		NA	FALSE	Q15008	NA
+protein	NA	NA	NA	PSMA7	-0.449952224	O14818	O14818	viralmirna	2.72E-08	NA;protein	FALSE	O14818	NA
+protein	NA	NA	NA	PSMA6	0.386479065	P60900	P60900	viralmirna;viralprotein	1.12E-09	protein	FALSE	P60900	NA
+bindingprot	bindingprot	NA	NA	PSMD7		P51665	P51665	viralprotein		NA	FALSE	P51665	NA
+bindingprot	bindingprot	NA	NA	PSMC1	-0.353767767	P62191	P62191	viralprotein	2.89E-08	NA	FALSE	P62191	NA
+bindingprot	bindingprot	NA	NA	DNAJC7		Q99615	Q99615	viralprotein		NA	FALSE	Q99615	NA
+bindingprot	bindingprot	NA	NA	PSMD2	-0.250300688	Q13200	Q13200	viralprotein	0.004899782	NA	FALSE	Q13200	NA
+bindingprot	bindingprot	NA	NA	PSMC2		P35998	P35998	viralprotein		NA	FALSE	P35998	NA
+bindingprot	bindingprot	NA	NA	PSMD1		Q99460	Q99460	viralprotein		NA	FALSE	Q99460	NA
+bindingprot	bindingprot	NA	NA	HSPA4		P34932	P34932	viralprotein		NA	FALSE	P34932	NA
+bindingprot	bindingprot	NA	NA	SLC30A9		Q6PML9	Q6PML9	viralprotein		NA	FALSE	Q6PML9	NA
+bindingprot	bindingprot	NA	NA	PITRM1		Q5JRX3	Q5JRX3	viralprotein		NA	FALSE	Q5JRX3	NA
+bindingprot	bindingprot	NA	NA	REEP5	-0.484416659	Q00765	Q00765	viralprotein	6.41E-11	NA	FALSE	Q00765	NA
+bindingprot	bindingprot	NA	NA	PSMD8	-0.378500328	P48556	P48556	viralprotein	6.01E-05	NA	FALSE	P48556	NA
+bindingprot	bindingprot	NA	NA	GGCX		P38435	P38435	viralprotein		NA	FALSE	P38435	NA
+bindingprot;protein	bindingprot	NA	NA	ARFGEF1		Q9Y6D6	Q9Y6D6	viralprotein		protein	FALSE	Q9Y6D6	NA
+bindingprot;protein	bindingprot	NA	NA	ARFGEF2		Q9Y6D5	Q9Y6D5	viralprotein		protein	FALSE	Q9Y6D5	NA
+bindingprot	bindingprot	NA	NA	CDK5RAP3		Q96JB5	Q96JB5	viralprotein		NA	FALSE	Q96JB5	NA
+protein	NA	NA	NA	GBF1		Q92538	Q92538	viralmirna;viralprotein		protein	FALSE	Q92538	NA
+bindingprot	bindingprot	NA	NA	NLRX1		Q86UT6	Q86UT6	viralprotein		NA	FALSE	Q86UT6	NA
+bindingprot	bindingprot	NA	NA	PLEKHG4		Q58EX7	Q58EX7	viralprotein		NA	FALSE	Q58EX7	NA
+bindingprot	bindingprot	NA	NA	NFE2L2		Q16236	Q16236	viralprotein		NA	FALSE	Q16236	NA
+bindingprot	bindingprot	NA	NA	UBE3C		Q15386	Q15386	viralprotein		NA	FALSE	Q15386	NA
+protein	NA	NA	NA	CAV1		Q03135	Q03135	viralmirna		NA;protein	FALSE	Q03135	NA
+bindingprot	bindingprot	NA	NA	ELF3	0.627226922	P78545	P78545	viralprotein	4.75E-08	NA	FALSE	P78545	NA
+bindingprot	bindingprot	NA	NA	CAV2	-0.335232086	P51636	P51636	viralprotein	6.06E-04	NA	FALSE	P51636	NA
+bindingprot;protein	bindingprot	NA	NA	IRAK1		P51617	P51617	viralprotein		protein	FALSE	P51617	NA
+bindingprot	bindingprot	NA	NA	PSEN2		P49810	P49810	viralprotein		NA	FALSE	P49810	NA
+bindingprot	bindingprot	NA	NA	NR2C2		P49116	P49116	viralprotein		NA;protein	FALSE	P49116	NA
+bindingprot	bindingprot	NA	NA	SLC9A1		P19634	P19634	viralprotein		NA	FALSE	P19634	NA
+bindingprot	bindingprot	NA	NA	SERPINE2		P07093	P07093	viralprotein		NA	FALSE	P07093	NA
+bindingprot;protein	bindingprot	NA	NA	JAK2	0.336488584	O60674	O60674	viralmirna;viralprotein	1.12E-10	protein	FALSE	O60674	NA
+bindingprot	bindingprot	NA	NA	HAX1		O00165	O00165	viralprotein		NA	FALSE	O00165	NA
+cov2	NA	cov2	NA	orf6		P0DTC6	P0DTC6	viralprotein		NA	FALSE	P0DTC6	NA
+bindingprot	bindingprot	NA	NA	NUP98		P52948	P52948	viralmirna;viralprotein		NA	FALSE	P52948	NA
+bindingprot	bindingprot	NA	NA	RAE1		P78406	P78406	viralprotein		NA	FALSE	P78406	NA
+bindingprot	bindingprot	NA	NA	MYCBP2	0.577144569	O75592	O75592	viralprotein	7.47E-24	NA	FALSE	O75592	NA
+bindingprot	bindingprot	NA	NA	DCTN2		Q13561	Q13561	viralprotein		NA	FALSE	Q13561	NA
+cov2	NA	cov2	NA	orf7a		P0DTC7	P0DTC7	viralprotein		NA	FALSE	P0DTC7	NA
+bindingprot;protein	bindingprot	NA	NA	PPP2R1A	-0.270404569	P30153	P30153	viralmirna;viralprotein	0.00670766	protein	FALSE	P30153	NA
+bindingprot	bindingprot	NA	NA	PSMD13		Q9UNM6	Q9UNM6	viralprotein		NA	FALSE	Q9UNM6	NA
+protein	NA	NA	NA	ATM		Q13315	Q13315	viralmirna;viralprotein		protein	FALSE	Q13315	NA
+bindingprot	bindingprot	NA	NA	XPO5		Q9HAV4	Q9HAV4	viralprotein		NA	FALSE	Q9HAV4	NA
+bindingprot	bindingprot	NA	NA	SCAI		Q8N9R8	Q8N9R8	viralprotein		NA	FALSE	Q8N9R8	NA
+bindingprot	bindingprot	NA	NA	NUP93		Q8N1F7	Q8N1F7	viralprotein		NA	FALSE	Q8N1F7	NA
+bindingprot	bindingprot	NA	NA	NUP188		Q5SRE5	Q5SRE5	viralprotein		NA	FALSE	Q5SRE5	NA
+bindingprot;protein	bindingprot	NA	NA	ATR		Q13535	Q13535	viralmirna;viralprotein		protein	FALSE	Q13535	NA
+bindingprot	bindingprot	NA	NA	NF1		P21359	P21359	viralprotein		NA	FALSE	P21359	NA
+bindingprot	bindingprot	NA	NA	BTAF1		O14981	O14981	viralprotein		NA	FALSE	O14981	NA
+cov2	NA	cov2	NA	orf8		P0DTC8	P0DTC8	viralprotein		NA	FALSE	P0DTC8	NA
+bindingprot	bindingprot	NA	NA	GNAS	-0.301519621	Q5JWF2	Q5JWF2	viralprotein	0.004630797	NA	FALSE	Q5JWF2	NA
+bindingprot	bindingprot	NA	NA	LTBP1		Q14766	Q14766	viralprotein		NA;protein	FALSE	Q14766	NA
+bindingprot	bindingprot	NA	NA	PDIA3	-0.64633083	P30101	P30101	viralprotein	4.43E-13	NA	FALSE	P30101	NA
+bindingprot;protein	bindingprot	NA	NA	ITGA3		P26006	P26006	viralmirna;viralprotein		protein	FALSE	P26006	NA
+bindingprot	bindingprot	NA	NA	IGFBP3	-0.766874541	P17936	P17936	viralprotein	6.70E-07	NA;protein	FALSE	P17936	NA
+bindingprot	bindingprot	NA	NA	SERPINE1		P05121	P05121	viralprotein		NA;protein	FALSE	P05121	NA
+bindingprot;protein;deg	bindingprot	NA	deg	PLAU	0.855067488	P00749	P00749	viralprotein	4.80E-06	NA;protein	FALSE	P00749	NA
+bindingprot	bindingprot	NA	NA	POFUT1		Q9H488	Q9H488	viralmirna;viralprotein		NA	FALSE	Q9H488	NA
+bindingprot	bindingprot	NA	NA	GDF15	-0.374306112	Q99988	Q99988	viralprotein	1	NA	FALSE	Q99988	NA
+bindingprot	bindingprot	NA	NA	OS9	-0.477052599	Q13438	Q13438	viralprotein	1.69E-12	NA	FALSE	Q13438	NA
+bindingprot	bindingprot	NA	NA	PCSK6		P29122	P29122	viralprotein		NA	FALSE	P29122	NA
+bindingprot;protein	bindingprot	NA	NA	ITGB1	-0.826864148	P05556	P05556	viralmirna;viralprotein	6.67E-28	protein	FALSE	P05556	NA
+cov2	NA	cov2	NA	N		P0DTC9	P0DTC9	viralprotein		NA	FALSE	P0DTC9	NA
+bindingprot	bindingprot	NA	NA	PSME3		P61289	P61289	viralprotein		NA	FALSE	P61289	NA
+bindingprot	bindingprot	NA	NA	DLD	-0.250167878	P09622	P09622	viralprotein	5.33E-06	NA	FALSE	P09622	NA
+bindingprot	bindingprot	NA	NA	HNRNPA0		Q13151	Q13151	viralprotein		NA	FALSE	Q13151	NA
+protein	NA	NA	NA	G3BP1		Q13283	Q13283	viralmirna		NA;protein	FALSE	Q13283	NA
+bindingprot	bindingprot	NA	NA	HSPA1A		P0DMV8	P0DMV8	viralprotein		NA	FALSE	P0DMV8	NA
+bindingprot	bindingprot	NA	NA	DDX21		Q9NR30	Q9NR30	viralprotein		NA	FALSE	Q9NR30	NA
+bindingprot	bindingprot	NA	NA	SNIP1	0.309866074	Q8TAD8	Q8TAD8	viralprotein	6.98E-13	NA;protein	FALSE	Q8TAD8	NA
+protein	NA	NA	NA	CSNK2B		P67870	P67870	viralmirna;viralprotein		protein	FALSE	P67870	NA
+bindingprot;protein	bindingprot	NA	NA	CSNK2A2		P19784	P19784	viralprotein		protein	FALSE	P19784	NA
+bindingprot	bindingprot	NA	NA	PABPC1		P11940	P11940	viralprotein		NA	FALSE	P11940	NA
+bindingprot	bindingprot	NA	NA	SSBP1		Q04837	Q04837	viralprotein		NA	FALSE	Q04837	NA
+bindingprot	bindingprot	NA	NA	SRPK1		Q96SB4	Q96SB4	viralmirna;viralprotein		NA	FALSE	Q96SB4	NA
+protein	NA	NA	NA	SRPK2		P78362	P78362	viralmirna;viralprotein		protein	FALSE	P78362	NA
+cov2	NA	cov2	NA	nsp1		P0DTD1-PRO_0000449619	P0DTD1-PRO_0000449619	viralprotein		NA	FALSE	P0DTD1-PRO_0000449619	NA
+bindingprot	bindingprot	NA	NA	EEF1A1	-0.666187449	P68104	P68104	viralprotein	1.13E-13	NA	FALSE	P68104	NA
+bindingprot	bindingprot	NA	NA	EIF3F		O00303	O00303	viralprotein		NA;protein	FALSE	O00303	NA
+cov2	NA	cov2	NA	nsp2		P0DTD1-PRO_0000449620	P0DTD1-PRO_0000449620	viralprotein		NA	FALSE	P0DTD1-PRO_0000449620	NA
+bindingprot	bindingprot	NA	NA	RSL1D1		O76021	O76021	viralprotein		NA	FALSE	O76021	NA
+protein	NA	NA	NA	HNRNPUL1		Q9BUJ2	Q9BUJ2	viralmirna		NA;protein	FALSE	Q9BUJ2	NA
+bindingprot	bindingprot	NA	NA	RAP1GDS1		P52306	P52306	viralprotein		NA	FALSE	P52306	NA
+cov2	NA	cov2	NA	nsp3		P0DTD1-PRO_0000449621	P0DTD1-PRO_0000449621	viralprotein		NA	FALSE	P0DTD1-PRO_0000449621	NA
+bindingprot	bindingprot	NA	NA	FMR1		Q06787	Q06787	viralmirna;viralprotein		NA	FALSE	Q06787	NA
+bindingprot	bindingprot	NA	NA	PARP10	0.444220057	Q53GL7	Q53GL7	viralprotein	2.03E-16	NA	FALSE	Q53GL7	NA
+bindingprot	bindingprot	NA	NA	ISG15	1.757371882	P05161	P05161	viralprotein	2.46E-44	NA	FALSE	P05161	NA
+cov2	NA	cov2	NA	nsp4		P0DTD1-PRO_0000449622	P0DTD1-PRO_0000449622	viralprotein		NA	FALSE	P0DTD1-PRO_0000449622	NA
+bindingprot	bindingprot	NA	NA	PUF60		Q9UHX1	Q9UHX1	viralprotein		NA	FALSE	Q9UHX1	NA
+bindingprot	bindingprot	NA	NA	MTDH		Q86UE4	Q86UE4	viralprotein		NA	FALSE	Q86UE4	NA
+bindingprot	bindingprot	NA	NA	PRPF4B		Q13523	Q13523	viralprotein		NA	FALSE	Q13523	NA
+bindingprot	bindingprot	NA	NA	NKRF		O15226	O15226	viralprotein		NA	FALSE	O15226	NA
+bindingprot	bindingprot	NA	NA	IDE		P14735	P14735	viralmirna;viralprotein		NA	FALSE	P14735	NA
+cov2	NA	cov2	NA	nsp5		P0DTD1-PRO_0000449623	P0DTD1-PRO_0000449623	viralprotein		NA	FALSE	P0DTD1-PRO_0000449623	NA
+bindingprot;protein	bindingprot	NA	NA	HDAC2		Q92769	Q92769	viralprotein		NA;protein	FALSE	Q92769	NA
+cov2	NA	cov2	NA	nsp6		P0DTD1-PRO_0000449624	P0DTD1-PRO_0000449624	viralprotein		NA	FALSE	P0DTD1-PRO_0000449624	NA
+bindingprot	bindingprot	NA	NA	UBIAD1		Q9Y5Z9	Q9Y5Z9	viralprotein		NA	FALSE	Q9Y5Z9	NA
+protein	NA	NA	NA	EBP	-0.464655564	Q15125	Q15125	viralmirna	2.90E-11	NA;protein	FALSE	Q15125	NA
+bindingprot	bindingprot	NA	NA	PEX2		P28328	P28328	viralmirna;viralprotein		NA	FALSE	P28328	NA
+cov2	NA	cov2	NA	nsp7		P0DTD1-PRO_0000449625	P0DTD1-PRO_0000449625	viralprotein		NA	FALSE	P0DTD1-PRO_0000449625	NA
+bindingprot	bindingprot	NA	NA	GNG5	-0.448840535	P63218	P63218	viralprotein	6.28E-07	NA	FALSE	P63218	NA
+bindingprot;protein	bindingprot	NA	NA	GNB1	-0.300643157	P62873	P62873	viralprotein	0.001100588	protein	FALSE	P62873	NA
+bindingprot;protein	bindingprot	NA	NA	RHOA	-0.35638059	P61586	P61586	viralmirna;viralprotein	0.001336826	protein	FALSE	P61586	NA
+bindingprot	bindingprot	NA	NA	RALA	-0.262751683	P11233	P11233	viralprotein	0.187667485	NA	FALSE	P11233	NA
+cov2	NA	cov2	NA	nsp8		P0DTD1-PRO_0000449626	P0DTD1-PRO_0000449626	viralprotein		NA	FALSE	P0DTD1-PRO_0000449626	NA
+bindingprot	bindingprot	NA	NA	ENO1	-0.594563375	P06733	P06733	viralprotein	8.54E-15	NA;protein	FALSE	P06733	NA
+protein	NA	NA	NA	YWHAQ	-0.381570205	P27348	P27348	viralmirna;viralprotein	3.72E-05	protein	FALSE	P27348	NA
+bindingprot	bindingprot	NA	NA	PPP1CB		P62140	P62140	viralprotein		NA	FALSE	P62140	NA
+bindingprot	bindingprot	NA	NA	IFIH1	1.315792555	Q9BYX4	Q9BYX4	viralprotein	1.39E-54	NA	FALSE	Q9BYX4	NA
+cov2	NA	cov2	NA	nsp9		P0DTD1-PRO_0000449627	P0DTD1-PRO_0000449627	viralprotein		NA	FALSE	P0DTD1-PRO_0000449627	NA
+bindingprot	bindingprot	NA	NA	NUP88		Q99567	Q99567	viralprotein		NA	FALSE	Q99567	NA
+bindingprot	bindingprot	NA	NA	NEK9		Q8TD19	Q8TD19	viralprotein		NA	FALSE	Q8TD19	NA
+bindingprot	bindingprot	NA	NA	MIB1		Q86YT6	Q86YT6	viralprotein		NA	FALSE	Q86YT6	NA
+bindingprot	bindingprot	NA	NA	EIF4H	-0.284495708	Q15056	Q15056	viralprotein	0.001711486	NA	FALSE	Q15056	NA
+bindingprot	bindingprot	NA	NA	NUP62	0.421290555	P37198	P37198	viralprotein	2.17E-17	NA	FALSE	P37198	NA
+protein	NA	NA	NA	NUP214		P35658	P35658	viralmirna		NA;protein	FALSE	P35658	NA
+bindingprot	bindingprot	NA	NA	GTF2F2		P13984	P13984	viralprotein		NA	FALSE	P13984	NA
+bindingprot;protein	bindingprot	NA	NA	STAT6		P42226	P42226	viralmirna;viralprotein		protein	FALSE	P42226	NA
+cov2	NA	cov2	NA	nsp10		P0DTD1-PRO_0000449628	P0DTD1-PRO_0000449628	viralprotein		NA	FALSE	P0DTD1-PRO_0000449628	NA
+bindingprot	bindingprot	NA	NA	RBBP7		Q16576	Q16576	viralprotein		NA	FALSE	Q16576	NA
+bindingprot	bindingprot	NA	NA	PCBP2		Q15366	Q15366	viralmirna;viralprotein		NA	FALSE	Q15366	NA
+bindingprot;protein	bindingprot	NA	NA	ZYX		Q15942	Q15942	viralmirna;viralprotein		protein	FALSE	Q15942	NA
+bindingprot	bindingprot	NA	NA	KHSRP		Q92945	Q92945	viralprotein		NA	FALSE	Q92945	NA
+bindingprot	bindingprot	NA	NA	GALK1		P51570	P51570	viralprotein		NA	FALSE	P51570	NA
+bindingprot	bindingprot	NA	NA	AP2M1	-0.436806714	Q96CW1	Q96CW1	viralprotein	2.51E-10	NA;protein	FALSE	Q96CW1	NA
+bindingprot	bindingprot	NA	NA	GFER		P55789	P55789	viralprotein		NA	FALSE	P55789	NA
+bindingprot	bindingprot	NA	NA	AP2A2	-0.257912066	O94973	O94973	viralprotein	0.001428952	NA	FALSE	O94973	NA
+cov2	NA	cov2	NA	nsp12		P0DTD1-PRO_0000449629	P0DTD1-PRO_0000449629	viralprotein		NA	FALSE	P0DTD1-PRO_0000449629	NA
+bindingprot	bindingprot	NA	NA	PSMA4		P25789	P25789	viralprotein		NA	FALSE	P25789	NA
+bindingprot	bindingprot	NA	NA	CRTC3		Q6UUV7	Q6UUV7	viralprotein		NA	FALSE	Q6UUV7	NA
+protein	NA	NA	NA	RIPK1		Q13546	Q13546	viralmirna;viralprotein		protein	FALSE	Q13546	NA
+bindingprot	bindingprot	NA	NA	AKAP8		O43823	O43823	viralprotein		NA	FALSE	O43823	NA
+cov2	NA	cov2	NA	nsp13		P0DTD1-PRO_0000449630	P0DTD1-PRO_0000449630	viralprotein		NA	FALSE	P0DTD1-PRO_0000449630	NA
+bindingprot	bindingprot	NA	NA	PPM1B		O75688	O75688	viralprotein		NA	FALSE	O75688	NA
+bindingprot;protein	bindingprot	NA	NA	PRKACA		P17612	P17612	viralmirna;viralprotein		protein	FALSE	P17612	NA
+bindingprot	bindingprot	NA	NA	HOOK1	-0.261889478	Q9UJC3	Q9UJC3	viralprotein	1.13E-04	NA	FALSE	Q9UJC3	NA
+bindingprot;protein	bindingprot	NA	NA	TBK1		Q9UHD2	Q9UHD2	viralprotein		protein	FALSE	Q9UHD2	NA
+bindingprot	bindingprot	NA	NA	CDK5RAP2		Q96SN8	Q96SN8	viralprotein		NA	FALSE	Q96SN8	NA
+bindingprot	bindingprot	NA	NA	NIN		Q8N4C6	Q8N4C6	viralprotein		NA	FALSE	Q8N4C6	NA
+protein	NA	NA	NA	ERC1		Q8IUD2	Q8IUD2	viralmirna		NA;protein	FALSE	Q8IUD2	NA
+bindingprot	bindingprot	NA	NA	PDE4DIP		Q5VU43	Q5VU43	viralprotein		NA	FALSE	Q5VU43	NA
+bindingprot	bindingprot	NA	NA	GRIPAP1		Q4V328	Q4V328	viralprotein		NA	FALSE	Q4V328	NA
+bindingprot	bindingprot	NA	NA	TLE5		Q08117	Q08117	viralprotein		NA	FALSE	Q08117	NA
+bindingprot	bindingprot	NA	NA	TLE1		Q04724	Q04724	viralprotein		NA	FALSE	Q04724	NA
+bindingprot	bindingprot	NA	NA	RDX		P35241	P35241	viralprotein		NA	FALSE	P35241	NA
+bindingprot;protein	bindingprot	NA	NA	PRKAR2A		P13861	P13861	viralprotein		protein	FALSE	P13861	NA
+bindingprot	bindingprot	NA	NA	FGFR1OP		O95684	O95684	viralprotein		NA	FALSE	O95684	NA
+bindingprot	bindingprot	NA	NA	RNF8		O76064	O76064	viralprotein		NA	FALSE	O76064	NA
+cov2	NA	cov2	NA	nsp14		P0DTD1-PRO_0000449631	P0DTD1-PRO_0000449631	viralprotein		NA	FALSE	P0DTD1-PRO_0000449631	NA
+bindingprot;protein	bindingprot	NA	NA	CRKL		P46109	P46109	viralmirna;viralprotein		protein	FALSE	P46109	NA
+bindingprot	bindingprot	NA	NA	FASN		P49327	P49327	viralprotein		NA	FALSE	P49327	NA
+cov2	NA	cov2	NA	nsp15		P0DTD1-PRO_0000449632	P0DTD1-PRO_0000449632	viralprotein		NA	FALSE	P0DTD1-PRO_0000449632	NA
+bindingprot	bindingprot	NA	NA	PAK1IP1		Q9NWT1	Q9NWT1	viralprotein		NA	FALSE	Q9NWT1	NA
+bindingprot	bindingprot	NA	NA	NOP2		P46087	P46087	viralprotein		NA	FALSE	P46087	NA
+bindingprot	bindingprot	NA	NA	EBNA1BP2		Q99848	Q99848	viralprotein		NA	FALSE	Q99848	NA
+bindingprot	bindingprot	NA	NA	PRKRA		O75569	O75569	viralprotein		NA	FALSE	O75569	NA
+bindingprot;protein	bindingprot	NA	NA	ARHGEF2		Q92974	Q92974	viralprotein		protein	FALSE	Q92974	NA
+bindingprot;protein	bindingprot	NA	NA	RNF41		Q9H4P4	Q9H4P4	viralprotein		protein	FALSE	Q9H4P4	NA
+bindingprot;protein	bindingprot	NA	NA	ARF6		P62330	P62330	viralmirna;viralprotein		protein	FALSE	P62330	NA
+cov2	NA	cov2	NA	orf9b		P0DTD2	P0DTD2	viralprotein		NA	FALSE	P0DTD2	NA
+protein	NA	NA	NA	CALM3	-0.468963587	P0DP25	P0DP25	viralmirna;viralprotein	2.41E-09	protein	FALSE	P0DP25	NA
+bindingprot	bindingprot	NA	NA	MARCKS		P29966	P29966	viralprotein		NA	FALSE	P29966	NA
+protein	NA	NA	NA	RAP1B		P61224	P61224	viralmirna;viralprotein		protein	FALSE	P61224	NA
+bindingprot	bindingprot	NA	NA	MARK1		Q9P0L2	Q9P0L2	viralprotein		NA	FALSE	Q9P0L2	NA
+protein	NA	NA	NA	MARK2		Q7KZI7	Q7KZI7	viralmirna;viralprotein		protein	FALSE	Q7KZI7	NA
+bindingprot	bindingprot	NA	NA	MARK3		P27448	P27448	viralprotein		NA	FALSE	P27448	NA
+bindingprot	bindingprot	NA	NA	SLC9A3R1	-0.602907539	O14745	O14745	viralprotein	1.14E-07	NA	FALSE	O14745	NA
+protein	NA	NA	NA	MAVS		Q7Z434	Q7Z434	viralmirna		NA;protein	FALSE	Q7Z434	NA
+bindingprot	bindingprot	NA	NA	DDX58	1.399092244	O95786	O95786	viralprotein	2.36E-52	NA	FALSE	O95786	NA
+bindingprot	bindingprot	NA	NA	STING1		Q86WV6	Q86WV6	viralprotein		NA	FALSE	Q86WV6	NA
+cov2	NA	cov2	NA	orf14		P0DTD3	P0DTD3	viralprotein		NA	FALSE	P0DTD3	NA
+bindingprot	bindingprot	NA	NA	RUVBL1		Q9Y265	Q9Y265	viralprotein		NA	FALSE	Q9Y265	NA
+bindingprot;protein	bindingprot	NA	NA	PARP1		P09874	P09874	viralmirna;viralprotein		protein	FALSE	P09874	NA
+bindingprot;protein	bindingprot	NA	NA	CDK1		P06493	P06493	viralmirna;viralprotein		protein	FALSE	P06493	NA
+bindingprot;protein	bindingprot	NA	NA	LBR		Q14739	Q14739	viralprotein		protein	FALSE	Q14739	NA
+bindingprot;protein	bindingprot	NA	NA	PCNA		P12004	P12004	viralmirna;viralprotein		protein	FALSE	P12004	NA
+bindingprot	bindingprot	NA	NA	NDUFB9	-0.472927211	Q9Y6M9	Q9Y6M9	viralprotein	3.55E-09	NA	FALSE	Q9Y6M9	NA
+bindingprot	bindingprot	NA	NA	ECSIT		Q9BQ95	Q9BQ95	viralprotein		NA	FALSE	Q9BQ95	NA
+protein	NA	NA	NA	F2RL1		P55085	P55085	viralmirna		NA;protein	FALSE	P55085	NA
+cov2	NA	cov2	NA	orf7b		P0DTD8	P0DTD8	viralprotein		NA	FALSE	P0DTD8	NA
+bindingprot	bindingprot	NA	NA	TIMELESS		Q9UNS1	Q9UNS1	viralprotein		NA	FALSE	Q9UNS1	NA
+bindingprot	bindingprot	NA	NA	PAQR5		Q9NXK6	Q9NXK6	viralprotein		NA	FALSE	Q9NXK6	NA
+bindingprot	bindingprot	NA	NA	HTATIP2		Q9BUP3	Q9BUP3	viralprotein		NA	FALSE	Q9BUP3	NA
+bindingprot;protein	bindingprot	NA	NA	SORT1		Q99523	Q99523	viralprotein		protein	FALSE	Q99523	NA
+bindingprot;protein	bindingprot	NA	NA	PNPLA2		Q96AD5	Q96AD5	viralprotein		protein	FALSE	Q96AD5	NA
+bindingprot	bindingprot	NA	NA	MUL1		Q969V5	Q969V5	viralprotein		NA	FALSE	Q969V5	NA
+bindingprot	bindingprot	NA	NA	LPAR1		Q92633	Q92633	viralprotein		NA	FALSE	Q92633	NA
+bindingprot	bindingprot	NA	NA	ABHD5		Q8WTS1	Q8WTS1	viralprotein		NA	FALSE	Q8WTS1	NA
+bindingprot	bindingprot	NA	NA	XXYLT1		Q8NBI6	Q8NBI6	viralprotein		NA	FALSE	Q8NBI6	NA
+bindingprot;protein	bindingprot	NA	NA	FKBP8	-0.311884085	Q14318	Q14318	viralprotein	1.57E-04	protein	FALSE	Q14318	NA
+bindingprot	bindingprot	NA	NA	EFNB1		P98172	P98172	viralprotein		NA;protein	FALSE	P98172	NA
+bindingprot	bindingprot	NA	NA	CD81		P60033	P60033	viralprotein		NA	FALSE	P60033	NA
+bindingprot	bindingprot	NA	NA	BCAP31	-0.644602247	P51572	P51572	viralprotein	4.15E-18	NA	FALSE	P51572	NA
+bindingprot	bindingprot	NA	NA	TMED10	-0.461680978	P49755	P49755	viralprotein	1.88E-12	NA	FALSE	P49755	NA
+protein	NA	NA	NA	CTNNA1	-0.537126726	P35221	P35221	viralmirna;viralprotein	2.02E-16	protein	FALSE	P35221	NA
+protein	NA	NA	NA	FAS	0.289711957	P25445	P25445	viralmirna;viralprotein	0.004411803	protein	FALSE	P25445	NA
+protein	NA	NA	NA	AREG		P15514	P15514	viralmirna;viralprotein		protein	FALSE	P15514	NA
+protein	NA	NA	NA	ERBB2		P04626	P04626	viralmirna;viralprotein		protein	FALSE	P04626	NA
+bindingprot	bindingprot	NA	NA	CTDNEP1		O95476	O95476	viralprotein		NA	FALSE	O95476	NA
+bindingprot	bindingprot	NA	NA	BNIP3L		O60238	O60238	viralprotein		NA	FALSE	O60238	NA
+bindingprot	bindingprot	NA	NA	EXTL3		O43909	O43909	viralprotein		NA	FALSE	O43909	NA
+bindingprot	bindingprot	NA	NA	SCAMP2		O15127	O15127	viralprotein		NA	FALSE	O15127	NA
+bindingprot	bindingprot	NA	NA	SPNS1		Q9H2V7	Q9H2V7	viralprotein		NA	FALSE	Q9H2V7	NA
+protein	NA	NA	NA	CTNNB1	-0.37621702	P35222	P35222	viralmirna;viralprotein	5.57E-06	protein	FALSE	P35222	NA
+tf	NA	NA	NA	TCF7		P36402	P36402	viralprotein		NA;protein	FALSE	P36402	tf
+protein	NA	NA	NA	ACTN4	-0.552192638	O43707	O43707	viralprotein	4.89E-15	protein	FALSE	O43707	NA
+protein	NA	NA	NA	GNA12		Q03113	Q03113	viralmirna;viralprotein		protein	FALSE	Q03113	NA
+protein	NA	NA	NA	PML	0.617331453	P29590	P29590	viralmirna;viralprotein	9.91E-29	protein	FALSE	P29590	NA
+protein;tf	NA	NA	NA	JUN	2.055600476	P05412	P05412	viralmirna;viralprotein	6.22E-61	protein	FALSE	P05412	tf
+protein	NA	NA	NA	AKT1		P31749	P31749	viralmirna;viralprotein		protein	FALSE	P31749	NA
+protein	NA	NA	NA	CREBBP	0.487972459	Q92793	Q92793	viralmirna;viralprotein	1.18E-12	protein	FALSE	Q92793	NA
+protein	NA	NA	NA	PDGFRB		P09619	P09619	viralmirna;viralprotein		protein	FALSE	P09619	NA
+protein	NA	NA	NA	NRAS		P01111	P01111	viralmirna;viralprotein		protein	FALSE	P01111	NA
+protein	NA	NA	NA	MAPK3	-0.332328921	P27361	P27361	viralmirna;viralprotein	7.41E-08	protein	FALSE	P27361	NA
+protein	NA	NA	NA	RANBP9		Q96S59	Q96S59	viralprotein		protein	FALSE	Q96S59	NA
+protein	NA	NA	NA	ELAVL1		Q15717	Q15717	viralprotein		protein	FALSE	Q15717	NA
+protein	NA	NA	NA	TP53		P04637	P04637	viralmirna;viralprotein		protein	FALSE	P04637	NA
+protein	NA	NA	NA	PIK3R1		P27986	P27986	viralmirna;viralprotein		protein	FALSE	P27986	NA
+protein	NA	NA	NA	PPP1CA		P62136	P62136	viralprotein		protein	FALSE	P62136	NA
+protein	NA	NA	NA	TRIM28		Q13263	Q13263	viralmirna;viralprotein		protein	FALSE	Q13263	NA
+protein	NA	NA	NA	IAPP		P10997	P10997	viralprotein		protein	FALSE	P10997	NA
+protein	NA	NA	NA	MAP3K1		Q13233	Q13233	viralmirna;viralprotein		protein	FALSE	Q13233	NA
+protein	NA	NA	NA	SMAD2	0.307135837	Q15796	Q15796	viralmirna;viralprotein	7.12E-06	protein	FALSE	Q15796	NA
+protein	NA	NA	NA	YWHAE	-0.392947266	P62258	P62258	viralmirna;viralprotein	2.13E-08	protein	FALSE	P62258	NA
+protein;tf	NA	NA	NA	FOXO3		O43524	O43524	viralmirna;viralprotein		protein	FALSE	O43524	tf
+protein	NA	NA	NA	CDKN2A		P42771	P42771	viralmirna;viralprotein		protein	FALSE	P42771	NA
+protein	NA	NA	NA	JAK1		P23458	P23458	viralmirna;viralprotein		protein	FALSE	P23458	NA
+protein	NA	NA	NA	STAT5A		P42229	P42229	viralmirna;viralprotein		protein	FALSE	P42229	NA
+protein	NA	NA	NA	PIK3R3		Q92569	Q92569	viralmirna;viralprotein		protein	FALSE	Q92569	NA
+protein	NA	NA	NA	ANAPC1		Q9H1A4	Q9H1A4	viralmirna;viralprotein		protein	FALSE	Q9H1A4	NA
+protein	NA	NA	NA	EGFR		P00533	P00533	viralmirna;viralprotein		protein	FALSE	P00533	NA
+protein	NA	NA	NA	STAT3		P40763	P40763	viralmirna;viralprotein		protein	FALSE	P40763	NA
+protein	NA	NA	NA	CDH1	-0.516987813	P12830	P12830	viralmirna;viralprotein	3.12E-12	protein	FALSE	P12830	NA
+protein	NA	NA	NA	CCND1	-0.307992177	P24385	P24385	viralmirna;viralprotein	1	protein	FALSE	P24385	NA
+protein	NA	NA	NA	ARAF		P10398	P10398	viralmirna;viralprotein		protein	FALSE	P10398	NA
+protein	NA	NA	NA	ADCY7		P51828	P51828	viralprotein		NA;protein	FALSE	P51828	NA
+protein	NA	NA	NA	GPC3		P51654	P51654	viralprotein		NA;protein	FALSE	P51654	NA
+protein	NA	NA	NA	MAPK9		P45984	P45984	viralmirna;viralprotein		protein	FALSE	P45984	NA
+protein	NA	NA	NA	DAXX		Q9UER7	Q9UER7	viralmirna;viralprotein		protein	FALSE	Q9UER7	NA
+protein	NA	NA	NA	SMAD4		Q13485	Q13485	viralmirna;viralprotein		protein	FALSE	Q13485	NA
+protein	NA	NA	NA	WWTR1		Q9GZV5	Q9GZV5	viralmirna;viralprotein		protein	FALSE	Q9GZV5	NA
+protein	NA	NA	NA	RAC1	-0.496848751	P63000	P63000	viralmirna;viralprotein	8.60E-08	protein	FALSE	P63000	NA
+protein	NA	NA	NA	MEF2D		Q14814	Q14814	viralprotein		protein	FALSE	Q14814	NA
+protein	NA	NA	NA	MAP3K11		Q16584	Q16584	viralprotein		protein	FALSE	Q16584	NA
+protein	NA	NA	NA	IGF1R		P08069	P08069	viralmirna;viralprotein		protein	FALSE	P08069	NA
+tf	NA	NA	NA	USF2		Q15853	Q15853	viralmirna;viralprotein		NA	FALSE	Q15853	tf
+protein	NA	NA	NA	MDM2	0.303983197	Q00987	Q00987	viralmirna;viralprotein	1	protein	FALSE	Q00987	NA
+protein	NA	NA	NA	CAMK2G		Q13555	Q13555	viralmirna;viralprotein		protein	FALSE	Q13555	NA
+protein	NA	NA	NA	NCOR2		Q9Y618	Q9Y618	viralmirna;viralprotein		protein	FALSE	Q9Y618	NA
+protein	NA	NA	NA	BRCA2		P51587	P51587	viralmirna;viralprotein		protein	FALSE	P51587	NA
+bindingprot;protein;tf	bindingprot	NA	NA	SMAD3	0.372682159	P84022	P84022	viralmirna;viralprotein	8.80E-10	protein	FALSE	P84022	tf
+protein	NA	NA	NA	FZD5		Q13467	Q13467	viralprotein		protein	FALSE	Q13467	NA
+protein	NA	NA	NA	CTNND1		O60716	O60716	viralmirna;viralprotein		protein	FALSE	O60716	NA
+protein	NA	NA	NA	PSMB6	-0.342797542	P28072	P28072	viralmirna;viralprotein	0.002110979	protein	FALSE	P28072	NA
+protein;tf	NA	NA	NA	E2F1		Q01094	Q01094	viralmirna;viralprotein		protein	FALSE	Q01094	tf
+protein	NA	NA	NA	RUNX1	0.276779719	Q01196	Q01196	viralprotein	0.015632477	protein	FALSE	Q01196	NA
+bindingprot;protein	bindingprot	NA	NA	CCND3		P30281	P30281	viralmirna;viralprotein		protein	FALSE	P30281	NA
+protein;tf	NA	NA	NA	HIF1A		Q16665	Q16665	viralmirna;viralprotein		protein	FALSE	Q16665	tf
+protein	NA	NA	NA	EIF4E		P06730	P06730	viralmirna;viralprotein		protein	FALSE	P06730	NA
+protein;tf	NA	NA	NA	RELA		Q04206	Q04206	viralmirna;viralprotein		protein	FALSE	Q04206	tf
+protein	NA	NA	NA	CAMK2A		Q9UQM7	Q9UQM7	viralmirna;viralprotein		protein	FALSE	Q9UQM7	NA
+protein	NA	NA	NA	NANOG		Q9H9S0	Q9H9S0	viralprotein		protein	FALSE	Q9H9S0	NA
+protein	NA	NA	NA	SOCS3		O14543	O14543	viralmirna;viralprotein		protein	FALSE	O14543	NA
+protein	NA	NA	NA	BCAR1		P56945	P56945	viralmirna;viralprotein		protein	FALSE	P56945	NA
+protein	NA	NA	NA	SKP2		Q13309	Q13309	viralprotein		protein	FALSE	Q13309	NA
+protein	NA	NA	NA	EP300	0.252533753	Q09472	Q09472	viralmirna;viralprotein	9.02E-05	protein	FALSE	Q09472	NA
+protein	NA	NA	NA	PRKCB		P05771	P05771	viralmirna;viralprotein		protein	FALSE	P05771	NA
+protein	NA	NA	NA	KITLG		P21583	P21583	viralmirna;viralprotein		protein	FALSE	P21583	NA
+protein	NA	NA	NA	CDKN1C		P49918	P49918	viralmirna;viralprotein		protein	FALSE	P49918	NA
+protein	NA	NA	NA	CDK6	0.353761419	Q00534	Q00534	viralmirna;viralprotein	6.55E-06	protein	FALSE	Q00534	NA
+protein	NA	NA	NA	PRKAG1		P54619	P54619	viralprotein		protein	FALSE	P54619	NA
+protein	NA	NA	NA	IKBKB		O14920	O14920	viralmirna;viralprotein		protein	FALSE	O14920	NA
+protein	NA	NA	NA	BCL3	0.788917533	P20749	P20749	viralmirna;viralprotein	4.35E-27	protein	FALSE	P20749	NA
+protein	NA	NA	NA	HDAC3		O15379	O15379	viralmirna;viralprotein		protein	FALSE	O15379	NA
+protein	NA	NA	NA	ROCK1		Q13464	Q13464	viralprotein		protein	FALSE	Q13464	NA
+bindingprot	bindingprot	NA	NA	CTBP2		P56545	P56545	viralmirna		NA;protein	FALSE	P56545	NA
+protein	NA	NA	NA	KHDRBS1		Q07666	Q07666	viralprotein		protein	FALSE	Q07666	NA
+protein;deg	NA	NA	deg	TNF	0.892324005	P01375	P01375	viralmirna;viralprotein	1.58E-26	protein	FALSE	P01375	NA
+tf	NA	NA	NA	KLF4	0.38062308	O43474	O43474	viralmirna;viralprotein	0.00130026	NA	FALSE	O43474	tf
+protein	NA	NA	NA	MAPK8		P45983	P45983	viralmirna;viralprotein		protein	FALSE	P45983	NA
+protein	NA	NA	NA	MAPK14		Q16539	Q16539	viralmirna;viralprotein		protein	FALSE	Q16539	NA
+protein	NA	NA	NA	PRKCD		Q05655	Q05655	viralmirna;viralprotein		protein	FALSE	Q05655	NA
+protein	NA	NA	NA	STMN1		P16949	P16949	viralmirna;viralprotein		protein	FALSE	P16949	NA
+protein	NA	NA	NA	GAB2		Q9UQC2	Q9UQC2	viralmirna;viralprotein		protein	FALSE	Q9UQC2	NA
+protein	NA	NA	NA	TCF7L2		Q9NQB0	Q9NQB0	viralmirna;viralprotein		protein	FALSE	Q9NQB0	NA
+protein	NA	NA	NA	RB1		P06400	P06400	viralmirna;viralprotein		protein	FALSE	P06400	NA
+protein	NA	NA	NA	CDKN2D		P55273	P55273	viralprotein		protein	FALSE	P55273	NA
+protein	NA	NA	NA	CUL1		Q13616	Q13616	viralmirna;viralprotein		protein	FALSE	Q13616	NA
+protein	NA	NA	NA	CSF2	0.378650247	P04141	P04141	viralmirna;viralprotein	1.74E-04	protein	FALSE	P04141	NA
+protein	NA	NA	NA	PPARG		P37231	P37231	viralmirna;viralprotein		protein	FALSE	P37231	NA
+protein	NA	NA	NA	BTRC		Q9Y297	Q9Y297	viralmirna;viralprotein		protein	FALSE	Q9Y297	NA
+protein	NA	NA	NA	PAK1		Q13153	Q13153	viralmirna;viralprotein		protein	FALSE	Q13153	NA
+protein;tf	NA	NA	NA	TFAP2A		P05549	P05549	viralmirna;viralprotein		protein	FALSE	P05549	tf
+protein	NA	NA	NA	JAK3		P52333	P52333	viralmirna;viralprotein		protein	FALSE	P52333	NA
+protein	NA	NA	NA	SRC		P12931	P12931	viralmirna;viralprotein		protein	FALSE	P12931	NA
+protein	NA	NA	NA	WRN		Q14191	Q14191	viralprotein		protein	FALSE	Q14191	NA
+protein	NA	NA	NA	CDKN1A	-0.328163269	P38936	P38936	viralmirna;viralprotein	1	protein	FALSE	P38936	NA
+protein	NA	NA	NA	SIRT2		Q8IXJ6	Q8IXJ6	viralmirna;viralprotein		protein	FALSE	Q8IXJ6	NA
+protein	NA	NA	NA	KAT2B		Q92831	Q92831	viralmirna;viralprotein		protein	FALSE	Q92831	NA
+protein	NA	NA	NA	CSNK1A1		P48729	P48729	viralmirna;viralprotein		protein	FALSE	P48729	NA
+protein	NA	NA	NA	CTBP1		Q13363	Q13363	viralmirna;viralprotein		protein	FALSE	Q13363	NA
+tf	NA	NA	NA	CDX2		Q99626	Q99626	viralmirna;viralprotein		NA	FALSE	Q99626	tf
+tf	NA	NA	NA	ATF3	1.433814467	P18847	P18847	viralmirna;viralprotein	2.46E-16	NA	FALSE	P18847	tf
+protein	NA	NA	NA	BHLHE40	0.719277852	O14503	O14503	viralmirna;viralprotein	3.33E-17	protein	FALSE	O14503	NA
+protein	NA	NA	NA	INSR		P06213	P06213	viralmirna;viralprotein		protein	FALSE	P06213	NA
+protein	NA	NA	NA	CDC42	-0.488522083	P60953	P60953	viralmirna;viralprotein	4.47E-09	protein	FALSE	P60953	NA
+protein	NA	NA	NA	CASP2		P42575	P42575	viralmirna;viralprotein		protein	FALSE	P42575	NA
+protein	NA	NA	NA	CASP6		P55212	P55212	viralmirna;viralprotein		protein	FALSE	P55212	NA
+protein	NA	NA	NA	MAPK1		P28482	P28482	viralmirna;viralprotein		protein	FALSE	P28482	NA
+protein	NA	NA	NA	PRKACB		P22694	P22694	viralmirna;viralprotein		protein	FALSE	P22694	NA
+protein	NA	NA	NA	ARHGEF12		Q9NZN5	Q9NZN5	viralprotein		protein	FALSE	Q9NZN5	NA
+bindingprot;protein	bindingprot	NA	NA	PRKAA1		Q13131	Q13131	viralmirna;viralprotein		protein	FALSE	Q13131	NA
+protein	NA	NA	NA	MTOR		P42345	P42345	viralmirna;viralprotein		protein	FALSE	P42345	NA
+protein	NA	NA	NA	FZD1		Q9UP38	Q9UP38	viralmirna;viralprotein		protein	FALSE	Q9UP38	NA
+protein	NA	NA	NA	CHUK		O15111	O15111	viralmirna;viralprotein		protein	FALSE	O15111	NA
+protein	NA	NA	NA	PRKAB1		Q9Y478	Q9Y478	viralmirna;viralprotein		protein	FALSE	Q9Y478	NA
+protein	NA	NA	NA	HMGA1		P17096	P17096	viralmirna;viralprotein		protein	FALSE	P17096	NA
+protein	NA	NA	NA	NME1		P15531	P15531	viralprotein		protein	FALSE	P15531	NA
+protein	NA	NA	NA	HNF1A		P20823	P20823	viralprotein		protein	FALSE	P20823	NA
+protein	NA	NA	NA	MAP3K7		O43318	O43318	viralmirna;viralprotein		protein	FALSE	O43318	NA
+protein	NA	NA	NA	LRP6		O75581	O75581	viralmirna;viralprotein		protein	FALSE	O75581	NA
+protein	NA	NA	NA	TAF10		Q12962	Q12962	viralmirna;viralprotein		protein	FALSE	Q12962	NA
+protein	NA	NA	NA	CDK4		P11802	P11802	viralmirna;viralprotein		protein	FALSE	P11802	NA
+protein	NA	NA	NA	NEDD4L	0.649083633	Q96PU5	Q96PU5	viralmirna;viralprotein	7.35E-08	protein	FALSE	Q96PU5	NA
+protein	NA	NA	NA	SMC3	-0.254303747	Q9UQE7	Q9UQE7	viralmirna;viralprotein	1	protein	FALSE	Q9UQE7	NA
+protein	NA	NA	NA	CD8B		P10966	P10966	viralprotein		protein	FALSE	P10966	NA
+protein	NA	NA	NA	PTGS2		P35354	P35354	viralmirna;viralprotein		protein	FALSE	P35354	NA
+protein	NA	NA	NA	GADD45A	0.605071493	P24522	P24522	viralmirna;viralprotein	4.14E-08	protein	FALSE	P24522	NA
+protein	NA	NA	NA	RAF1		P04049	P04049	viralmirna;viralprotein		protein	FALSE	P04049	NA
+protein;tf	NA	NA	NA	CEBPB		P17676	P17676	viralmirna;viralprotein		protein	FALSE	P17676	tf
+protein;tf	NA	NA	NA	E2F4		Q16254	Q16254	viralmirna;viralprotein		protein	FALSE	Q16254	tf
+protein;tf	NA	NA	NA	ATF2		P15336	P15336	viralmirna;viralprotein		protein	FALSE	P15336	tf
+protein	NA	NA	NA	KPNB1		Q14974	Q14974	viralmirna;viralprotein		protein	FALSE	Q14974	NA
+protein	NA	NA	NA	PIK3CA		P42336	P42336	viralmirna;viralprotein		protein	FALSE	P42336	NA
+protein	NA	NA	NA	PTK2		Q05397	Q05397	viralmirna;viralprotein		protein	FALSE	Q05397	NA
+protein	NA	NA	NA	SKP1	-0.757009874	P63208	P63208	viralmirna;viralprotein	6.18E-26	protein	FALSE	P63208	NA
+protein	NA	NA	NA	NFKB1	0.556155399	P19838	P19838	viralmirna;viralprotein	1.24E-15	protein	FALSE	P19838	NA
+protein	NA	NA	NA	NR4A1	0.25848254	P22736	P22736	viralmirna;viralprotein	4.64E-04	protein	FALSE	P22736	NA
+bindingprot;protein	bindingprot	NA	NA	CCNE1		P24864	P24864	viralmirna;viralprotein		protein	FALSE	P24864	NA
+protein	NA	NA	NA	MAPK12		P53778	P53778	viralmirna;viralprotein		protein	FALSE	P53778	NA
+protein;tf	NA	NA	NA	FOXO1		Q12778	Q12778	viralmirna;viralprotein		protein	FALSE	Q12778	tf
+protein;deg	NA	NA	deg	EDN1	0.690945985	P05305	P05305	viralmirna;viralprotein	0.032603179	protein	FALSE	P05305	NA
+protein	NA	NA	NA	HOXA10		P31260	P31260	viralprotein		protein	FALSE	P31260	NA
+protein	NA	NA	NA	CDC20		Q12834	Q12834	viralmirna;viralprotein		protein	FALSE	Q12834	NA
+protein	NA	NA	NA	NPM1	-0.413132398	P06748	P06748	viralmirna;viralprotein	1.68E-04	protein	FALSE	P06748	NA
+protein	NA	NA	NA	UBE2D1		P51668	P51668	viralmirna;viralprotein		protein	FALSE	P51668	NA
+protein	NA	NA	NA	MYC		P01106	P01106	viralmirna;viralprotein		protein	FALSE	P01106	NA
+protein	NA	NA	NA	NFATC2		Q13469	Q13469	viralmirna;viralprotein		protein	FALSE	Q13469	NA
+protein	NA	NA	NA	CXCL8	0.855640943	P10145	P10145	viralmirna;viralprotein	6.73E-04	protein	FALSE	P10145	NA
+protein	NA	NA	NA	TNFRSF1B		P20333	P20333	viralprotein		protein	FALSE	P20333	NA
+protein	NA	NA	NA	HES1	1.045826885	Q14469	Q14469	viralmirna;viralprotein	4.32E-16	protein	FALSE	Q14469	NA
+protein	NA	NA	NA	CHEK2		O96017	O96017	viralmirna;viralprotein		protein	FALSE	O96017	NA
+protein	NA	NA	NA	AVP		P01185	P01185	viralprotein		protein	FALSE	P01185	NA
+protein	NA	NA	NA	PPP2CB	-0.504744134	P62714	P62714	viralprotein	6.36E-12	protein	FALSE	P62714	NA
+protein	NA	NA	NA	PPP3CB		P16298	P16298	viralmirna;viralprotein		protein	FALSE	P16298	NA
+protein	NA	NA	NA	DVL3		Q92997	Q92997	viralmirna;viralprotein		protein	FALSE	Q92997	NA
+protein	NA	NA	NA	NCOA3		Q9Y6Q9	Q9Y6Q9	viralmirna;viralprotein		protein	FALSE	Q9Y6Q9	NA
+protein;tf	NA	NA	NA	SP1		P08047	P08047	viralmirna;viralprotein		protein	FALSE	P08047	tf
+protein	NA	NA	NA	FN1		P02751	P02751	viralmirna;viralprotein		protein	FALSE	P02751	NA
+protein	NA	NA	NA	FHL2		Q14192	Q14192	viralprotein		protein	FALSE	Q14192	NA
+protein	NA	NA	NA	VEGFA		P15692	P15692	viralmirna;viralprotein		protein	FALSE	P15692	NA
+protein	NA	NA	NA	HSPA8	-0.359734427	P11142	P11142	viralmirna;viralprotein	4.02E-04	protein	FALSE	P11142	NA
+protein	NA	NA	NA	YWHAZ	-0.564713711	P63104	P63104	viralmirna;viralprotein	7.83E-11	protein	FALSE	P63104	NA
+protein	NA	NA	NA	MAP2K7		O14733	O14733	viralprotein		protein	FALSE	O14733	NA
+protein	NA	NA	NA	TYK2		P29597	P29597	viralmirna;viralprotein		protein	FALSE	P29597	NA
+protein	NA	NA	NA	CDKN1B		P46527	P46527	viralmirna;viralprotein		protein	FALSE	P46527	NA
+protein	NA	NA	NA	CDK9		P50750	P50750	viralmirna;viralprotein		protein	FALSE	P50750	NA
+protein	NA	NA	NA	GNAI3		P08754	P08754	viralmirna;viralprotein		protein	FALSE	P08754	NA
+protein	NA	NA	NA	CHEK1		O14757	O14757	viralmirna;viralprotein		protein	FALSE	O14757	NA
+protein	NA	NA	NA	CASP3		P42574	P42574	viralmirna;viralprotein		protein	FALSE	P42574	NA
+protein	NA	NA	NA	FGF2	0.3720498	P09038	P09038	viralmirna;viralprotein	0.133449668	protein	FALSE	P09038	NA
+protein	NA	NA	NA	NBN		O60934	O60934	viralprotein		protein	FALSE	O60934	NA
+protein	NA	NA	NA	UBE2N		P61088	P61088	viralprotein		protein	FALSE	P61088	NA
+protein	NA	NA	NA	SFN	-0.411504824	P31947	P31947	viralmirna;viralprotein	0.271997943	protein	FALSE	P31947	NA
+protein	NA	NA	NA	H2AX		P16104	P16104	viralmirna;viralprotein		protein	FALSE	P16104	NA
+protein	NA	NA	NA	IKBKE		Q14164	Q14164	viralmirna;viralprotein		protein	FALSE	Q14164	NA
+protein	NA	NA	NA	CSNK2A1		P68400	P68400	viralmirna;viralprotein		protein	FALSE	P68400	NA
+protein	NA	NA	NA	PPP2CA		P67775	P67775	viralmirna;viralprotein		protein	FALSE	P67775	NA
+bindingprot;protein	bindingprot	NA	NA	RBL2		Q08999	Q08999	viralmirna;viralprotein		protein	FALSE	Q08999	NA
+protein	NA	NA	NA	MAP2K1		Q02750	Q02750	viralmirna;viralprotein		protein	FALSE	Q02750	NA
+protein	NA	NA	NA	MAP4K4	0.549587326	O95819	O95819	viralmirna;viralprotein	3.36E-11	protein	FALSE	O95819	NA
+protein	NA	NA	NA	GNAI1		P63096	P63096	viralmirna;viralprotein		protein	FALSE	P63096	NA
+protein	NA	NA	NA	ORC1		Q13415	Q13415	viralmirna;viralprotein		protein	FALSE	Q13415	NA
+protein	NA	NA	NA	PIAS4		Q8N2W9	Q8N2W9	viralmirna;viralprotein		protein	FALSE	Q8N2W9	NA
+protein	NA	NA	NA	UBE2A	-0.304960961	P49459	P49459	viralprotein	1.24E-04	protein	FALSE	P49459	NA
+protein	NA	NA	NA	SMAD6		O43541	O43541	viralmirna;viralprotein		protein	FALSE	O43541	NA
+protein	NA	NA	NA	NELFB		Q8WX92	Q8WX92	viralprotein		protein	FALSE	Q8WX92	NA
+protein	NA	NA	NA	LYN	0.258903997	P07948	P07948	viralmirna;viralprotein	0.002961096	protein	FALSE	P07948	NA
+protein	NA	NA	NA	SOS1		Q07889	Q07889	viralmirna;viralprotein		protein	FALSE	Q07889	NA
+bindingprot;protein;tf	bindingprot	NA	NA	ETS1	0.432867167	P14921	P14921	viralmirna;viralprotein	1.23E-05	protein	FALSE	P14921	tf
+bindingprot;protein	bindingprot	NA	NA	TFDP2		Q14188	Q14188	viralmirna;viralprotein		protein	FALSE	Q14188	NA
+protein	NA	NA	NA	SIRT1		Q96EB6	Q96EB6	viralmirna;viralprotein		protein	FALSE	Q96EB6	NA
+protein	NA	NA	NA	IRS1		P35568	P35568	viralmirna;viralprotein		protein	FALSE	P35568	NA
+protein	NA	NA	NA	CREB1		P16220	P16220	viralmirna;viralprotein		protein	FALSE	P16220	NA
+protein	NA	NA	NA	HDAC5		Q9UQL6	Q9UQL6	viralmirna;viralprotein		protein	FALSE	Q9UQL6	NA
+protein	NA	NA	NA	COL1A1		P02452	P02452	viralprotein		protein	FALSE	P02452	NA
+protein	NA	NA	NA	MAP3K5		Q99683	Q99683	viralmirna;viralprotein		protein	FALSE	Q99683	NA
+protein	NA	NA	NA	CREB3L4		Q8TEY5	Q8TEY5	viralmirna;viralprotein		protein	FALSE	Q8TEY5	NA
+protein	NA	NA	NA	TAB2		Q9NYJ8	Q9NYJ8	viralmirna;viralprotein		protein	FALSE	Q9NYJ8	NA
+protein	NA	NA	NA	EIF2AK2	0.811028973	P19525	P19525	viralmirna;viralprotein	2.92E-32	protein	FALSE	P19525	NA
+protein;tf	NA	NA	NA	STAT1	0.940717937	P42224	P42224	viralmirna;viralprotein	3.26E-34	protein	FALSE	P42224	tf
+protein	NA	NA	NA	SMURF1	0.251528461	Q9HCE7	Q9HCE7	viralprotein	0.004670216	protein	FALSE	Q9HCE7	NA
+protein	NA	NA	NA	HDAC1	-0.343621668	Q13547	Q13547	viralmirna;viralprotein	2.52E-06	protein	FALSE	Q13547	NA
+protein	NA	NA	NA	CSK		P41240	P41240	viralmirna;viralprotein		protein	FALSE	P41240	NA
+protein	NA	NA	NA	MAP2K4		P45985	P45985	viralmirna;viralprotein		protein	FALSE	P45985	NA
+protein	NA	NA	NA	ARAP1		Q96P48	Q96P48	viralprotein		protein	FALSE	Q96P48	NA
+protein	NA	NA	NA	PTPN2		P17706	P17706	viralmirna;viralprotein		protein	FALSE	P17706	NA
+protein	NA	NA	NA	HSP90AA1	-0.474324382	P07900	P07900	viralmirna;viralprotein	3.55E-11	protein	FALSE	P07900	NA
+protein	NA	NA	NA	APEX1		P27695	P27695	viralprotein		protein	FALSE	P27695	NA
+protein	NA	NA	NA	HRAS		P01112	P01112	viralmirna;viralprotein		protein	FALSE	P01112	NA
+protein	NA	NA	NA	TAB1		Q15750	Q15750	viralmirna;viralprotein		protein	FALSE	Q15750	NA
+protein	NA	NA	NA	ARID3A		Q99856	Q99856	viralmirna;viralprotein		protein	FALSE	Q99856	NA
+protein	NA	NA	NA	CCND2	-0.330991357	P30279	P30279	viralmirna;viralprotein	0.704443374	protein	FALSE	P30279	NA
+protein	NA	NA	NA	PTPN6		P29350	P29350	viralprotein		protein	FALSE	P29350	NA
+protein	NA	NA	NA	TNFAIP3	1.517399497	P21580	P21580	viralprotein	6.80E-51	protein	FALSE	P21580	NA
+protein	NA	NA	NA	UBB	-0.463274975	P0CG47	P0CG47	viralmirna;viralprotein	7.49E-12	protein	FALSE	P0CG47	NA
+protein	NA	NA	NA	PLD2		O14939	O14939	viralprotein		protein	FALSE	O14939	NA
+protein	NA	NA	NA	ITGB4	-0.577218275	P16144	P16144	viralmirna;viralprotein	6.04E-13	protein	FALSE	P16144	NA
+protein	NA	NA	NA	EGLN3		Q9H6Z9	Q9H6Z9	viralmirna;viralprotein		protein	FALSE	Q9H6Z9	NA
+protein	NA	NA	NA	CAMK4		Q16566	Q16566	viralmirna;viralprotein		protein	FALSE	Q16566	NA
+protein	NA	NA	NA	H2AZ1		P0C0S5	P0C0S5	viralmirna;viralprotein		protein	FALSE	P0C0S5	NA
+protein	NA	NA	NA	NFATC3		Q12968	Q12968	viralmirna;viralprotein		protein	FALSE	Q12968	NA
+protein	NA	NA	NA	TRAF2		Q12933	Q12933	viralmirna;viralprotein		protein	FALSE	Q12933	NA
+protein	NA	NA	NA	CAMK2D		Q13557	Q13557	viralmirna;viralprotein		protein	FALSE	Q13557	NA
+protein	NA	NA	NA	CKS1B		P61024	P61024	viralmirna;viralprotein		protein	FALSE	P61024	NA
+protein	NA	NA	NA	FYN		P06241	P06241	viralmirna;viralprotein		protein	FALSE	P06241	NA
+protein	NA	NA	NA	AKT2		P31751	P31751	viralmirna;viralprotein		protein	FALSE	P31751	NA
+protein	NA	NA	NA	NEDD4	0.330445507	P46934	P46934	viralprotein	6.10E-07	protein	FALSE	P46934	NA
+protein	NA	NA	NA	PTEN		P60484	P60484	viralmirna;viralprotein		protein	FALSE	P60484	NA
+protein	NA	NA	NA	AXIN1		O15169	O15169	viralmirna;viralprotein		protein	FALSE	O15169	NA
+protein	NA	NA	NA	YWHAH	-0.347159567	Q04917	Q04917	viralmirna;viralprotein	0.354908041	protein	FALSE	Q04917	NA
+protein	NA	NA	NA	PLCG1		P19174	P19174	viralmirna;viralprotein		protein	FALSE	P19174	NA
+protein	NA	NA	NA	MAP2K3		P46734	P46734	viralprotein		protein	FALSE	P46734	NA
+bindingprot;protein	bindingprot	NA	NA	FADD		Q13158	Q13158	viralmirna;viralprotein		protein	FALSE	Q13158	NA
+protein	NA	NA	NA	CCL2	0.40523137	P13500	P13500	viralmirna;viralprotein	0.734819104	protein	FALSE	P13500	NA
+protein	NA	NA	NA	TFDP1		Q14186	Q14186	viralmirna;viralprotein		protein	FALSE	Q14186	NA
+protein	NA	NA	NA	GRB2		P62993	P62993	viralmirna;viralprotein		protein	FALSE	P62993	NA
+protein	NA	NA	NA	PICALM		Q13492	Q13492	viralprotein		protein	FALSE	Q13492	NA
+protein	NA	NA	NA	PLK1		P53350	P53350	viralprotein		protein	FALSE	P53350	NA
+protein	NA	NA	NA	TOPBP1		Q92547	Q92547	viralmirna;viralprotein		protein	FALSE	Q92547	NA
+protein;tf	NA	NA	NA	STAT2	0.486884477	P52630	P52630	viralmirna;viralprotein	1.81E-17	protein	FALSE	P52630	tf
+protein	NA	NA	NA	SIAH1		Q8IUQ4	Q8IUQ4	viralprotein		protein	FALSE	Q8IUQ4	NA
+protein	NA	NA	NA	WEE1		P30291	P30291	viralmirna;viralprotein		protein	FALSE	P30291	NA
+protein	NA	NA	NA	MAP2K2	-0.354175079	P36507	P36507	viralmirna;viralprotein	8.35E-05	protein	FALSE	P36507	NA
+protein	NA	NA	NA	SMAD1		Q15797	Q15797	viralmirna;viralprotein		protein	FALSE	Q15797	NA
+protein	NA	NA	NA	TRAF6		Q9Y4K3	Q9Y4K3	viralmirna;viralprotein		protein	FALSE	Q9Y4K3	NA
+protein	NA	NA	NA	NR2F6		P10588	P10588	viralprotein		protein	FALSE	P10588	NA
+protein;tf	NA	NA	NA	IRF3		Q14653	Q14653	viralmirna;viralprotein		protein	FALSE	Q14653	tf
+protein	NA	NA	NA	RASSF1		Q9NS23	Q9NS23	viralmirna;viralprotein		protein	FALSE	Q9NS23	NA
+protein	NA	NA	NA	ELK1		P19419	P19419	viralmirna;viralprotein		protein	FALSE	P19419	NA
+protein	NA	NA	NA	USP28		Q96RU2	Q96RU2	viralprotein		protein	FALSE	Q96RU2	NA
+protein	NA	NA	NA	PIAS1		O75925	O75925	viralmirna;viralprotein		protein	FALSE	O75925	NA
+bindingprot;protein	bindingprot	NA	NA	MITF		O75030	O75030	viralmirna;viralprotein		protein	FALSE	O75030	NA
+protein	NA	NA	NA	FBXW7	0.362984628	Q969H0	Q969H0	viralprotein	1.00E-09	protein	FALSE	Q969H0	NA
+protein	NA	NA	NA	SRSF2		Q01130	Q01130	viralmirna;viralprotein		protein	FALSE	Q01130	NA
+protein	NA	NA	NA	SUCLA2		Q9P2R7	Q9P2R7	viralprotein		protein	FALSE	Q9P2R7	NA
+protein	NA	NA	NA	TFF1		P04155	P04155	viralprotein		protein	FALSE	P04155	NA
+protein	NA	NA	NA	PPP2R5D		Q14738	Q14738	viralmirna;viralprotein		protein	FALSE	Q14738	NA
+protein	NA	NA	NA	PDGFB	0.261078676	P01127	P01127	viralmirna;viralprotein	0.002193407	protein	FALSE	P01127	NA
+protein	NA	NA	NA	FBXO31		Q5XUX0	Q5XUX0	viralprotein		protein	FALSE	Q5XUX0	NA
+protein	NA	NA	NA	PDGFA		P04085	P04085	viralprotein		protein	FALSE	P04085	NA
+tf	NA	NA	NA	BCL6		P41182	P41182	viralmirna;viralprotein		NA	FALSE	P41182	tf
+protein	NA	NA	NA	NLK		Q9UBE8	Q9UBE8	viralmirna;viralprotein		protein	FALSE	Q9UBE8	NA
+protein	NA	NA	NA	RHOD	-0.252689107	O00212	O00212	viralprotein	0.113539387	protein	FALSE	O00212	NA
+protein	NA	NA	NA	SMAD7		O15105	O15105	viralmirna;viralprotein		protein	FALSE	O15105	NA
+protein	NA	NA	NA	ETV5		P41161	P41161	viralmirna;viralprotein		protein	FALSE	P41161	NA
+protein	NA	NA	NA	VAV3		Q9UKW4	Q9UKW4	viralmirna;viralprotein		protein	FALSE	Q9UKW4	NA
+protein	NA	NA	NA	IL2RG	-0.366157984	P31785	P31785	viralmirna;viralprotein	0.003641566	protein	FALSE	P31785	NA
+protein	NA	NA	NA	ARHGAP35		Q9NRY4	Q9NRY4	viralmirna;viralprotein		protein	FALSE	Q9NRY4	NA
+protein	NA	NA	NA	PIM1		P11309	P11309	viralmirna;viralprotein		protein	FALSE	P11309	NA
+protein	NA	NA	NA	DUSP1	0.518961381	P28562	P28562	viralmirna;viralprotein	3.63E-08	protein	FALSE	P28562	NA
+protein	NA	NA	NA	RARG		P13631	P13631	viralmirna;viralprotein		protein	FALSE	P13631	NA
+protein	NA	NA	NA	ADRB2		P07550	P07550	viralmirna;viralprotein		protein	FALSE	P07550	NA
+protein	NA	NA	NA	IRF5		Q13568	Q13568	viralprotein		protein	FALSE	Q13568	NA
+protein	NA	NA	NA	CAMKK1		Q8N5S9	Q8N5S9	viralmirna;viralprotein		protein	FALSE	Q8N5S9	NA
+protein	NA	NA	NA	TGFB3		P10600	P10600	viralmirna;viralprotein		protein	FALSE	P10600	NA
+protein	NA	NA	NA	ASAP2		O43150	O43150	viralmirna;viralprotein		protein	FALSE	O43150	NA
+protein	NA	NA	NA	AURKB		Q96GD4	Q96GD4	viralprotein		protein	FALSE	Q96GD4	NA
+protein	NA	NA	NA	RACGAP1		Q9H0H5	Q9H0H5	viralmirna;viralprotein		protein	FALSE	Q9H0H5	NA
+protein	NA	NA	NA	DVL2		O14641	O14641	viralmirna;viralprotein		protein	FALSE	O14641	NA
+protein	NA	NA	NA	MAPK7		Q13164	Q13164	viralmirna;viralprotein		protein	FALSE	Q13164	NA
+protein	NA	NA	NA	NCOR1		O75376	O75376	viralmirna;viralprotein		protein	FALSE	O75376	NA
+protein	NA	NA	NA	PKN1		Q16512	Q16512	viralmirna;viralprotein		protein	FALSE	Q16512	NA
+protein	NA	NA	NA	SENP1	0.262414832	Q9P0U3	Q9P0U3	viralmirna;viralprotein	0.001398208	protein	FALSE	Q9P0U3	NA
+protein	NA	NA	NA	SPHK1		Q9NYA1	Q9NYA1	viralprotein		protein	FALSE	Q9NYA1	NA
+protein	NA	NA	NA	CAPN1	-0.356808279	P07384	P07384	viralmirna;viralprotein	7.12E-06	protein	FALSE	P07384	NA
+protein	NA	NA	NA	FGFR2		P21802	P21802	viralmirna;viralprotein		protein	FALSE	P21802	NA
+protein	NA	NA	NA	RPS6KB1		P23443	P23443	viralmirna;viralprotein		protein	FALSE	P23443	NA
+bindingprot;protein	bindingprot	NA	NA	STAT5B		P51692	P51692	viralmirna;viralprotein		protein	FALSE	P51692	NA
+protein	NA	NA	NA	SNCA		P37840	P37840	viralmirna;viralprotein		protein	FALSE	P37840	NA
+protein	NA	NA	NA	SUFU		Q9UMX1	Q9UMX1	viralmirna;viralprotein		protein	FALSE	Q9UMX1	NA
+protein	NA	NA	NA	GLIS2		Q9BZE0	Q9BZE0	viralmirna;viralprotein		protein	FALSE	Q9BZE0	NA
+protein	NA	NA	NA	CDK8		P49336	P49336	viralmirna;viralprotein		protein	FALSE	P49336	NA
+protein	NA	NA	NA	FGFR3		P22607	P22607	viralmirna;viralprotein		protein	FALSE	P22607	NA
+protein	NA	NA	NA	CDK2		P24941	P24941	viralmirna;viralprotein		protein	FALSE	P24941	NA
+protein	NA	NA	NA	HUS1		O60921	O60921	viralprotein		protein	FALSE	O60921	NA
+protein	NA	NA	NA	ILK		Q13418	Q13418	viralmirna;viralprotein		protein	FALSE	Q13418	NA
+protein	NA	NA	NA	BCL2L1		Q07817	Q07817	viralmirna;viralprotein		protein	FALSE	Q07817	NA
+protein	NA	NA	NA	ARHGDIA	-0.310559298	P52565	P52565	viralmirna;viralprotein	0.003923261	protein	FALSE	P52565	NA
+protein	NA	NA	NA	ERBB3		P21860	P21860	viralmirna;viralprotein		protein	FALSE	P21860	NA
+protein	NA	NA	NA	APP	-0.448169747	P05067	P05067	viralmirna;viralprotein	4.76E-09	protein	FALSE	P05067	NA
+protein	NA	NA	NA	SKAP1		Q86WV1	Q86WV1	viralprotein		protein	FALSE	Q86WV1	NA
+protein	NA	NA	NA	MAP4K3		Q8IVH8	Q8IVH8	viralprotein		protein	FALSE	Q8IVH8	NA
+protein	NA	NA	NA	DDB1	-0.251632222	Q16531	Q16531	viralmirna;viralprotein	9.90E-04	protein	FALSE	Q16531	NA
+protein	NA	NA	NA	PIK3CB		P42338	P42338	viralmirna;viralprotein		protein	FALSE	P42338	NA
+protein	NA	NA	NA	KRAS		P01116	P01116	viralprotein		protein	FALSE	P01116	NA
+protein	NA	NA	NA	ITGA1		P56199	P56199	viralmirna;viralprotein		protein	FALSE	P56199	NA
+protein	NA	NA	NA	MDC1		Q14676	Q14676	viralmirna;viralprotein		protein	FALSE	Q14676	NA
+protein	NA	NA	NA	CREB3		O43889	O43889	viralmirna;viralprotein		protein	FALSE	O43889	NA
+protein	NA	NA	NA	BCL2	0.259048809	P10415	P10415	viralmirna;viralprotein	0.258091103	protein	FALSE	P10415	NA
+protein	NA	NA	NA	GSK3B	0.290610639	P49841	P49841	viralmirna;viralprotein	1.82E-05	protein	FALSE	P49841	NA
+protein	NA	NA	NA	RPS6KA2		Q15349	Q15349	viralmirna;viralprotein		protein	FALSE	Q15349	NA
+protein	NA	NA	NA	AURKA		O14965	O14965	viralmirna;viralprotein		protein	FALSE	O14965	NA
+protein	NA	NA	NA	ABL1		P00519	P00519	viralmirna;viralprotein		protein	FALSE	P00519	NA
+protein	NA	NA	NA	HNRNPK	-0.251000516	P61978	P61978	viralmirna;viralprotein	0.086504088	protein	FALSE	P61978	NA
+protein	NA	NA	NA	CALM3	-0.468963587	P0DP23	P0DP23	viralmirna;viralprotein	2.41E-09	protein	FALSE	P0DP23	NA
+protein	NA	NA	NA	MAP2K6		P52564	P52564	viralmirna;viralprotein		protein	FALSE	P52564	NA
+protein	NA	NA	NA	TAF1		P21675	P21675	viralmirna;viralprotein		protein	FALSE	P21675	NA
+protein;tf	NA	NA	NA	FOS	0.585471289	P01100	P01100	viralmirna;viralprotein	1.62E-04	protein	FALSE	P01100	tf
+bindingprot;protein	bindingprot	NA	NA	YWHAG		P61981	P61981	viralmirna;viralprotein		protein	FALSE	P61981	NA
+protein;tf	NA	NA	NA	FOXO4		P98177	P98177	viralmirna;viralprotein		protein	FALSE	P98177	tf
+protein	NA	NA	NA	EFNA1	0.770896792	P20827	P20827	viralmirna;viralprotein	5.31E-19	protein	FALSE	P20827	NA
+protein	NA	NA	NA	FGFR4		P22455	P22455	viralmirna;viralprotein		protein	FALSE	P22455	NA
+protein	NA	NA	NA	PRKCZ		Q05513	Q05513	viralmirna;viralprotein		protein	FALSE	Q05513	NA
+protein	NA	NA	NA	PRDX1	-0.793011755	Q06830	Q06830	viralprotein	5.56E-24	protein	FALSE	Q06830	NA
+protein	NA	NA	NA	TRAF3	0.254413009	Q13114	Q13114	viralprotein	3.05E-05	protein	FALSE	Q13114	NA
+protein	NA	NA	NA	JAG1		P78504	P78504	viralmirna;viralprotein		protein	FALSE	P78504	NA
+protein	NA	NA	NA	PRKAR1B		P31321	P31321	viralprotein		protein	FALSE	P31321	NA
+protein	NA	NA	NA	CREB3L2		Q70SY1	Q70SY1	viralmirna;viralprotein		protein	FALSE	Q70SY1	NA
+protein	NA	NA	NA	IL1A		P01583	P01583	viralprotein		protein	FALSE	P01583	NA
+protein	NA	NA	NA	NCL		P19338	P19338	viralmirna;viralprotein		protein	FALSE	P19338	NA
+protein;tf	NA	NA	NA	IRF2		P14316	P14316	viralmirna		NA;protein	FALSE	P14316	tf
+protein	NA	NA	NA	BIRC5		O15392	O15392	viralprotein		protein	FALSE	O15392	NA
+protein	NA	NA	NA	TSC1		Q92574	Q92574	viralprotein		protein	FALSE	Q92574	NA
+bindingprot;protein	bindingprot	NA	NA	UHMK1		Q8TAS1	Q8TAS1	viralmirna;viralprotein		protein	FALSE	Q8TAS1	NA
+bindingprot;protein;tf	bindingprot	NA	NA	POU2F1		P14859	P14859	viralmirna;viralprotein		protein	FALSE	P14859	tf
+protein	NA	NA	NA	PTK2B		Q14289	Q14289	viralmirna;viralprotein		protein	FALSE	Q14289	NA
+protein	NA	NA	NA	EPHB4		P54760	P54760	viralmirna;viralprotein		protein	FALSE	P54760	NA
+protein	NA	NA	NA	CASP8	0.324884216	Q14790	Q14790	viralmirna;viralprotein	1.73E-08	protein	FALSE	Q14790	NA
+protein	NA	NA	NA	STK11		Q15831	Q15831	viralmirna;viralprotein		protein	FALSE	Q15831	NA
+protein	NA	NA	NA	APC		P25054	P25054	viralmirna;viralprotein		protein	FALSE	P25054	NA
+protein	NA	NA	NA	CDC25A		P30304	P30304	viralmirna;viralprotein		protein	FALSE	P30304	NA
+protein	NA	NA	NA	NR3C1		P04150	P04150	viralmirna;viralprotein		protein	FALSE	P04150	NA
+protein	NA	NA	NA	CCNA2		P20248	P20248	viralmirna;viralprotein		protein	FALSE	P20248	NA
+protein	NA	NA	NA	CYTH2		Q99418	Q99418	viralprotein		protein	FALSE	Q99418	NA
+protein	NA	NA	NA	TNIK		Q9UKE5	Q9UKE5	viralprotein		protein	FALSE	Q9UKE5	NA
+protein	NA	NA	NA	TXN	-0.678770033	P10599	P10599	viralmirna;viralprotein	4.22E-12	protein	FALSE	P10599	NA
+protein	NA	NA	NA	ARHGEF11		O15085	O15085	viralprotein		protein	FALSE	O15085	NA
+bindingprot	bindingprot	NA	NA	YES1		P07947	P07947	viralmirna		NA;protein	FALSE	P07947	NA
+protein	NA	NA	NA	RIPK3		Q9Y572	Q9Y572	viralmirna;viralprotein		protein	FALSE	Q9Y572	NA
+protein	NA	NA	NA	TP53BP1		Q12888	Q12888	viralmirna;viralprotein		protein	FALSE	Q12888	NA
+protein	NA	NA	NA	STAT4		Q14765	Q14765	viralprotein		protein	FALSE	Q14765	NA
+protein	NA	NA	NA	NGEF		Q8N5V2	Q8N5V2	viralmirna;viralprotein		protein	FALSE	Q8N5V2	NA
+protein	NA	NA	NA	PPP1R13L		Q8WUF5	Q8WUF5	viralmirna;viralprotein		protein	FALSE	Q8WUF5	NA
+protein	NA	NA	NA	NFKB2	0.692938336	Q00653	Q00653	viralprotein	3.27E-19	protein	FALSE	Q00653	NA
+protein	NA	NA	NA	RAN		P62826	P62826	viralmirna;viralprotein		protein	FALSE	P62826	NA
+bindingprot;protein	bindingprot	NA	NA	ITGAV		P06756	P06756	viralmirna;viralprotein		protein	FALSE	P06756	NA
+protein	NA	NA	NA	HPSE		Q9Y251	Q9Y251	viralprotein		protein	FALSE	Q9Y251	NA
+protein	NA	NA	NA	SMAD5		Q99717	Q99717	viralmirna;viralprotein		protein	FALSE	Q99717	NA
+protein	NA	NA	NA	BRAF		P15056	P15056	viralmirna;viralprotein		protein	FALSE	P15056	NA
+protein	NA	NA	NA	RALBP1		Q15311	Q15311	viralprotein		protein	FALSE	Q15311	NA
+protein;tf	NA	NA	NA	NFATC1		O95644	O95644	viralmirna;viralprotein		protein	FALSE	O95644	tf
+protein	NA	NA	NA	PROC		P04070	P04070	viralprotein		protein	FALSE	P04070	NA
+protein	NA	NA	NA	PIK3C3		Q8NEB9	Q8NEB9	viralmirna;viralprotein		protein	FALSE	Q8NEB9	NA
+protein	NA	NA	NA	F3	-0.416934018	P13726	P13726	viralprotein	1	protein	FALSE	P13726	NA
+protein	NA	NA	NA	RANGAP1		P46060	P46060	viralmirna;viralprotein		protein	FALSE	P46060	NA
+protein	NA	NA	NA	MCPH1	0.253393665	Q8NEM0	Q8NEM0	viralmirna;viralprotein	2.23E-06	protein	FALSE	Q8NEM0	NA
+protein	NA	NA	NA	PIN1		Q13526	Q13526	viralmirna;viralprotein		protein	FALSE	Q13526	NA
+protein	NA	NA	NA	BAD		Q92934	Q92934	viralmirna;viralprotein		protein	FALSE	Q92934	NA
+protein	NA	NA	NA	GAB1		Q13480	Q13480	viralmirna;viralprotein		protein	FALSE	Q13480	NA
+protein	NA	NA	NA	KSR1		Q8IVT5	Q8IVT5	viralmirna;viralprotein		protein	FALSE	Q8IVT5	NA
+protein	NA	NA	NA	PIK3R2		O00459	O00459	viralmirna;viralprotein		protein	FALSE	O00459	NA
+protein	NA	NA	NA	PRKX		P51817	P51817	viralmirna;viralprotein		protein	FALSE	P51817	NA
+protein	NA	NA	NA	ARHGAP24		Q8N264	Q8N264	viralmirna;viralprotein		protein	FALSE	Q8N264	NA
+protein	NA	NA	NA	DYRK2		Q92630	Q92630	viralmirna;viralprotein		protein	FALSE	Q92630	NA
+protein	NA	NA	NA	TAB3		Q8N5C8	Q8N5C8	viralprotein		protein	FALSE	Q8N5C8	NA
+bindingprot;protein;tf	bindingprot	NA	NA	TEAD1		P28347	P28347	viralmirna		NA;protein	FALSE	P28347	tf
+protein	NA	NA	NA	PPP3CC		P48454	P48454	viralprotein		protein	FALSE	P48454	NA
+protein	NA	NA	NA	HBEGF		Q99075	Q99075	viralprotein		protein	FALSE	Q99075	NA
+protein	NA	NA	NA	RYK		P34925	P34925	viralmirna;viralprotein		protein	FALSE	P34925	NA
+protein;deg	NA	NA	deg	ICAM1	1.249882672	P05362	P05362	viralmirna;viralprotein	2.77E-27	protein	FALSE	P05362	NA
+protein	NA	NA	NA	PRMT5		O14744	O14744	viralprotein		protein	FALSE	O14744	NA
+protein	NA	NA	NA	SUMO1	-0.402567094	P63165	P63165	viralmirna;viralprotein	5.15E-12	protein	FALSE	P63165	NA
+protein	NA	NA	NA	YAP1		P46937	P46937	viralmirna;viralprotein		protein	FALSE	P46937	NA
+protein	NA	NA	NA	LTK		P29376	P29376	viralmirna;viralprotein		protein	FALSE	P29376	NA
+protein	NA	NA	NA	SMARCA4		P51532	P51532	viralprotein		protein	FALSE	P51532	NA
+protein	NA	NA	NA	RASA1		P20936	P20936	viralmirna;viralprotein		protein	FALSE	P20936	NA
+protein	NA	NA	NA	PLCB3		Q01970	Q01970	viralmirna;viralprotein		protein	FALSE	Q01970	NA
+protein	NA	NA	NA	BMP2	0.63032142	P12643	P12643	viralprotein	8.08E-12	protein	FALSE	P12643	NA
+protein	NA	NA	NA	ZFYVE9		O95405	O95405	viralmirna;viralprotein		protein	FALSE	O95405	NA
+protein	NA	NA	NA	MAX		P61244	P61244	viralmirna;viralprotein		protein	FALSE	P61244	NA
+protein	NA	NA	NA	STRAP	-0.279199336	Q9Y3F4	Q9Y3F4	viralmirna;viralprotein	0.002743075	protein	FALSE	Q9Y3F4	NA
+protein	NA	NA	NA	RAD1		O60671	O60671	viralprotein		protein	FALSE	O60671	NA
+protein	NA	NA	NA	NOD2		Q9HC29	Q9HC29	viralprotein		protein	FALSE	Q9HC29	NA
+protein	NA	NA	NA	MDM4	0.365784376	O15151	O15151	viralmirna;viralprotein	7.66E-08	protein	FALSE	O15151	NA
+protein	NA	NA	NA	HSPB1	-0.648933604	P04792	P04792	viralmirna;viralprotein	3.25E-04	protein	FALSE	P04792	NA
+protein	NA	NA	NA	MAP3K3		Q99759	Q99759	viralprotein		protein	FALSE	Q99759	NA
+protein	NA	NA	NA	PLK3		Q9H4B4	Q9H4B4	viralmirna;viralprotein		protein	FALSE	Q9H4B4	NA
+protein	NA	NA	NA	IL1R1		P14778	P14778	viralmirna;viralprotein		protein	FALSE	P14778	NA
+protein	NA	NA	NA	RCHY1		Q96PM5	Q96PM5	viralmirna;viralprotein		protein	FALSE	Q96PM5	NA
+protein	NA	NA	NA	CACNA1A		O00555	O00555	viralmirna;viralprotein		protein	FALSE	O00555	NA
+protein	NA	NA	NA	CASP9		P55211	P55211	viralmirna;viralprotein		protein	FALSE	P55211	NA
+protein	NA	NA	NA	RAC2		P15153	P15153	viralmirna;viralprotein		protein	FALSE	P15153	NA
+protein	NA	NA	NA	PIK3CG		P48736	P48736	viralmirna;viralprotein		protein	FALSE	P48736	NA
+protein	NA	NA	NA	CREB3L1		Q96BA8	Q96BA8	viralmirna;viralprotein		protein	FALSE	Q96BA8	NA
+protein	NA	NA	NA	RAD23B		P54727	P54727	viralprotein		protein	FALSE	P54727	NA
+protein	NA	NA	NA	STK16		O75716	O75716	viralmirna;viralprotein		protein	FALSE	O75716	NA
+protein	NA	NA	NA	VHL		P40337	P40337	viralmirna;viralprotein		protein	FALSE	P40337	NA
+protein	NA	NA	NA	LAMA1		P25391	P25391	viralmirna;viralprotein		protein	FALSE	P25391	NA
+protein	NA	NA	NA	CYTH4		Q9UIA0	Q9UIA0	viralprotein		protein	FALSE	Q9UIA0	NA
+protein	NA	NA	NA	MFNG		O00587	O00587	viralmirna;viralprotein		protein	FALSE	O00587	NA
+protein	NA	NA	NA	TRADD		Q15628	Q15628	viralprotein		protein	FALSE	Q15628	NA
+protein	NA	NA	NA	MLST8		Q9BVC4	Q9BVC4	viralprotein		protein	FALSE	Q9BVC4	NA
+protein	NA	NA	NA	IL4R		P24394	P24394	viralmirna;viralprotein		protein	FALSE	P24394	NA
+protein	NA	NA	NA	PPARA		Q07869	Q07869	viralmirna;viralprotein		protein	FALSE	Q07869	NA
+protein	NA	NA	NA	RAD9A		Q99638	Q99638	viralprotein		protein	FALSE	Q99638	NA
+protein	NA	NA	NA	PSEN1		P49768	P49768	viralmirna;viralprotein		protein	FALSE	P49768	NA
+protein	NA	NA	NA	TGFA		P01135	P01135	viralprotein		protein	FALSE	P01135	NA
+protein	NA	NA	NA	RBPJ		Q06330	Q06330	viralmirna;viralprotein		protein	FALSE	Q06330	NA
+protein;tf	NA	NA	NA	EGR1	1.47786693	P18146	P18146	viralprotein	6.53E-20	protein	FALSE	P18146	tf
+protein	NA	NA	NA	PRKAR1A		P10644	P10644	viralmirna;viralprotein		protein	FALSE	P10644	NA
+protein	NA	NA	NA	GADD45B	0.996832132	O75293	O75293	viralprotein	3.52E-15	protein	FALSE	O75293	NA
+protein	NA	NA	NA	NF2		P35240	P35240	viralmirna;viralprotein		protein	FALSE	P35240	NA
+protein	NA	NA	NA	UIMC1	0.278174911	Q96RL1	Q96RL1	viralprotein	6.45E-06	protein	FALSE	Q96RL1	NA
+protein	NA	NA	NA	COPS5		Q92905	Q92905	viralmirna;viralprotein		protein	FALSE	Q92905	NA
+protein	NA	NA	NA	PIM2		Q9P1W9	Q9P1W9	viralmirna;viralprotein		protein	FALSE	Q9P1W9	NA
+protein	NA	NA	NA	ESR2		Q92731	Q92731	viralmirna;viralprotein		protein	FALSE	Q92731	NA
+protein	NA	NA	NA	EPHA4		P54764	P54764	viralmirna;viralprotein		protein	FALSE	P54764	NA
+protein	NA	NA	NA	DVL1		O14640	O14640	viralmirna;viralprotein		protein	FALSE	O14640	NA
+protein	NA	NA	NA	RXRA		P19793	P19793	viralmirna;viralprotein		protein	FALSE	P19793	NA
+protein	NA	NA	NA	YWHAB	-0.467765946	P31946	P31946	viralmirna;viralprotein	4.99E-12	protein	FALSE	P31946	NA
+protein	NA	NA	NA	CD40		P25942	P25942	viralmirna;viralprotein		protein	FALSE	P25942	NA
+protein	NA	NA	NA	KAT5		Q92993	Q92993	viralmirna;viralprotein		protein	FALSE	Q92993	NA
+protein	NA	NA	NA	BLM		P54132	P54132	viralmirna;viralprotein		protein	FALSE	P54132	NA
+protein	NA	NA	NA	CYTH3		O43739	O43739	viralprotein		protein	FALSE	O43739	NA
+protein	NA	NA	NA	NUMB		P49757	P49757	viralmirna;viralprotein		protein	FALSE	P49757	NA
+protein	NA	NA	NA	MAP3K2		Q9Y2U5	Q9Y2U5	viralprotein		protein	FALSE	Q9Y2U5	NA
+protein	NA	NA	NA	BMP4		P12644	P12644	viralprotein		protein	FALSE	P12644	NA
+protein	NA	NA	NA	ENG		P17813	P17813	viralmirna;viralprotein		protein	FALSE	P17813	NA
+protein	NA	NA	NA	PREX1		Q8TCU6	Q8TCU6	viralmirna;viralprotein		protein	FALSE	Q8TCU6	NA
+protein	NA	NA	NA	PLAUR	0.51684061	Q03405	Q03405	viralprotein	1	protein	FALSE	Q03405	NA
+protein	NA	NA	NA	SIRPA		P78324	P78324	viralprotein		protein	FALSE	P78324	NA
+protein	NA	NA	NA	INCENP		Q9NQS7	Q9NQS7	viralmirna;viralprotein		protein	FALSE	Q9NQS7	NA
+protein	NA	NA	NA	RPS6KB2		Q9UBS0	Q9UBS0	viralmirna;viralprotein		protein	FALSE	Q9UBS0	NA
+protein	NA	NA	NA	AP1S2		P56377	P56377	viralprotein		protein	FALSE	P56377	NA
+protein	NA	NA	NA	GNA11	-0.287048293	P29992	P29992	viralmirna;viralprotein	0.002895695	protein	FALSE	P29992	NA
+protein	NA	NA	NA	SDC1	-0.397359944	P18827	P18827	viralmirna;viralprotein	3.13E-08	protein	FALSE	P18827	NA
+protein;tf	NA	NA	NA	JUND	0.332984524	P17535	P17535	viralmirna;viralprotein	0.001262756	protein	FALSE	P17535	tf
+protein	NA	NA	NA	PRKCI		P41743	P41743	viralmirna;viralprotein		protein	FALSE	P41743	NA
+protein	NA	NA	NA	CCL5	1.213878991	P13501	P13501	viralprotein	3.36E-04	protein	FALSE	P13501	NA
+protein	NA	NA	NA	MTG1		Q9BT17	Q9BT17	viralprotein		protein	FALSE	Q9BT17	NA
+protein	NA	NA	NA	RAPGEF1		Q13905	Q13905	viralmirna;viralprotein		protein	FALSE	Q13905	NA
+protein	NA	NA	NA	CDKN2A		Q8N726	Q8N726	viralmirna;viralprotein		protein	FALSE	Q8N726	NA
+protein	NA	NA	NA	TFF3	-0.445539247	Q07654	Q07654	viralmirna;viralprotein	1	protein	FALSE	Q07654	NA
+protein	NA	NA	NA	ITGAM		P11215	P11215	viralmirna;viralprotein		protein	FALSE	P11215	NA
+protein	NA	NA	NA	PXN		P49023	P49023	viralmirna;viralprotein		protein	FALSE	P49023	NA
+protein	NA	NA	NA	HDAC9	0.43679027	Q9UKV0	Q9UKV0	viralmirna;viralprotein	1.26E-11	protein	FALSE	Q9UKV0	NA
+protein	NA	NA	NA	CXCL1		P09341	P09341	viralprotein		protein	FALSE	P09341	NA
+protein	NA	NA	NA	ARID4A		P29374	P29374	viralmirna;viralprotein		protein	FALSE	P29374	NA
+protein	NA	NA	NA	TFPI	-0.462395678	P10646	P10646	viralprotein	2.97E-06	protein	FALSE	P10646	NA
+protein	NA	NA	NA	ARHGEF5		Q12774	Q12774	viralprotein		protein	FALSE	Q12774	NA
+protein	NA	NA	NA	PIM3	0.939316844	Q86V86	Q86V86	viralmirna;viralprotein	7.14E-30	protein	FALSE	Q86V86	NA
+protein	NA	NA	NA	PTK6		Q13882	Q13882	viralmirna;viralprotein		protein	FALSE	Q13882	NA
+protein	NA	NA	NA	NMI		Q13287	Q13287	viralmirna;viralprotein		protein	FALSE	Q13287	NA
+protein	NA	NA	NA	TRIM24		O15164	O15164	viralmirna;viralprotein		protein	FALSE	O15164	NA
+protein	NA	NA	NA	LRP1		Q07954	Q07954	viralprotein		protein	FALSE	Q07954	NA
+protein	NA	NA	NA	CAMKK2		Q96RR4	Q96RR4	viralmirna;viralprotein		protein	FALSE	Q96RR4	NA
+protein	NA	NA	NA	HSPA2		P54652	P54652	viralprotein		protein	FALSE	P54652	NA
+protein	NA	NA	NA	DKK1		O94907	O94907	viralmirna;viralprotein		protein	FALSE	O94907	NA
+protein	NA	NA	NA	PER1	0.541343027	O15534	O15534	viralmirna;viralprotein	6.99E-10	protein	FALSE	O15534	NA
+protein	NA	NA	NA	GNG2		P59768	P59768	viralmirna;viralprotein		protein	FALSE	P59768	NA
+protein	NA	NA	NA	GRB10		Q13322	Q13322	viralmirna;viralprotein		protein	FALSE	Q13322	NA
+protein	NA	NA	NA	PPP2R5C		Q13362	Q13362	viralprotein		protein	FALSE	Q13362	NA
+protein	NA	NA	NA	RAP1A		P62834	P62834	viralmirna;viralprotein		protein	FALSE	P62834	NA
+protein	NA	NA	NA	DAB2IP	0.340770619	Q5VWQ8	Q5VWQ8	viralprotein	4.37E-05	protein	FALSE	Q5VWQ8	NA
+protein	NA	NA	NA	LIF	0.264915016	P15018	P15018	viralmirna;viralprotein	0.116679342	protein	FALSE	P15018	NA
+protein	NA	NA	NA	PDCD4	-0.484610704	Q53EL6	Q53EL6	viralprotein	6.13E-06	protein	FALSE	Q53EL6	NA
+protein	NA	NA	NA	SOCS1	0.496034456	O15524	O15524	viralmirna;viralprotein	4.76E-16	protein	FALSE	O15524	NA
+protein	NA	NA	NA	PSMC3		P17980	P17980	viralprotein		protein	FALSE	P17980	NA
+protein	NA	NA	NA	KLF5		Q13887	Q13887	viralmirna;viralprotein		protein	FALSE	Q13887	NA
+protein	NA	NA	NA	SMARCB1		Q12824	Q12824	viralprotein		protein	FALSE	Q12824	NA
+protein	NA	NA	NA	APAF1		O14727	O14727	viralmirna;viralprotein		protein	FALSE	O14727	NA
+protein	NA	NA	NA	SMURF2		Q9HAU4	Q9HAU4	viralprotein		protein	FALSE	Q9HAU4	NA
+protein	NA	NA	NA	GRK5		P34947	P34947	viralprotein		protein	FALSE	P34947	NA
+protein	NA	NA	NA	BUB1		O43683	O43683	viralprotein		protein	FALSE	O43683	NA
+protein	NA	NA	NA	ABL2		P42684	P42684	viralmirna;viralprotein		protein	FALSE	P42684	NA
+protein	NA	NA	NA	GADD45G		O95257	O95257	viralprotein		protein	FALSE	O95257	NA
+protein	NA	NA	NA	NR4A3		Q92570	Q92570	viralprotein		protein	FALSE	Q92570	NA
+protein	NA	NA	NA	NCK1		P16333	P16333	viralmirna;viralprotein		protein	FALSE	P16333	NA
+protein	NA	NA	NA	FER		P16591	P16591	viralmirna;viralprotein		protein	FALSE	P16591	NA
+protein	NA	NA	NA	RHOC	-0.555373113	P08134	P08134	viralprotein	1.80E-10	protein	FALSE	P08134	NA
+protein	NA	NA	NA	FARP2		O94887	O94887	viralprotein		protein	FALSE	O94887	NA
+protein	NA	NA	NA	VAV2		P52735	P52735	viralmirna;viralprotein		protein	FALSE	P52735	NA
+bindingprot;protein;tf	bindingprot	NA	NA	TBP		P20226	P20226	viralmirna;viralprotein		protein	FALSE	P20226	tf
+protein	NA	NA	NA	E2F3	0.287222691	O00716	O00716	viralmirna;viralprotein	1.44E-05	protein	FALSE	O00716	NA
+protein	NA	NA	NA	CAMK1D		Q8IU85	Q8IU85	viralmirna;viralprotein		protein	FALSE	Q8IU85	NA
+protein	NA	NA	NA	CYTH1		Q15438	Q15438	viralprotein		protein	FALSE	Q15438	NA
+protein;tf	NA	NA	NA	ATF4		P18848	P18848	viralmirna;viralprotein		protein	FALSE	P18848	tf
+protein	NA	NA	NA	PIAS3		Q9Y6X2	Q9Y6X2	viralmirna;viralprotein		protein	FALSE	Q9Y6X2	NA
+protein	NA	NA	NA	TADA3		O75528	O75528	viralprotein		protein	FALSE	O75528	NA
+protein	NA	NA	NA	ROCK2		O75116	O75116	viralprotein		protein	FALSE	O75116	NA
+protein	NA	NA	NA	P4HB	-0.34452858	P07237	P07237	viralmirna;viralprotein	9.03E-07	protein	FALSE	P07237	NA
+protein	NA	NA	NA	KAT2A		Q92830	Q92830	viralmirna;viralprotein		protein	FALSE	Q92830	NA
+protein	NA	NA	NA	EPHA1		P21709	P21709	viralmirna;viralprotein		protein	FALSE	P21709	NA
+protein	NA	NA	NA	MYLK		Q15746	Q15746	viralmirna;viralprotein		protein	FALSE	Q15746	NA
+protein	NA	NA	NA	CRK		P46108	P46108	viralmirna;viralprotein		protein	FALSE	P46108	NA
+bindingprot	bindingprot	NA	NA	DAAM1		Q9Y4D1	Q9Y4D1	viralmirna		NA;protein	FALSE	Q9Y4D1	NA
+protein	NA	NA	NA	CALM1	-0.757099382	P0DP24	P0DP24	viralprotein	7.63E-37	protein	FALSE	P0DP24	NA
+protein	NA	NA	NA	HDAC4		P56524	P56524	viralmirna;viralprotein		protein	FALSE	P56524	NA
+protein	NA	NA	NA	PPP1R13B		Q96KQ4	Q96KQ4	viralprotein		protein	FALSE	Q96KQ4	NA
+protein	NA	NA	NA	HNF4A		P41235	P41235	viralmirna;viralprotein		protein	FALSE	P41235	NA
+protein	NA	NA	NA	AGER		Q15109	Q15109	viralprotein		protein	FALSE	Q15109	NA
+protein	NA	NA	NA	KAT7		O95251	O95251	viralmirna;viralprotein		protein	FALSE	O95251	NA
+protein	NA	NA	NA	RAC3		P60763	P60763	viralprotein		protein	FALSE	P60763	NA
+protein	NA	NA	NA	TAOK3	-0.354309318	Q9H2K8	Q9H2K8	viralprotein	1.43E-06	protein	FALSE	Q9H2K8	NA
+protein	NA	NA	NA	ARHGAP1		Q07960	Q07960	viralmirna;viralprotein		protein	FALSE	Q07960	NA
+protein	NA	NA	NA	EGLN1		Q9GZT9	Q9GZT9	viralmirna;viralprotein		protein	FALSE	Q9GZT9	NA
+protein	NA	NA	NA	PTTG1		O95997	O95997	viralmirna;viralprotein		protein	FALSE	O95997	NA
+protein	NA	NA	NA	CCNE2		O96020	O96020	viralmirna;viralprotein		protein	FALSE	O96020	NA
+protein	NA	NA	NA	NKX3-1		Q99801	Q99801	viralprotein		protein	FALSE	Q99801	NA
+bindingprot;protein	bindingprot	NA	NA	F2R		P25116	P25116	viralmirna;viralprotein		protein	FALSE	P25116	NA
+protein	NA	NA	NA	PLD1		Q13393	Q13393	viralprotein		protein	FALSE	Q13393	NA
+protein	NA	NA	NA	ADCY3		O60266	O60266	viralprotein		protein	FALSE	O60266	NA
+protein	NA	NA	NA	ACTN2		P35609	P35609	viralprotein		protein	FALSE	P35609	NA
+protein	NA	NA	NA	MMP1		P03956	P03956	viralmirna;viralprotein		protein	FALSE	P03956	NA
+protein	NA	NA	NA	DOCK1		Q14185	Q14185	viralmirna;viralprotein		protein	FALSE	Q14185	NA
+protein	NA	NA	NA	MAP3K14	0.332552923	Q99558	Q99558	viralmirna;viralprotein	1.14E-07	protein	FALSE	Q99558	NA
+protein	NA	NA	NA	ERN1		O75460	O75460	viralprotein		protein	FALSE	O75460	NA
+protein	NA	NA	NA	PIK3C2G		O75747	O75747	viralprotein		protein	FALSE	O75747	NA
+protein	NA	NA	NA	NTRK2		Q16620	Q16620	viralmirna;viralprotein		protein	FALSE	Q16620	NA
+protein	NA	NA	NA	BRCA1		P38398	P38398	viralmirna;viralprotein		protein	FALSE	P38398	NA
+protein	NA	NA	NA	FRK		P42685	P42685	viralprotein		protein	FALSE	P42685	NA
+protein	NA	NA	NA	NOLC1		Q14978	Q14978	viralmirna;viralprotein		protein	FALSE	Q14978	NA
+protein	NA	NA	NA	F11R		Q9Y624	Q9Y624	viralprotein		protein	FALSE	Q9Y624	NA
+protein	NA	NA	NA	HSPG2		P98160	P98160	viralprotein		protein	FALSE	P98160	NA
+protein	NA	NA	NA	IQGAP1	-0.476643188	P46940	P46940	viralprotein	5.28E-09	protein	FALSE	P46940	NA
+protein	NA	NA	NA	PTPRR		Q15256	Q15256	viralprotein		protein	FALSE	Q15256	NA
+protein	NA	NA	NA	PRC1		O43663	O43663	viralprotein		protein	FALSE	O43663	NA
+protein;tf	NA	NA	NA	RARA		P10276	P10276	viralmirna;viralprotein		protein	FALSE	P10276	tf
+protein	NA	NA	NA	MEF2C		Q06413	Q06413	viralmirna;viralprotein		protein	FALSE	Q06413	NA
+bindingprot	bindingprot	NA	NA	TLR4		O00206	O00206	viralmirna		NA;protein	FALSE	O00206	NA
+protein	NA	NA	NA	FARP1		Q9Y4F1	Q9Y4F1	viralprotein		protein	FALSE	Q9Y4F1	NA
+protein	NA	NA	NA	CASP7		P55210	P55210	viralmirna;viralprotein		protein	FALSE	P55210	NA
+protein	NA	NA	NA	PTPN1		P18031	P18031	viralprotein		protein	FALSE	P18031	NA
+protein	NA	NA	NA	THRA		P10827	P10827	viralprotein		protein	FALSE	P10827	NA
+protein	NA	NA	NA	XPC		Q01831	Q01831	viralprotein		protein	FALSE	Q01831	NA
+protein	NA	NA	NA	TERT		O14746	O14746	viralmirna;viralprotein		protein	FALSE	O14746	NA
+protein	NA	NA	NA	HGS		O14964	O14964	viralprotein		protein	FALSE	O14964	NA
+protein	NA	NA	NA	TMSB4X	-1.021263291	P62328	P62328	viralprotein	7.75E-30	protein	FALSE	P62328	NA
+protein	NA	NA	NA	ARHGEF1		Q92888	Q92888	viralprotein		protein	FALSE	Q92888	NA
+protein	NA	NA	NA	DAPK1		P53355	P53355	viralmirna;viralprotein		protein	FALSE	P53355	NA
+bindingprot	bindingprot	NA	NA	PIKFYVE		Q9Y2I7	Q9Y2I7	viralmirna		NA;protein	FALSE	Q9Y2I7	NA
+protein	NA	NA	NA	NET1		Q7Z628	Q7Z628	viralprotein		protein	FALSE	Q7Z628	NA
+protein	NA	NA	NA	EREG		O14944	O14944	viralprotein		protein	FALSE	O14944	NA
+protein	NA	NA	NA	TLN1	-0.396231082	Q9Y490	Q9Y490	viralprotein	4.32E-08	protein	FALSE	Q9Y490	NA
+protein	NA	NA	NA	LDLRAP1		Q5SW96	Q5SW96	viralprotein		protein	FALSE	Q5SW96	NA
+protein	NA	NA	NA	DNMT3A		Q9Y6K1	Q9Y6K1	viralprotein		protein	FALSE	Q9Y6K1	NA
+protein	NA	NA	NA	HMGN1	-0.265284925	P05114	P05114	viralmirna;viralprotein	1	protein	FALSE	P05114	NA
+protein	NA	NA	NA	ZNF274		Q96GC6	Q96GC6	viralprotein		protein	FALSE	Q96GC6	NA
+protein	NA	NA	NA	TCF3		P15923	P15923	viralprotein		protein	FALSE	P15923	NA
+protein	NA	NA	NA	LRRFIP1		Q32MZ4	Q32MZ4	viralmirna;viralprotein		protein	FALSE	Q32MZ4	NA
+protein	NA	NA	NA	TRIO	0.376003251	O75962	O75962	viralprotein	5.60E-04	protein	FALSE	O75962	NA
+protein	NA	NA	NA	PRDX3	-0.345272716	P30048	P30048	viralprotein	1.42E-07	protein	FALSE	P30048	NA
+protein	NA	NA	NA	RIN1		Q13671	Q13671	viralmirna;viralprotein		protein	FALSE	Q13671	NA
+protein	NA	NA	NA	TLR2		O60603	O60603	viralprotein		protein	FALSE	O60603	NA
+protein	NA	NA	NA	PHGDH		O43175	O43175	viralmirna;viralprotein		protein	FALSE	O43175	NA
+protein	NA	NA	NA	ACTN1		P12814	P12814	viralprotein		protein	FALSE	P12814	NA
+protein;tf	NA	NA	NA	JUNB	0.863619099	P17275	P17275	viralmirna	9.40E-27	NA;protein	FALSE	P17275	tf
+protein	NA	NA	NA	HDAC7		Q8WUI4	Q8WUI4	viralmirna;viralprotein		protein	FALSE	Q8WUI4	NA
+protein	NA	NA	NA	LITAF		Q99732	Q99732	viralprotein		protein	FALSE	Q99732	NA
+protein	NA	NA	NA	PPP3CA		Q08209	Q08209	viralmirna;viralprotein		protein	FALSE	Q08209	NA
+protein	NA	NA	NA	CSF1	0.814852159	P09603	P09603	viralprotein	1.70E-22	protein	FALSE	P09603	NA
+protein	NA	NA	NA	ADCY4		Q8NFM4	Q8NFM4	viralprotein		protein	FALSE	Q8NFM4	NA
+protein	NA	NA	NA	LFNG		Q8NES3	Q8NES3	viralmirna;viralprotein		protein	FALSE	Q8NES3	NA
+protein	NA	NA	NA	RRAGC		Q9HB90	Q9HB90	viralprotein		protein	FALSE	Q9HB90	NA
+protein	NA	NA	NA	CBLB		Q13191	Q13191	viralmirna;viralprotein		protein	FALSE	Q13191	NA
+protein	NA	NA	NA	GTF2I		P78347	P78347	viralprotein		protein	FALSE	P78347	NA
+protein	NA	NA	NA	MST1R		Q04912	Q04912	viralmirna;viralprotein		protein	FALSE	Q04912	NA
+protein	NA	NA	NA	CFLAR	0.760945788	O15519	O15519	viralprotein	2.46E-12	protein	FALSE	O15519	NA
+protein	NA	NA	NA	FOXM1		Q08050	Q08050	viralmirna;viralprotein		protein	FALSE	Q08050	NA
+protein	NA	NA	NA	TTC5		Q8N0Z6	Q8N0Z6	viralprotein		protein	FALSE	Q8N0Z6	NA
+protein	NA	NA	NA	CAMK1		Q14012	Q14012	viralprotein		protein	FALSE	Q14012	NA
+protein	NA	NA	NA	CDS1	-0.334890579	Q92903	Q92903	viralprotein	1.30E-05	protein	FALSE	Q92903	NA
+protein	NA	NA	NA	IRAK3		Q9Y616	Q9Y616	viralprotein		protein	FALSE	Q9Y616	NA
+protein	NA	NA	NA	CDK7		P50613	P50613	viralmirna;viralprotein		protein	FALSE	P50613	NA
+protein	NA	NA	NA	CAPN2	-0.359116863	P17655	P17655	viralmirna;viralprotein	5.96E-05	protein	FALSE	P17655	NA
+protein	NA	NA	NA	CDC34		P49427	P49427	viralprotein		protein	FALSE	P49427	NA
+protein	NA	NA	NA	PTAFR		P25105	P25105	viralmirna;viralprotein		protein	FALSE	P25105	NA
+protein	NA	NA	NA	CSNK1D		P48730	P48730	viralprotein		protein	FALSE	P48730	NA
+protein	NA	NA	NA	LATS1	0.28771811	O95835	O95835	viralmirna;viralprotein	1.18E-06	protein	FALSE	O95835	NA
+protein	NA	NA	NA	VIL1	-0.778651467	P09327	P09327	viralmirna;viralprotein	1.87E-11	protein	FALSE	P09327	NA
+protein	NA	NA	NA	ETV1		P50549	P50549	viralmirna;viralprotein		protein	FALSE	P50549	NA
+protein	NA	NA	NA	HDAC8		Q9BY41	Q9BY41	viralmirna;viralprotein		protein	FALSE	Q9BY41	NA
+protein	NA	NA	NA	TSC2		P49815	P49815	viralmirna;viralprotein		protein	FALSE	P49815	NA
+protein	NA	NA	NA	ARRB1		P49407	P49407	viralprotein		protein	FALSE	P49407	NA
+protein	NA	NA	NA	ZNF420		Q8TAQ5	Q8TAQ5	viralprotein		protein	FALSE	Q8TAQ5	NA
+protein	NA	NA	NA	EPN1		Q9Y6I3	Q9Y6I3	viralprotein		protein	FALSE	Q9Y6I3	NA
+deg	NA	NA	deg	CCL5	1.213878991	D0EI67	D0EI67	viralmirna;viralprotein	3.36E-04	NA	FALSE	D0EI67	NA
+deg	NA	NA	deg	ANXA1	-0.762959857	P04083	P04083	viralmirna;viralprotein	0.011490554	NA	FALSE	P04083	NA
+deg	NA	NA	deg	CXCL8	0.855640943	A0A024RDA5	A0A024RDA5	viralmirna;viralprotein	6.73E-04	NA	FALSE	A0A024RDA5	NA
+deg	NA	NA	deg	CFLAR	0.760945788	A0A024R3Z7	A0A024R3Z7	viralmirna;viralprotein	2.46E-12	NA	FALSE	A0A024R3Z7	NA
+deg	NA	NA	deg	DSC2	-0.544987205	Q02487	Q02487	viralmirna;viralprotein	2.49E-11	NA	FALSE	Q02487	NA
+deg	NA	NA	deg	RTN4	-0.637018425	Q9NQC3	Q9NQC3	viralmirna;viralprotein	5.03E-22	NA	FALSE	Q9NQC3	NA
+deg	NA	NA	deg	CALM3	-0.468963587	B4DJ51	B4DJ51	viralmirna;viralprotein	2.41E-09	NA	FALSE	B4DJ51	NA
+deg	NA	NA	deg	CALR	-0.890450865	P27797	P27797	viralmirna;viralprotein	6.45E-26	NA	FALSE	P27797	NA
+deg	NA	NA	deg	TIMP2	-0.589935798	A0A140VK57	A0A140VK57	viralmirna;viralprotein	1.65E-13	NA	FALSE	A0A140VK57	NA
+deg	NA	NA	deg	CDH1	-0.516987813	B3GN61	B3GN61	viralmirna;viralprotein	3.12E-12	NA	FALSE	B3GN61	NA
+deg	NA	NA	deg	TNFSF10	0.89167405	P50591	P50591	viralmirna;viralprotein	4.06E-15	NA	FALSE	P50591	NA
+deg	NA	NA	deg	HSP90B1	-0.82430819	P14625	P14625	viralmirna;viralprotein	1.24E-18	NA	FALSE	P14625	NA
+deg	NA	NA	deg	MDK	-0.757621132	P21741	P21741	viralmirna;viralprotein	2.25E-04	NA	FALSE	P21741	NA
+deg	NA	NA	deg	CXCL10	1.956666305	A0A024RDA4	A0A024RDA4	viralmirna;viralprotein	5.17E-38	NA	FALSE	A0A024RDA4	NA
+deg	NA	NA	deg	BST2	0.698243538	A0A024R7H5	A0A024R7H5	viralmirna;viralprotein	4.79E-14	NA	FALSE	A0A024R7H5	NA
+deg	NA	NA	deg	IFNL1	0.823328382	Q8IU54	Q8IU54	viralmirna;viralprotein	1.82E-07	NA	FALSE	Q8IU54	NA
+deg	NA	NA	deg	CSF1	0.814852159	A0A024R0A1	A0A024R0A1	viralmirna;viralprotein	1.70E-22	NA	FALSE	A0A024R0A1	NA
+deg	NA	NA	deg	CXCL2	1.283049763	A0A024RDD9	A0A024RDD9	viralmirna;viralprotein	1.79E-28	NA	FALSE	A0A024RDD9	NA
+deg	NA	NA	deg	CXCL3	0.961438999	P19876	P19876	viralmirna;viralprotein	3.96E-12	NA	FALSE	P19876	NA
+deg	NA	NA	deg	S100A6	-0.58612517	P06703	P06703	viralmirna;viralprotein	5.06E-11	NA	FALSE	P06703	NA
+deg	NA	NA	deg	CX3CL1	0.875600115	A0N0N7	A0N0N7	viralmirna;viralprotein	6.29E-26	NA	FALSE	A0N0N7	NA
+deg	NA	NA	deg	TNFSF13B	0.616633324	Q9Y275	Q9Y275	viralmirna;viralprotein	4.18E-19	NA	FALSE	Q9Y275	NA
+cov2	NA	cov2	NA	NA		cov-miR-1	cov-miR-1	viralmirna		NA	FALSE	cov-miR-1	NA
+bindingprot	bindingprot	NA	NA	SENP8		Q96LD8	Q96LD8	viralmirna		NA	FALSE	Q96LD8	NA
+bindingprot	bindingprot	NA	NA	MAPK6		Q16659	Q16659	viralmirna		NA	FALSE	Q16659	NA
+bindingprot;protein	bindingprot	NA	NA	FLT1		P17948	P17948	viralmirna		protein	FALSE	P17948	NA
+bindingprot	bindingprot	NA	NA	PPP2R2A	0.275121113	P63151	P63151	viralmirna	1.62E-05	NA	FALSE	P63151	NA
+bindingprot	bindingprot	NA	NA	APLF		Q8IW19	Q8IW19	viralmirna		NA	FALSE	Q8IW19	NA
+bindingprot	bindingprot	NA	NA	ACVR2B		Q13705	Q13705	viralmirna		NA	FALSE	Q13705	NA
+bindingprot	bindingprot	NA	NA	VANGL1		Q8TAA9	Q8TAA9	viralmirna		NA	FALSE	Q8TAA9	NA
+bindingprot	bindingprot	NA	NA	RPGRIP1L		Q68CZ1	Q68CZ1	viralmirna		NA	FALSE	Q68CZ1	NA
+bindingprot	bindingprot	NA	NA	KDM5C		P41229	P41229	viralmirna		NA	FALSE	P41229	NA
+bindingprot	bindingprot	NA	NA	PARD6B		Q9BYG5	Q9BYG5	viralmirna		NA	FALSE	Q9BYG5	NA
+bindingprot	bindingprot	NA	NA	ARHGAP12		Q8IWW6	Q8IWW6	viralmirna		NA	FALSE	Q8IWW6	NA
+bindingprot	bindingprot	NA	NA	BCORL1		Q5H9F3	Q5H9F3	viralmirna		NA	FALSE	Q5H9F3	NA
+bindingprot	bindingprot	NA	NA	SCYL2		Q6P3W7	Q6P3W7	viralmirna		NA	FALSE	Q6P3W7	NA
+cov2	NA	cov2	NA	NA		cov-miR-2	cov-miR-2	viralmirna		NA	FALSE	cov-miR-2	NA
+bindingprot	bindingprot	NA	NA	FKBP5		Q13451	Q13451	viralmirna		NA	FALSE	Q13451	NA
+bindingprot	bindingprot	NA	NA	GRIN2A		Q12879	Q12879	viralmirna		NA	FALSE	Q12879	NA
+bindingprot	bindingprot	NA	NA	CDK12	0.469746155	Q9NYV4	Q9NYV4	viralmirna	3.05E-08	NA	FALSE	Q9NYV4	NA
+cov2	NA	cov2	NA	NA		cov-miR-3	cov-miR-3	viralmirna		NA	FALSE	cov-miR-3	NA
+bindingprot	bindingprot	NA	NA	RGS19		P49795	P49795	viralmirna		NA	FALSE	P49795	NA
+bindingprot	bindingprot	NA	NA	LRP2		P98164	P98164	viralmirna		NA	FALSE	P98164	NA
+bindingprot	bindingprot	NA	NA	ARPC1A	-0.306676442	Q92747	Q92747	viralmirna	0.06488308	NA	FALSE	Q92747	NA
+bindingprot	bindingprot	NA	NA	SS18L1		O75177	O75177	viralmirna		NA	FALSE	O75177	NA
+bindingprot;protein	bindingprot	NA	NA	PAX6		P26367	P26367	viralmirna		protein	FALSE	P26367	NA
+bindingprot	bindingprot	NA	NA	SEMA6D		Q8NFY4	Q8NFY4	viralmirna		NA	FALSE	Q8NFY4	NA
+bindingprot	bindingprot	NA	NA	PAG1		Q9NWQ8	Q9NWQ8	viralmirna		NA	FALSE	Q9NWQ8	NA
+bindingprot	bindingprot	NA	NA	CREM		Q03060	Q03060	viralmirna		NA	FALSE	Q03060	NA
+bindingprot	bindingprot	NA	NA	MME		P08473	P08473	viralmirna		NA	FALSE	P08473	NA
+cov2	NA	cov2	NA	NA		cov-miR-4	cov-miR-4	viralmirna		NA	FALSE	cov-miR-4	NA
+bindingprot	bindingprot	NA	NA	RCAN1	0.66610806	P53805	P53805	viralmirna	3.12E-08	NA	FALSE	P53805	NA
+bindingprot	bindingprot	NA	NA	ENAH		Q8N8S7	Q8N8S7	viralmirna		NA	FALSE	Q8N8S7	NA
+bindingprot	bindingprot	NA	NA	PPP6C		O00743	O00743	viralmirna		NA	FALSE	O00743	NA
+bindingprot	bindingprot	NA	NA	SLC10A2	-0.352923088	Q12908	Q12908	viralmirna	1	NA	FALSE	Q12908	NA
+bindingprot	bindingprot	NA	NA	RLIM		Q9NVW2	Q9NVW2	viralmirna		NA	FALSE	Q9NVW2	NA
+bindingprot;protein	bindingprot	NA	NA	ACTR2	-0.459648064	P61160	P61160	viralmirna	8.32E-14	protein	FALSE	P61160	NA
+bindingprot	bindingprot	NA	NA	PDP1	0.257095073	Q9P0J1	Q9P0J1	viralmirna	0.001022141	NA	FALSE	Q9P0J1	NA
+cov2	NA	cov2	NA	NA		cov-miR-5	cov-miR-5	viralmirna		NA	FALSE	cov-miR-5	NA
+bindingprot	bindingprot	NA	NA	CAPRIN2		Q6IMN6	Q6IMN6	viralmirna		NA	FALSE	Q6IMN6	NA
+bindingprot	bindingprot	NA	NA	DCTN5		Q9BTE1	Q9BTE1	viralmirna		NA	FALSE	Q9BTE1	NA
+bindingprot	bindingprot	NA	NA	TXLNG		Q9NUQ3	Q9NUQ3	viralmirna		NA	FALSE	Q9NUQ3	NA
+bindingprot	bindingprot	NA	NA	CDC42BPA		Q5VT25	Q5VT25	viralmirna		NA	FALSE	Q5VT25	NA
+bindingprot	bindingprot	NA	NA	CXCL6		P80162	P80162	viralmirna		NA	FALSE	P80162	NA
+bindingprot	bindingprot	NA	NA	NEK6		Q9HC98	Q9HC98	viralmirna		NA	FALSE	Q9HC98	NA
+cov2	NA	cov2	NA	NA		cov-miR-6	cov-miR-6	viralmirna		NA	FALSE	cov-miR-6	NA
+bindingprot	bindingprot	NA	NA	KPNA6		O60684	O60684	viralmirna		NA	FALSE	O60684	NA
+bindingprot;protein	bindingprot	NA	NA	IRF6		O14896	O14896	viralmirna		protein	FALSE	O14896	NA
+bindingprot	bindingprot	NA	NA	AMOT		Q4VCS5	Q4VCS5	viralmirna		NA	FALSE	Q4VCS5	NA
+bindingprot	bindingprot	NA	NA	CTDSPL		O15194	O15194	viralmirna		NA	FALSE	O15194	NA
+bindingprot;protein	bindingprot	NA	NA	IL7R		P16871	P16871	viralmirna		protein	FALSE	P16871	NA
+bindingprot	bindingprot	NA	NA	PTPN21		Q16825	Q16825	viralmirna		NA	FALSE	Q16825	NA
+bindingprot;protein	bindingprot	NA	NA	RPTOR		Q8N122	Q8N122	viralmirna		protein	FALSE	Q8N122	NA
+bindingprot	bindingprot	NA	NA	MCF2L		O15068	O15068	viralmirna		NA	FALSE	O15068	NA
+bindingprot	bindingprot	NA	NA	TPR		P12270	P12270	viralmirna		NA	FALSE	P12270	NA
+bindingprot	bindingprot	NA	NA	ASXL2		Q76L83	Q76L83	viralmirna		NA	FALSE	Q76L83	NA
+bindingprot	bindingprot	NA	NA	DISP2		A7MBM2	A7MBM2	viralmirna		NA	FALSE	A7MBM2	NA
+bindingprot	bindingprot	NA	NA	MYCBP		Q99417	Q99417	viralmirna		NA	FALSE	Q99417	NA
+bindingprot	bindingprot	NA	NA	PRMT2		P55345	P55345	viralmirna		NA	FALSE	P55345	NA
+cov2	NA	cov2	NA	NA		cov-miR-7	cov-miR-7	viralmirna		NA	FALSE	cov-miR-7	NA
+bindingprot	bindingprot	NA	NA	IFNLR1		Q8IU57	Q8IU57	viralmirna		NA	FALSE	Q8IU57	NA
+bindingprot	bindingprot	NA	NA	EIF5B		O60841	O60841	viralmirna		NA	FALSE	O60841	NA
+bindingprot	bindingprot	NA	NA	TXNRD1	-0.898538211	Q16881	Q16881	viralmirna	8.64E-12	NA	FALSE	Q16881	NA
+cov2	NA	cov2	NA	NA		cov-miR-8	cov-miR-8	viralmirna		NA	FALSE	cov-miR-8	NA
+bindingprot	bindingprot	NA	NA	AAK1		Q2M2I8	Q2M2I8	viralmirna		NA	FALSE	Q2M2I8	NA
+bindingprot	bindingprot	NA	NA	THBS2		P35442	P35442	viralmirna		NA	FALSE	P35442	NA
+bindingprot	bindingprot	NA	NA	UVRAG	0.441734552	Q9P2Y5	Q9P2Y5	viralmirna	1.66E-13	NA	FALSE	Q9P2Y5	NA
+bindingprot;protein	bindingprot	NA	NA	STK4		Q13043	Q13043	viralmirna		protein	FALSE	Q13043	NA
+bindingprot	bindingprot	NA	NA	CREBZF		Q9NS37	Q9NS37	viralmirna		NA	FALSE	Q9NS37	NA
+bindingprot	bindingprot	NA	NA	NEK3		P51956	P51956	viralmirna		NA	FALSE	P51956	NA
+cov2	NA	cov2	NA	NA		cov-miR-9	cov-miR-9	viralmirna		NA	FALSE	cov-miR-9	NA
+bindingprot	bindingprot	NA	NA	CISD2		Q8N5K1	Q8N5K1	viralmirna		NA	FALSE	Q8N5K1	NA
+bindingprot	bindingprot	NA	NA	NFIB		O00712	O00712	viralmirna		NA	FALSE	O00712	NA
+bindingprot	bindingprot	NA	NA	CUL4A		Q13619	Q13619	viralmirna		NA	FALSE	Q13619	NA
+bindingprot	bindingprot	NA	NA	GNB4		Q9HAV0	Q9HAV0	viralmirna		NA	FALSE	Q9HAV0	NA
+bindingprot	bindingprot	NA	NA	SENP2		Q9HC62	Q9HC62	viralmirna		NA	FALSE	Q9HC62	NA
+bindingprot	bindingprot	NA	NA	ARID1A	0.462241869	O14497	O14497	viralmirna	1.64E-17	NA	FALSE	O14497	NA
+bindingprot	bindingprot	NA	NA	CYFIP2		Q96F07	Q96F07	viralmirna		NA	FALSE	Q96F07	NA
+bindingprot	bindingprot	NA	NA	MED1		Q15648	Q15648	viralmirna		NA	FALSE	Q15648	NA
+bindingprot	bindingprot	NA	NA	HIPK2	0.392915984	Q9H2X6	Q9H2X6	viralmirna	8.87E-10	NA	FALSE	Q9H2X6	NA
+bindingprot	bindingprot	NA	NA	TERF1		P54274	P54274	viralmirna		NA	FALSE	P54274	NA
+bindingprot;protein	bindingprot	NA	NA	PPARGC1A		Q9UBK2	Q9UBK2	viralmirna		protein	FALSE	Q9UBK2	NA
+bindingprot	bindingprot	NA	NA	IL20RA		Q9UHF4	Q9UHF4	viralmirna		NA	FALSE	Q9UHF4	NA
+bindingprot	bindingprot	NA	NA	PLEKHG3	0.487874357	A1L390	A1L390	viralmirna	2.43E-11	NA	FALSE	A1L390	NA
+bindingprot	bindingprot	NA	NA	BACH1		O14867	O14867	viralmirna		NA	FALSE	O14867	NA
+bindingprot	bindingprot	NA	NA	DUSP4		Q13115	Q13115	viralmirna		NA	FALSE	Q13115	NA
+cov2	NA	cov2	NA	NA		cov-miR-10	cov-miR-10	viralmirna		NA	FALSE	cov-miR-10	NA
+bindingprot;protein	bindingprot	NA	NA	PPP3R1		P63098	P63098	viralmirna		protein	FALSE	P63098	NA
+bindingprot	bindingprot	NA	NA	GNB2		P62879	P62879	viralmirna		NA	FALSE	P62879	NA
+bindingprot	bindingprot	NA	NA	TNFRSF9	0.455456637	Q07011	Q07011	viralmirna	1.09E-04	NA	FALSE	Q07011	NA
+bindingprot	bindingprot	NA	NA	TP53RK		Q96S44	Q96S44	viralmirna		NA	FALSE	Q96S44	NA
+bindingprot	bindingprot	NA	NA	OPTN		Q96CV9	Q96CV9	viralmirna		NA	FALSE	Q96CV9	NA
+bindingprot	bindingprot	NA	NA	GNG12	-0.448881509	Q9UBI6	Q9UBI6	viralmirna	4.93E-10	NA	FALSE	Q9UBI6	NA
+bindingprot	bindingprot	NA	NA	FAM13B		Q9NYF5	Q9NYF5	viralmirna		NA	FALSE	Q9NYF5	NA
+cov2	NA	cov2	NA	NA		cov-miR-11	cov-miR-11	viralmirna		NA	FALSE	cov-miR-11	NA
+bindingprot	bindingprot	NA	NA	PHLPP2		Q6ZVD8	Q6ZVD8	viralmirna		NA	FALSE	Q6ZVD8	NA
+bindingprot	bindingprot	NA	NA	HIF1AN		Q9NWT6	Q9NWT6	viralmirna		NA	FALSE	Q9NWT6	NA
+bindingprot	bindingprot	NA	NA	UBE4A		Q14139	Q14139	viralmirna		NA	FALSE	Q14139	NA
+bindingprot;protein	bindingprot	NA	NA	RBBP4		Q09028	Q09028	viralmirna		protein	FALSE	Q09028	NA
+cov2	NA	cov2	NA	NA		cov-miR-12	cov-miR-12	viralmirna		NA	FALSE	cov-miR-12	NA
+bindingprot	bindingprot	NA	NA	UBL4A		P11441	P11441	viralmirna		NA	FALSE	P11441	NA
+bindingprot;protein	bindingprot	NA	NA	PDK2		Q15119	Q15119	viralmirna		protein	FALSE	Q15119	NA
+bindingprot	bindingprot	NA	NA	SSTR2		P30874	P30874	viralmirna		NA	FALSE	P30874	NA
+bindingprot;protein	bindingprot	NA	NA	SDC4	0.927455169	P31431	P31431	viralmirna	1.40E-15	protein	FALSE	P31431	NA
+bindingprot	bindingprot	NA	NA	XIAP		P98170	P98170	viralmirna		NA	FALSE	P98170	NA
+cov2	NA	cov2	NA	NA		cov-miR-13	cov-miR-13	viralmirna		NA	FALSE	cov-miR-13	NA
+bindingprot	bindingprot	NA	NA	TSLP		Q969D9	Q969D9	viralmirna		NA	FALSE	Q969D9	NA
+bindingprot	bindingprot	NA	NA	RANBP2		P49792	P49792	viralmirna		NA	FALSE	P49792	NA
+bindingprot	bindingprot	NA	NA	SPRED1		Q7Z699	Q7Z699	viralmirna		NA	FALSE	Q7Z699	NA
+bindingprot	bindingprot	NA	NA	SUPT7L		O94864	O94864	viralmirna		NA	FALSE	O94864	NA
+bindingprot	bindingprot	NA	NA	HOXA7		P31268	P31268	viralmirna		NA	FALSE	P31268	NA
+bindingprot	bindingprot	NA	NA	POM121		Q96HA1	Q96HA1	viralmirna		NA	FALSE	Q96HA1	NA
+cov2	NA	cov2	NA	NA		cov-miR-14	cov-miR-14	viralmirna		NA	FALSE	cov-miR-14	NA
+bindingprot	bindingprot	NA	NA	USP4		Q13107	Q13107	viralmirna		NA	FALSE	Q13107	NA
+cov2	NA	cov2	NA	NA		cov-miR-15	cov-miR-15	viralmirna		NA	FALSE	cov-miR-15	NA
+bindingprot	bindingprot	NA	NA	CDK14		O94921	O94921	viralmirna		NA	FALSE	O94921	NA
+bindingprot	bindingprot	NA	NA	CCNG1		P51959	P51959	viralmirna		NA	FALSE	P51959	NA
+cov2	NA	cov2	NA	NA		cov-miR-16	cov-miR-16	viralmirna		NA	FALSE	cov-miR-16	NA
+bindingprot	bindingprot	NA	NA	PRNP		P04156	P04156	viralmirna		NA	FALSE	P04156	NA
+bindingprot;protein	bindingprot	NA	NA	MAML1		Q92585	Q92585	viralmirna		protein	FALSE	Q92585	NA
+bindingprot	bindingprot	NA	NA	ULK1		O75385	O75385	viralmirna		NA	FALSE	O75385	NA
+bindingprot	bindingprot	NA	NA	STK40		Q8N2I9	Q8N2I9	viralmirna		NA	FALSE	Q8N2I9	NA
+bindingprot	bindingprot	NA	NA	TXK		P42681	P42681	viralmirna		NA	FALSE	P42681	NA
+cov2	NA	cov2	NA	NA		cov-miR-17	cov-miR-17	viralmirna		NA	FALSE	cov-miR-17	NA
+bindingprot	bindingprot	NA	NA	SPTLC1		O15269	O15269	viralmirna		NA	FALSE	O15269	NA
+bindingprot	bindingprot	NA	NA	ASPH	-0.342284425	Q12797	Q12797	viralmirna	0.001533377	NA	FALSE	Q12797	NA
+bindingprot	bindingprot	NA	NA	TPPP		O94811	O94811	viralmirna		NA	FALSE	O94811	NA
+cov2	NA	cov2	NA	NA		cov-miR-18	cov-miR-18	viralmirna		NA	FALSE	cov-miR-18	NA
+bindingprot	bindingprot	NA	NA	PDCD6IP	-0.354478454	Q8WUM4	Q8WUM4	viralmirna	5.97E-07	NA	FALSE	Q8WUM4	NA
+bindingprot;protein	bindingprot	NA	NA	ACVR1C		Q8NER5	Q8NER5	viralmirna		protein	FALSE	Q8NER5	NA
+bindingprot	bindingprot	NA	NA	ZBTB5		O15062	O15062	viralmirna		NA	FALSE	O15062	NA
+bindingprot	bindingprot	NA	NA	ARHGAP32		A7KAX9	A7KAX9	viralmirna		NA	FALSE	A7KAX9	NA
+bindingprot	bindingprot	NA	NA	IKZF3	0.29137669	Q9UKT9	Q9UKT9	viralmirna	0.055709679	NA	FALSE	Q9UKT9	NA
+bindingprot;protein	bindingprot	NA	NA	LIMK2		P53671	P53671	viralmirna		protein	FALSE	P53671	NA
+cov2	NA	cov2	NA	NA		cov-miR-19	cov-miR-19	viralmirna		NA	FALSE	cov-miR-19	NA
+bindingprot	bindingprot	NA	NA	EYA3		Q99504	Q99504	viralmirna		NA	FALSE	Q99504	NA
+bindingprot	bindingprot	NA	NA	ZMYND11		Q15326	Q15326	viralmirna		NA	FALSE	Q15326	NA
+bindingprot	bindingprot	NA	NA	SRGAP1		Q7Z6B7	Q7Z6B7	viralmirna		NA	FALSE	Q7Z6B7	NA
+bindingprot	bindingprot	NA	NA	DEK		P35659	P35659	viralmirna		NA	FALSE	P35659	NA
+bindingprot	bindingprot	NA	NA	SPRY3		O43610	O43610	viralmirna		NA	FALSE	O43610	NA
+protein	NA	NA	NA	CASP1		P29466	P29466	viralmirna		protein	FALSE	P29466	NA
+protein	NA	NA	NA	PRKCA		P17252	P17252	viralmirna		protein	FALSE	P17252	NA
+protein	NA	NA	NA	CBX5		P45973	P45973	viralmirna		protein	FALSE	P45973	NA
+protein	NA	NA	NA	SH2B1		Q9NRF2	Q9NRF2	viralmirna		protein	FALSE	Q9NRF2	NA
+protein	NA	NA	NA	CBL		P22681	P22681	viralmirna		protein	FALSE	P22681	NA
+protein	NA	NA	NA	IFNAR1		P17181	P17181	viralmirna		protein	FALSE	P17181	NA
+protein	NA	NA	NA	LAMB2		P55268	P55268	viralmirna		protein	FALSE	P55268	NA
+protein	NA	NA	NA	HLA-DRA		P01903	P01903	viralmirna		protein	FALSE	P01903	NA
+protein	NA	NA	NA	ANAPC2		Q9UJX6	Q9UJX6	viralmirna		protein	FALSE	Q9UJX6	NA
+protein	NA	NA	NA	IKBKG		Q9Y6K9	Q9Y6K9	viralmirna		protein	FALSE	Q9Y6K9	NA
+protein	NA	NA	NA	SYK		P43405	P43405	viralmirna		protein	FALSE	P43405	NA
+protein;tf	NA	NA	NA	IRF1	1.787109806	P10914	P10914	viralmirna	3.68E-74	protein	FALSE	P10914	tf
+protein	NA	NA	NA	ANAPC10		Q9UM13	Q9UM13	viralmirna		protein	FALSE	Q9UM13	NA
+protein	NA	NA	NA	NOS2		P35228	P35228	viralmirna		protein	FALSE	P35228	NA
+protein	NA	NA	NA	IL12RB1		P42701	P42701	viralmirna		protein	FALSE	P42701	NA
+protein	NA	NA	NA	SMARCC2		Q8TAQ2	Q8TAQ2	viralmirna		protein	FALSE	Q8TAQ2	NA
+protein	NA	NA	NA	RCC1		P18754	P18754	viralmirna		protein	FALSE	P18754	NA
+protein	NA	NA	NA	RASGRP3		Q8IV61	Q8IV61	viralmirna		protein	FALSE	Q8IV61	NA
+protein	NA	NA	NA	CDK16		Q00536	Q00536	viralmirna		protein	FALSE	Q00536	NA
+protein	NA	NA	NA	NUP153		P49790	P49790	viralmirna		protein	FALSE	P49790	NA
+protein	NA	NA	NA	STK24		Q9Y6E0	Q9Y6E0	viralmirna		protein	FALSE	Q9Y6E0	NA
+protein	NA	NA	NA	IFNAR2		P48551	P48551	viralmirna		protein	FALSE	P48551	NA
+protein	NA	NA	NA	PIK3R4		Q99570	Q99570	viralmirna		protein	FALSE	Q99570	NA
+protein	NA	NA	NA	FRS2	0.495670225	Q8WU20	Q8WU20	viralmirna	3.86E-20	protein	FALSE	Q8WU20	NA
+protein	NA	NA	NA	FGF11		Q92914	Q92914	viralmirna		protein	FALSE	Q92914	NA
+protein	NA	NA	NA	H3-3B		P84243	P84243	viralmirna		protein	FALSE	P84243	NA
+protein	NA	NA	NA	IL12RB2		Q99665	Q99665	viralmirna		protein	FALSE	Q99665	NA
+protein	NA	NA	NA	NUP35		Q8NFH5	Q8NFH5	viralmirna		protein	FALSE	Q8NFH5	NA
+protein	NA	NA	NA	MAPK13		O15264	O15264	viralmirna		protein	FALSE	O15264	NA
+protein	NA	NA	NA	DGKZ		Q13574	Q13574	viralmirna		protein	FALSE	Q13574	NA
+protein	NA	NA	NA	MTA1		Q13330	Q13330	viralmirna		protein	FALSE	Q13330	NA
+protein;tf	NA	NA	NA	ETS2	0.514811748	P15036	P15036	viralmirna	1.52E-12	protein	FALSE	P15036	tf
+protein	NA	NA	NA	CAT		P04040	P04040	viralmirna		protein	FALSE	P04040	NA
+protein	NA	NA	NA	ZNF692		Q9BU19	Q9BU19	viralmirna		protein	FALSE	Q9BU19	NA
+protein	NA	NA	NA	GTF3A		Q92664	Q92664	viralmirna		protein	FALSE	Q92664	NA
+protein	NA	NA	NA	SOCS2	0.479186046	O14508	O14508	viralmirna	1.22E-07	protein	FALSE	O14508	NA
+protein	NA	NA	NA	IL6R		P08887	P08887	viralmirna		protein	FALSE	P08887	NA
+protein	NA	NA	NA	SGK1		O00141	O00141	viralmirna		protein	FALSE	O00141	NA
+protein	NA	NA	NA	LAMA5		O15230	O15230	viralmirna		protein	FALSE	O15230	NA
+protein	NA	NA	NA	SREBF1		P36956	P36956	viralmirna		protein	FALSE	P36956	NA
+protein	NA	NA	NA	IL12A		P29459	P29459	viralmirna		protein	FALSE	P29459	NA
+protein	NA	NA	NA	LATS2		Q9NRM7	Q9NRM7	viralmirna		protein	FALSE	Q9NRM7	NA
+protein	NA	NA	NA	ANAPC4		Q9UJX5	Q9UJX5	viralmirna		protein	FALSE	Q9UJX5	NA
+protein	NA	NA	NA	ANGPT2		O15123	O15123	viralmirna		protein	FALSE	O15123	NA
+protein	NA	NA	NA	PDK1		Q15118	Q15118	viralmirna		protein	FALSE	Q15118	NA
+protein	NA	NA	NA	DAPP1	0.492480915	Q9UN19	Q9UN19	viralmirna	4.30E-10	protein	FALSE	Q9UN19	NA
+protein	NA	NA	NA	KPNA2		P52292	P52292	viralmirna		protein	FALSE	P52292	NA
+protein	NA	NA	NA	NR1I3		Q14994	Q14994	viralmirna		protein	FALSE	Q14994	NA
+protein	NA	NA	NA	LAMA3	-0.416947338	Q16787	Q16787	viralmirna	0.02533552	protein	FALSE	Q16787	NA
+protein	NA	NA	NA	MAF1		Q9H063	Q9H063	viralmirna		protein	FALSE	Q9H063	NA
+protein	NA	NA	NA	PER2		O15055	O15055	viralmirna		protein	FALSE	O15055	NA
+protein	NA	NA	NA	LIMK1		P53667	P53667	viralmirna		protein	FALSE	P53667	NA
+protein	NA	NA	NA	RBL1		P28749	P28749	viralmirna		protein	FALSE	P28749	NA
+protein	NA	NA	NA	FGF18		O76093	O76093	viralmirna		protein	FALSE	O76093	NA
+protein	NA	NA	NA	TSC22D3		Q99576	Q99576	viralmirna		protein	FALSE	Q99576	NA
+protein	NA	NA	NA	MYOM2		P54296	P54296	viralmirna		protein	FALSE	P54296	NA
+protein	NA	NA	NA	ITGA2	-0.311356871	P17301	P17301	viralmirna	0.364298321	protein	FALSE	P17301	NA
+protein	NA	NA	NA	ECT2		Q9H8V3	Q9H8V3	viralmirna		protein	FALSE	Q9H8V3	NA
+protein	NA	NA	NA	SKI		P12755	P12755	viralmirna		protein	FALSE	P12755	NA
+protein	NA	NA	NA	FGF12		P61328	P61328	viralmirna		protein	FALSE	P61328	NA
+protein	NA	NA	NA	IFNB1		P01574	P01574	viralmirna		protein	FALSE	P01574	NA
+protein	NA	NA	NA	ARNT		P27540	P27540	viralmirna		protein	FALSE	P27540	NA
+protein	NA	NA	NA	PKM	-0.447789185	P14618	P14618	viralmirna	9.01E-10	protein	FALSE	P14618	NA
+protein	NA	NA	NA	TIRAP		P58753	P58753	viralmirna		protein	FALSE	P58753	NA
+protein	NA	NA	NA	SUV39H1		O43463	O43463	viralmirna		protein	FALSE	O43463	NA
+protein	NA	NA	NA	MECOM		Q03112	Q03112	viralmirna		protein	FALSE	Q03112	NA
+protein	NA	NA	NA	CSNK1G2		P78368	P78368	viralmirna		protein	FALSE	P78368	NA
+protein	NA	NA	NA	LAMA2		P24043	P24043	viralmirna		protein	FALSE	P24043	NA
+protein	NA	NA	NA	CDC27		P30260	P30260	viralmirna		protein	FALSE	P30260	NA
+protein	NA	NA	NA	NR0B2	-0.275046627	Q15466	Q15466	viralmirna	0.014469101	protein	FALSE	Q15466	NA
+protein	NA	NA	NA	EFNB2		P52799	P52799	viralmirna		protein	FALSE	P52799	NA
+protein	NA	NA	NA	ITGB6		P18564	P18564	viralmirna		protein	FALSE	P18564	NA
+protein	NA	NA	NA	E2F5		Q15329	Q15329	viralmirna		protein	FALSE	Q15329	NA
+protein	NA	NA	NA	CDKN2B		P42772	P42772	viralmirna		protein	FALSE	P42772	NA
+protein	NA	NA	NA	CDC26		Q8NHZ8	Q8NHZ8	viralmirna		protein	FALSE	Q8NHZ8	NA
+protein	NA	NA	NA	FLNA		P21333	P21333	viralmirna		protein	FALSE	P21333	NA
+protein	NA	NA	NA	FOXA1		P55317	P55317	viralmirna		protein	FALSE	P55317	NA
+protein	NA	NA	NA	FGF7		P21781	P21781	viralmirna		protein	FALSE	P21781	NA
+protein	NA	NA	NA	NR1I2		O75469	O75469	viralmirna		protein	FALSE	O75469	NA
+protein	NA	NA	NA	PTPN12		Q05209	Q05209	viralmirna		protein	FALSE	Q05209	NA
+protein	NA	NA	NA	NR1H3		Q13133	Q13133	viralmirna		protein	FALSE	Q13133	NA
+protein	NA	NA	NA	RIPK2	0.846635796	O43353	O43353	viralmirna	8.08E-23	protein	FALSE	O43353	NA
+protein	NA	NA	NA	NCOA1		Q15788	Q15788	viralmirna		protein	FALSE	Q15788	NA
+protein	NA	NA	NA	IL22RA1		Q8N6P7	Q8N6P7	viralmirna		protein	FALSE	Q8N6P7	NA
+protein;tf	NA	NA	NA	CEBPA		P49715	P49715	viralmirna		protein	FALSE	P49715	tf
+protein	NA	NA	NA	CCR6		P51684	P51684	viralmirna		protein	FALSE	P51684	NA
+protein	NA	NA	NA	PAK2		Q13177	Q13177	viralmirna		protein	FALSE	Q13177	NA
+protein	NA	NA	NA	PIAS2		O75928	O75928	viralmirna		protein	FALSE	O75928	NA
+protein	NA	NA	NA	EPAS1		Q99814	Q99814	viralmirna		protein	FALSE	Q99814	NA
+protein	NA	NA	NA	SOCS7		O14512	O14512	viralmirna		protein	FALSE	O14512	NA
+protein	NA	NA	NA	NRIP1	0.521024716	P48552	P48552	viralmirna	1.49E-13	protein	FALSE	P48552	NA
+protein	NA	NA	NA	DAPK3		O43293	O43293	viralmirna		protein	FALSE	O43293	NA
+protein	NA	NA	NA	MST1		P26927	P26927	viralmirna		protein	FALSE	P26927	NA
+protein	NA	NA	NA	MDFI		Q99750	Q99750	viralmirna		protein	FALSE	Q99750	NA
+protein	NA	NA	NA	PTPRB		P23467	P23467	viralmirna		protein	FALSE	P23467	NA
+protein	NA	NA	NA	CDKN2C		P42773	P42773	viralmirna		protein	FALSE	P42773	NA
+protein	NA	NA	NA	E2F2		Q14209	Q14209	viralmirna		protein	FALSE	Q14209	NA
+protein	NA	NA	NA	CCNT1		O60563	O60563	viralmirna		protein	FALSE	O60563	NA
+protein	NA	NA	NA	MAPK8IP1		Q9UQF2	Q9UQF2	viralmirna		protein	FALSE	Q9UQF2	NA
+protein	NA	NA	NA	UXT		Q9UBK9	Q9UBK9	viralmirna		protein	FALSE	Q9UBK9	NA
+protein	NA	NA	NA	LAT		O43561	O43561	viralmirna		protein	FALSE	O43561	NA
+protein	NA	NA	NA	IL18	-0.447929438	Q14116	Q14116	viralmirna	5.74E-06	protein	FALSE	Q14116	NA
+protein	NA	NA	NA	TLR3		O15455	O15455	viralmirna		protein	FALSE	O15455	NA
+protein	NA	NA	NA	C8orf44-SGK3		Q96BR1	Q96BR1	viralmirna		protein	FALSE	Q96BR1	NA
+protein	NA	NA	NA	HDAC6		Q9UBN7	Q9UBN7	viralmirna		protein	FALSE	Q9UBN7	NA
+protein	NA	NA	NA	VEGFB		P49765	P49765	viralmirna		protein	FALSE	P49765	NA
+protein	NA	NA	NA	GTF2A2		P52657	P52657	viralmirna		protein	FALSE	P52657	NA
+protein	NA	NA	NA	FGF19		O95750	O95750	viralmirna		protein	FALSE	O95750	NA
+protein	NA	NA	NA	SOCS4		Q8WXH5	Q8WXH5	viralmirna		protein	FALSE	Q8WXH5	NA
+protein	NA	NA	NA	SAP18	-0.319774302	O00422	O00422	viralmirna	2.26E-05	protein	FALSE	O00422	NA
+protein	NA	NA	NA	NCK2		O43639	O43639	viralmirna		protein	FALSE	O43639	NA
+protein	NA	NA	NA	MAP2K5		Q13163	Q13163	viralmirna		protein	FALSE	Q13163	NA
+protein	NA	NA	NA	ULK2		Q8IYT8	Q8IYT8	viralmirna		protein	FALSE	Q8IYT8	NA
+protein	NA	NA	NA	EIF4EBP1	-0.296905939	Q13541	Q13541	viralmirna	0.741152359	protein	FALSE	Q13541	NA
+protein	NA	NA	NA	IRS2		Q9Y4H2	Q9Y4H2	viralmirna		protein	FALSE	Q9Y4H2	NA
+protein	NA	NA	NA	EIF4G2	-0.415455895	P78344	P78344	viralmirna	3.30E-07	protein	FALSE	P78344	NA
+protein	NA	NA	NA	FRS3		O43559	O43559	viralmirna		protein	FALSE	O43559	NA
+protein	NA	NA	NA	SOCS5		O75159	O75159	viralmirna		protein	FALSE	O75159	NA
+protein	NA	NA	NA	DOK1		Q99704	Q99704	viralmirna		protein	FALSE	Q99704	NA
+protein	NA	NA	NA	SKIL		P12757	P12757	viralmirna		protein	FALSE	P12757	NA
+protein	NA	NA	NA	CCNH		P51946	P51946	viralmirna		protein	FALSE	P51946	NA
+protein	NA	NA	NA	ANAPC11	-0.382615833	Q9NYG5	Q9NYG5	viralmirna	2.04E-05	protein	FALSE	Q9NYG5	NA
+protein	NA	NA	NA	CDK5		Q00535	Q00535	viralmirna		protein	FALSE	Q00535	NA
+protein	NA	NA	NA	ITGA11		Q9UKX5	Q9UKX5	viralmirna		protein	FALSE	Q9UKX5	NA
+protein	NA	NA	NA	GTF2B		Q00403	Q00403	viralmirna		protein	FALSE	Q00403	NA
+protein	NA	NA	NA	POLR2C		P19387	P19387	viralmirna		protein	FALSE	P19387	NA
+protein	NA	NA	NA	MEF2A		Q02078	Q02078	viralmirna		protein	FALSE	Q02078	NA
+protein	NA	NA	NA	TEP1		Q99973	Q99973	viralmirna		protein	FALSE	Q99973	NA
+protein	NA	NA	NA	DDAH2		O95865	O95865	viralmirna		protein	FALSE	O95865	NA
+protein	NA	NA	NA	ANAPC7		Q9UJX3	Q9UJX3	viralmirna		protein	FALSE	Q9UJX3	NA
+protein	NA	NA	NA	SAV1		Q9H4B6	Q9H4B6	viralmirna		protein	FALSE	Q9H4B6	NA
+protein	NA	NA	NA	IL23A		Q9NPF7	Q9NPF7	viralmirna		protein	FALSE	Q9NPF7	NA
+protein	NA	NA	NA	ANAPC13		Q9BS18	Q9BS18	viralmirna		protein	FALSE	Q9BS18	NA
+protein	NA	NA	NA	ITGB8		P26012	P26012	viralmirna		protein	FALSE	P26012	NA
+protein	NA	NA	NA	CTDSP1		Q9GZU7	Q9GZU7	viralmirna		protein	FALSE	Q9GZU7	NA
+protein	NA	NA	NA	CXCL2	1.283049763	P19875	P19875	viralmirna	1.79E-28	protein	FALSE	P19875	NA
+protein	NA	NA	NA	TCF7L1		Q9HCS4	Q9HCS4	viralmirna		protein	FALSE	Q9HCS4	NA
+protein	NA	NA	NA	PTPRU		Q92729	Q92729	viralmirna		protein	FALSE	Q92729	NA
+protein	NA	NA	NA	CDC23		Q9UJX2	Q9UJX2	viralmirna		protein	FALSE	Q9UJX2	NA
+protein	NA	NA	NA	LAMB4		A4D0S4	A4D0S4	viralmirna		protein	FALSE	A4D0S4	NA
+protein	NA	NA	NA	CTTN	-0.38359326	Q14247	Q14247	viralmirna	3.25E-07	protein	FALSE	Q14247	NA
+protein	NA	NA	NA	BUB1B-PAK6		Q9NQU5	Q9NQU5	viralmirna		protein	FALSE	Q9NQU5	NA
+protein	NA	NA	NA	MYD88	0.261830717	Q99836	Q99836	viralmirna	4.68E-09	protein	FALSE	Q99836	NA
+protein	NA	NA	NA	SHH		Q15465	Q15465	viralmirna		protein	FALSE	Q15465	NA
+protein	NA	NA	NA	UCHL5		Q9Y5K5	Q9Y5K5	viralmirna		protein	FALSE	Q9Y5K5	NA
+protein	NA	NA	NA	DYNLL1	-0.681845957	P63167	P63167	viralmirna	5.04E-13	protein	FALSE	P63167	NA
+protein	NA	NA	NA	SMARCAD1		Q9H4L7	Q9H4L7	viralmirna		protein	FALSE	Q9H4L7	NA
+protein	NA	NA	NA	NCF1		P14598	P14598	viralmirna		protein	FALSE	P14598	NA
+protein	NA	NA	NA	CDC16		Q13042	Q13042	viralmirna		protein	FALSE	Q13042	NA
+protein	NA	NA	NA	ARHGEF7		Q14155	Q14155	viralmirna		protein	FALSE	Q14155	NA
+protein	NA	NA	NA	ITGA10		O75578	O75578	viralmirna		protein	FALSE	O75578	NA
+protein	NA	NA	NA	ACTB	-1.098147883	P60709	P60709	viralmirna	2.37E-44	protein	FALSE	P60709	NA
+protein	NA	NA	NA	EIF4EBP3		O60516	O60516	viralmirna		protein	FALSE	O60516	NA
+protein	NA	NA	NA	DDR2		Q16832	Q16832	viralmirna		protein	FALSE	Q16832	NA
+protein	NA	NA	NA	SOAT1		P35610	P35610	viralmirna		protein	FALSE	P35610	NA
+protein	NA	NA	NA	SP100	0.861210198	P23497	P23497	viralmirna	1.08E-35	protein	FALSE	P23497	NA
+protein	NA	NA	NA	PAK4		O96013	O96013	viralmirna		protein	FALSE	O96013	NA
+protein	NA	NA	NA	LAMC2	-0.406398325	Q13753	Q13753	viralmirna	1	protein	FALSE	Q13753	NA
+protein	NA	NA	NA	LAMB1		P07942	P07942	viralmirna		protein	FALSE	P07942	NA
+protein	NA	NA	NA	ID1		P41134	P41134	viralmirna		protein	FALSE	P41134	NA
+protein	NA	NA	NA	ANAPC5		Q9UJX4	Q9UJX4	viralmirna		protein	FALSE	Q9UJX4	NA
+protein	NA	NA	NA	MYBL2		P10244	P10244	viralmirna		protein	FALSE	P10244	NA
+protein	NA	NA	NA	ABCA1		O95477	O95477	viralmirna		protein	FALSE	O95477	NA
+protein	NA	NA	NA	SRF		P11831	P11831	viralmirna		protein	FALSE	P11831	NA
+protein	NA	NA	NA	LAMC1		P11047	P11047	viralmirna		protein	FALSE	P11047	NA
+protein	NA	NA	NA	LPL		P06858	P06858	viralmirna		protein	FALSE	P06858	NA
+protein	NA	NA	NA	TLR6		Q9Y2C9	Q9Y2C9	viralmirna		protein	FALSE	Q9Y2C9	NA
+protein	NA	NA	NA	LAMB3	-0.391721192	Q13751	Q13751	viralmirna	1	protein	FALSE	Q13751	NA
+protein	NA	NA	NA	EGLN2		Q96KS0	Q96KS0	viralmirna		protein	FALSE	Q96KS0	NA
+protein	NA	NA	NA	TPTEP2-CSNK1E		P49674	P49674	viralmirna		protein	FALSE	P49674	NA
+protein	NA	NA	NA	DUSP6	0.251654069	Q16828	Q16828	viralmirna	1	protein	FALSE	Q16828	NA
+protein	NA	NA	NA	MAPKAPK5		Q8IW41	Q8IW41	viralmirna		protein	FALSE	Q8IW41	NA
+protein	NA	NA	NA	PPM1A		P35813	P35813	viralmirna		protein	FALSE	P35813	NA
+protein	NA	NA	NA	NEK2		P51955	P51955	viralmirna		protein	FALSE	P51955	NA
+protein	NA	NA	NA	WASL		O00401	O00401	viralmirna		protein	FALSE	O00401	NA
+protein	NA	NA	NA	RPL10	-0.507129217	P27635	P27635	viralmirna	5.93E-07	protein	FALSE	P27635	NA
+protein	NA	NA	NA	PLCB4	0.434390925	Q15147	Q15147	viralmirna	4.09E-11	protein	FALSE	Q15147	NA
+protein	NA	NA	NA	SH3KBP1		Q96B97	Q96B97	viralmirna		protein	FALSE	Q96B97	NA
+protein	NA	NA	NA	CXCR5		P32302	P32302	viralmirna		protein	FALSE	P32302	NA
+protein	NA	NA	NA	GIT2		Q14161	Q14161	viralmirna		protein	FALSE	Q14161	NA
+protein	NA	NA	NA	ERCC2		P18074	P18074	viralmirna		protein	FALSE	P18074	NA
+protein	NA	NA	NA	GTF2F1		P35269	P35269	viralmirna		protein	FALSE	P35269	NA
+protein	NA	NA	NA	HSF1		Q00613	Q00613	viralmirna		protein	FALSE	Q00613	NA
+protein	NA	NA	NA	PPP2R1B		P30154	P30154	viralmirna		protein	FALSE	P30154	NA
+protein	NA	NA	NA	RASA2		Q15283	Q15283	viralmirna		protein	FALSE	Q15283	NA
+protein	NA	NA	NA	PRMT1		Q99873	Q99873	viralmirna		protein	FALSE	Q99873	NA
+protein	NA	NA	NA	NFIC		P08651	P08651	viralmirna		protein	FALSE	P08651	NA
+protein	NA	NA	NA	MAP3K8	0.393148574	P41279	P41279	viralmirna	1.03E-10	protein	FALSE	P41279	NA
+protein	NA	NA	NA	RANBP1		P43487	P43487	viralmirna		protein	FALSE	P43487	NA
+protein	NA	NA	NA	CXCR3		P49682	P49682	viralmirna		protein	FALSE	P49682	NA
+protein	NA	NA	NA	INPP5D		Q92835	Q92835	viralmirna		protein	FALSE	Q92835	NA
+protein	NA	NA	NA	BCL10		O95999	O95999	viralmirna		protein	FALSE	O95999	NA
+protein	NA	NA	NA	CLK1	0.365148861	P49759	P49759	viralmirna	2.34E-09	protein	FALSE	P49759	NA
+protein	NA	NA	NA	GHRL		Q9UBU3	Q9UBU3	viralmirna		protein	FALSE	Q9UBU3	NA
+protein	NA	NA	NA	POLR2J		P52435	P52435	viralmirna		protein	FALSE	P52435	NA
+protein	NA	NA	NA	SIN3A	0.259576429	Q96ST3	Q96ST3	viralmirna	0.001576309	protein	FALSE	Q96ST3	NA
+protein	NA	NA	NA	CCNC		P24863	P24863	viralmirna		protein	FALSE	P24863	NA
+protein	NA	NA	NA	GTF2H2		Q13888	Q13888	viralmirna		protein	FALSE	Q13888	NA
+protein	NA	NA	NA	SH2B2		O14492	O14492	viralmirna		protein	FALSE	O14492	NA
+protein	NA	NA	NA	TYRO3		Q06418	Q06418	viralmirna		protein	FALSE	Q06418	NA
+protein	NA	NA	NA	MAF		O75444	O75444	viralmirna		protein	FALSE	O75444	NA
+protein	NA	NA	NA	PITX2		Q99697	Q99697	viralmirna		protein	FALSE	Q99697	NA
+protein	NA	NA	NA	EIF4G1		Q04637	Q04637	viralmirna		protein	FALSE	Q04637	NA
+protein	NA	NA	NA	TICAM1	0.409955979	Q8IUC6	Q8IUC6	viralmirna	7.40E-09	protein	FALSE	Q8IUC6	NA
+protein	NA	NA	NA	RPL11		P62913	P62913	viralmirna		protein	FALSE	P62913	NA
+protein	NA	NA	NA	DYRK1B		Q9Y463	Q9Y463	viralmirna		protein	FALSE	Q9Y463	NA
+protein	NA	NA	NA	ITGB5		P18084	P18084	viralmirna		protein	FALSE	P18084	NA
+protein	NA	NA	NA	TUBB	-0.296081716	P07437	P07437	viralmirna	0.015246172	protein	FALSE	P07437	NA
+protein	NA	NA	NA	IRF9		Q00978	Q00978	viralmirna		protein	FALSE	Q00978	NA
+protein	NA	NA	NA	MERTK		Q12866	Q12866	viralmirna		protein	FALSE	Q12866	NA
+protein	NA	NA	NA	GRAP		Q13588	Q13588	viralmirna		protein	FALSE	Q13588	NA
+protein	NA	NA	NA	CSNK1G1		Q9HCP0	Q9HCP0	viralmirna		protein	FALSE	Q9HCP0	NA
+protein	NA	NA	NA	POLR2A		P24928	P24928	viralmirna		protein	FALSE	P24928	NA
+protein	NA	NA	NA	GTF2E1		P29083	P29083	viralmirna		protein	FALSE	P29083	NA
+protein	NA	NA	NA	CAST	-0.359410517	P20810	P20810	viralmirna	2.31E-07	protein	FALSE	P20810	NA
+protein	NA	NA	NA	LMTK2		Q8IWU2	Q8IWU2	viralmirna		protein	FALSE	Q8IWU2	NA
+protein	NA	NA	NA	AATK		Q6ZMQ8	Q6ZMQ8	viralmirna		protein	FALSE	Q6ZMQ8	NA
+protein	NA	NA	NA	RB1CC1		Q8TDY2	Q8TDY2	viralmirna		protein	FALSE	Q8TDY2	NA
+protein	NA	NA	NA	DIAPH1	-0.282643612	O60610	O60610	viralmirna	0.001204964	protein	FALSE	O60610	NA
+protein	NA	NA	NA	CASP10	0.399800305	Q92851	Q92851	viralmirna	1.05E-05	protein	FALSE	Q92851	NA
+protein	NA	NA	NA	CIITA		P33076	P33076	viralmirna		protein	FALSE	P33076	NA
+protein	NA	NA	NA	CBX4	0.275587652	O00257	O00257	viralmirna	2.90E-05	protein	FALSE	O00257	NA
+protein	NA	NA	NA	CRTC2		Q53ET0	Q53ET0	viralmirna		protein	FALSE	Q53ET0	NA
+protein	NA	NA	NA	NFKBIA	2.13530107	P25963	P25963	viralmirna	1.62E-48	protein	FALSE	P25963	NA
+protein	NA	NA	NA	EBI3		Q14213	Q14213	viralmirna		protein	FALSE	Q14213	NA
+protein	NA	NA	NA	STK38		Q15208	Q15208	viralmirna		protein	FALSE	Q15208	NA
+protein	NA	NA	NA	CDC6		Q99741	Q99741	viralmirna		protein	FALSE	Q99741	NA
+protein	NA	NA	NA	EIF4EBP2		Q13542	Q13542	viralmirna		protein	FALSE	Q13542	NA
+protein	NA	NA	NA	RHOQ		P17081	P17081	viralmirna		protein	FALSE	P17081	NA
+protein	NA	NA	NA	GTF2A1		P52655	P52655	viralmirna		protein	FALSE	P52655	NA
+protein	NA	NA	NA	SOD2	0.654602144	P04179	P04179	viralmirna	4.81E-04	protein	FALSE	P04179	NA
+deg	NA	NA	deg	HLA-A	-0.812997608	P30443	P30443	viralmirna	4.13E-27	NA	FALSE	P30443	NA
