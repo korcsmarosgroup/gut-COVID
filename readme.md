@@ -3,7 +3,7 @@ Then you will get, you should see something like this:
 ```
 root@3c172830ba15:/home/gutcovid#
 ```
-If you want to use other files, which are not inside the repository, then you have to copy them to the docker container with the following command:
+If you want to use other files, which are not inside the repository, first of all, do not close the docker container! Then, open a new terminal tab and run the following command:
 ```
 docker cp {your_file_path} gutcovid:/home/gutcovid/{destionation_path_of_your_file}
 ```
