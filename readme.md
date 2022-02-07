@@ -16,8 +16,8 @@ More detailed information about this project is available in the following paper
 
 >Poletti M., Treveil A. et al. [Reprogramming of the intestinal epithelial-immune cell interactome during SARS-CoV-2 infection] : https://doi.org/10.1101/2021.08.09.455656, BioRxiv, (2021)
 
+<img src="https://raw.githubusercontent.com/korcsmarosgroup/gut-COVID/main/Workflow_figure.png" width="600" height="477">
 
-[workflow_figure]: https://raw.githubusercontent.com/korcsmarosgroup/gut-COVID/main/Workflow_figure.png "Gut-Covid Workflow"
 
 ## Getting started
 
