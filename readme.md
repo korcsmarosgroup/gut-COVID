@@ -1,3 +1,23 @@
+# Gut-Covid pipeline
+
+## Overview
+
+Here, we propose an integrated systems biology workflow that models how infection alters the intracellular signalling of epithelial cells and how this change impacts the systemic immune response through modified interactions between epithelial cells and local immune cell populations. 
+
+As a proof-of-concept, we focused on the effect of SARS-CoV-2 infection on intestinal and upper-airway epithelial cells. To characterise the modified epithelial-immune interactome, we integrated intra- and intercellular networks with single-cell RNA-seq data from SARS-CoV-2 infected human ileal and colonic organoids as well as from infected airway ciliated epithelial cells from moderate COVID-19 patients. This integrated methodology has proven useful to point out specific epithelial-immune interactions driving inflammation during disease response, and propose relevant molecular targets to guide focused experimental analysis.
+
+This workflow is not limited to SARS-CoV-2 infection and intestinal or upper airway epithelial cells, but can be applied to any epithelial-immune populations provided the right input data is available.
+
+The pipeline is currently available as a series of R and Python scripts which can be run through two different methods:
+With docker: the whole pipeline and/or the separate stages can be run from within a docker container which negates the need for local Python and R installations making the pipeline easily accessible (recommended).
+Without docker: the whole pipeline (via a Python wrapper script) and/or the separate scripts can be run locally using local installations of Python and R with associated packages.
+
+More detailed information about this project is available in the following paper:
+
+>Poletti M., Treveil A. et al. [Reprogramming of the intestinal epithelial-immune cell interactome during SARS-CoV-2 infection] : https://doi.org/10.1101/2021.08.09.455656, BioRxiv, (2021)
+
+## Getting started
+
 To run the dockerised environment for the project, yo uhave to run the following command: *bash gutcovid.sh*
 Then you will get, you should see something like this:
 ```
@@ -15,7 +35,7 @@ This repository contains all the input files, pipelines and generated intracellu
 Specifically, the contained code is used to process the single cell RNAseq epithelial and immune data and use it as input to build intracellular and intercellular epithelial-immune cell interaction networks affected upon SARS-CoV-2 infection.
 This repository is divided into different folders, whereby the suffix “intra” or “extra” indicates whether the section relates to the intracellular or intercellular networks. For each set of folders, there is one folder for the input data, one for the network reconstruction part and one for the network analysis part. Additionally, one folder contains scripts used to process the epithelial and immune cell data prior to network reconstruction and analysis. Please note that some manual/non-scripted analysis was carried out alongside these scripts, for example the merging of the viral_protein and viral_miRNAs networks was carried out using the merge function in Cytoscape (Institute for Systems Biology, 2019). Description of the different folders and scripts is provided below.
 
-***1_Input_data***
+## 1_Input_data
 
 **/intercellular_networks**
 
@@ -75,7 +95,7 @@ Tables of expressed genes (post-gaussian filtering) in ileal and colonic infecte
 •	*reactome_annotations_uniprot.txt* | Reactome biological pathways and processes annotation table related to Uniprot proteins. This is an input file for the functional overrepresentation analysis of the intracellular and intercellular networks. 
 
 
-***2_data_pre-processing***
+## 2_data_pre-processing
 
 This folder contains all the scripts used to process immune cell and epithelial single cell RNAseq data for consequent construction of intracellular and extracellular networks.
 
@@ -83,7 +103,7 @@ This folder contains all the scripts used to process immune cell and epithelial 
 
 •	log2_zscore_filter.py | This script is used to filter the counts data for epithelial and immune cells using gaussian filtering to obtain just the ‘expressed’ genes.
 
-***3_inter_network_reconstruction***
+## 3_inter_network_reconstruction
 
 This folder contains all scripts used to build the intercellular networks connecting differentially expressed ligands on epithelial cells to receptors expressed on immune cells.
 
@@ -97,7 +117,7 @@ This folder contains all scripts used to build the intercellular networks connec
 
 •	*Ligand_receptor_family_network_creation.R* | This script is used to create the ligand-receptor family interaction table, which is used for the overview of the intercellular network of infected immature enterocytes to immune cells.
 
-***4_inter_network_analysis***
+## 4_inter_network_analysis
 
 This folder contains all scripts used to create different plots used to analyse the intercellular networks between bystander/infected immature enterocytes and immune cells in both colon and ileum.
 
@@ -118,11 +138,11 @@ This folder contains all scripts used to create different plots used to analyse 
 
 •	*receptor_imm_cell_heatplots.R* | Script to plot receptors against immune cells with the colour of the box representing the total number of interactions.
 
-***5_inter_output_data***
+## 5_inter_output_data
 
 This folder contains ligand-receptor interaction tables between infected/bystander epithelial and immune cell populations.
 
-***6_intra_network_reconstruction***
+## 6_intra_network_reconstruction
 
 **/virallink**
 
@@ -135,15 +155,16 @@ The python wrapper can be used to automatically run all scripts in this folder: 
 
 These two scripts use three tools (Progeny (Schubert et al., 2018), VIPER (Alvarez et al., 2016), and CARNIVAL (Liu et al., 2019)) to connect SARS-CoV-2 proteins or miRNAs (run separately) to differentially expressed ligands of infected immature enterocytes in the ileum and colon (run separately).
 
-***7_intra_network_analysis***
+## 7_intra_network_analysis
 
 •	*Functional_analysis_merged_networks.R* | This script runs a GO/Reactome functional overrepresentation analysis of the protein-protein interaction (PPI) layer of the final intracellular networks.
 
-***8_intra_output_data***
+## 8_intra_output_data***
 
 This folder contains the node table of the intracellular signalling network for infected epithelial cells upon SARS-CoV-2 infection.
 
-***References list***
+
+## References list
 
 Alvarez, M.J., Shen, Y., Giorgi, F.M., Lachmann, A., Ding, B.B., Ye, B.H., and Califano, A. (2016). Functional characterization of somatic mutations in cancer using network-based inference of protein activity. Nat. Genet. 48, 838–847.
 
