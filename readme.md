@@ -16,22 +16,51 @@ More detailed information about this project is available in the following paper
 
 >Poletti M., Treveil A. et al. [Reprogramming of the intestinal epithelial-immune cell interactome during SARS-CoV-2 infection] : https://doi.org/10.1101/2021.08.09.455656, BioRxiv, (2021)
 
+NOTE: This github repository has 2 pipeline: 1) original Gut-COVID pipeline and 2) the same pipeline with lung data.
+NOTE: They will be merged together soon.
+
 <img src="https://raw.githubusercontent.com/korcsmarosgroup/gut-COVID/main/Workflow_figure.png" width="600" height="477">
 
 
-## Getting started
+## Getting started - Original Gut-COVID pipeline
 
-To run the dockerised environment for the project, yo uhave to run the following command: *bash gutcovid.sh*
+You can have any information about this pipeline inside the "pipeline" folder.
+
+To run the dockerised environment for the project, you have to run the following command:
+```
+bash gutcovid.sh
+```
 Then you will get, you should see something like this:
 ```
 root@3c172830ba15:/home/gutcovid#
 ```
 If you want to use other files, which are not inside the repository, first of all, do not close the docker container! Then, open a new terminal tab and run the following command:
 ```
-docker cp {your_file_path} gutcovid:/home/gutcovid/{destionation_path_of_your_file}
+docker cp {your_file_path} gutcovid:/home/gutcovid/{destination_path_of_your_file}
+```
+Before you start to execute this original Gut-COVID pipeline, you have to register to the following website: *https://www.ibm.com/academic/topic/data-science*, then download the CPlex tool with version 12.10 (filename: cplex_entserv1210_linux-x86-64.bin).
+After you downloaded it, you have to copy it into the docker container, with the following command:
+```
+docker cp {your_file_path} gutcovid:/home/gutcovid/
+```
+Then, you should give permissions to this file, with the following command (don't forget that, you should be inside the docker container, in the */home/gutcovid/* folder):
+```
+chmod u+x cplex_entserv1210_linux-x86-64.bin
+```
+After that, you have to install this tool inside the docker container, with the following command:
+```
+./cplex_entserv1210_linux-x86-64.bin
+```
+During its installation, you have to type the following keys after each other:
+```
+2, ENTER, 1, ENTER, ENTER, ENTER
+```
+After these steps, when you get back the *root@3c172830ba15:/home/gutcovid#* prompt, then you can start the pipeline with the following command:
+```
+python3 gutcovid.py
 ```
 
-This repository contains all the input files, pipelines and generated intracellular and extracellular networks related to the following publication
+This repository contains all the input files, pipelines and generated intracellular and extracellular networks related to the following publication:
 
 *Poletti et al. (2021) , Reprogramming of the intestinal epithelial-immune cell interactome during SARS-CoV-2 infection*
 
@@ -166,6 +195,31 @@ These two scripts use three tools (Progeny (Schubert et al., 2018), VIPER (Alvar
 
 This folder contains the node table of the intracellular signalling network for infected epithelial cells upon SARS-CoV-2 infection.
 
+
+## Getting started #2 - Pipeline with Lung data
+
+You can have any information about this pipeline inside the "pipeline_lung" folder
+
+To run the dockerised environment for the project, you have to run the following command: *bash gutcovid.sh*
+Then you will get, you should see something like this:
+```
+root@3c172830ba15:/home/gutcovid#
+```
+If you want to use other files, which are not inside the repository, first of all, do not close the docker container! Then, open a new terminal tab and run the following command:
+```
+docker cp {your_file_path} gutcovid:/home/gutcovid/{destination_path_of_your_file}
+```
+NOTE: In this pipeline with the lung data, you do not have to install the CPlex tool, you can start the pipeline immediately with the following command:
+```
+python3 gutcovid_lung.py
+```
+
+This repository contains all the input files for the lung-related data, pipelines and generated intracellular and extracellular networks related to the following publication:
+
+*Poletti et al. (2021) , Reprogramming of the intestinal epithelial-immune cell interactome during SARS-CoV-2 infection*
+
+Specifically, the contained code is used to process the single cell RNAseq epithelial and immune data and use it as input to build intracellular and intercellular epithelial-immune cell interaction networks affected upon SARS-CoV-2 infection.
+This repository is divided into different folders, whereby the suffix “intra” or “extra” indicates whether the section relates to the intracellular or intercellular networks. For each set of folders, there is one folder for the input data, one for the network reconstruction part and one for the network analysis part. Additionally, one folder contains scripts used to process the epithelial and immune cell data prior to network reconstruction and analysis. Please note that some manual/non-scripted analysis was carried out alongside these scripts, for example the merging of the viral_protein and viral_miRNAs networks was carried out using the merge function in Cytoscape (Institute for Systems Biology, 2019). Description of the different folders and scripts is provided below.
 
 ## References list
 
