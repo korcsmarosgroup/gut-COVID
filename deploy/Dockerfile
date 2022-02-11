@@ -19,5 +19,6 @@ RUN /bin/bash install_python.sh
 RUN /bin/bash install_r.sh
 RUN Rscript install_r_packages.R
 
-ADD /pipeline /home/gutcovid/
+ADD /pipeline /home/gutcovid/pipeline
+ADD /pipeline_lung /home/gutcovid/pipeline_lung
 WORKDIR /home/gutcovid

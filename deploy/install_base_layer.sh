@@ -36,3 +36,6 @@ echo "---------------------- CURL INSTALLED --------------------"
 
 apt-get install -y htop
 echo "---------------------- HTOP INSTALLED --------------------"
+
+apt-get install -y libcairo2-dev
+echo "---------------------- LIBCAIRO2-DEV INSTALLED --------------------"

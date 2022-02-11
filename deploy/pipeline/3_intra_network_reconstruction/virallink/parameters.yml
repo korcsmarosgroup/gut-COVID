@@ -1,0 +1,8 @@
+expressed_genes_file: "/home/gutcovid/pipeline/1_input_data/intracellular_networks/expression_data/expressed_genes_ileum_infected_enterocytes.txt"
+id_type: symbol
+hbps: /home/gutcovid/pipeline/1_input_data/intracellular_networks/miRNA_to_human_proteins_uniprot.txt
+sars: /home/gutcovid/pipeline/1_input_data/intracellular_networks/sarscov2_protein_annotations_revised_oct2020.txt
+outdir: /home/gutcovid/pipeline/8_intra_output_data/virallink
+dorothea_input_file: /home/gutcovid/pipeline/1_input_data/intracellular_networks/a_priori_networks/dorothea_abc_signed_directed_dev.txt
+omnipath_input_file: /home/gutcovid/pipeline/1_input_data/intracellular_networks/a_priori_networks/omnipath_signed_directed.txt
+#anubixreactome: input_files/anubix_reactome_pathways.txt

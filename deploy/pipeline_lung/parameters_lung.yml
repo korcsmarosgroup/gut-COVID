@@ -1,0 +1,11 @@
+R_object_input_data: /home/gutcovid/pipeline_lung/input_file/covid_nbt_main.rds
+omnipath_file: /home/gutcovid/pipeline_lung/2_Inter_analysis/lr_Network_Omnipath_23_09.tsv
+dorothea_file: /home/gutcovid/pipeline_lung/2_Inter_analysis/dorothea_abc_signed_directed_dev_v2.txt
+receptor_categories: "/home/gutcovid/pipeline_lung/2_Inter_analysis/immune_receptor_categories.xlsx"
+all_ligands: "/home/gutcovid/pipeline_lung/2_Inter_analysis/ciliated_cells_ligands_all.csv"
+outdir_miRNA: "/home/gutcovid/pipeline_lung/3_Intra_analysis_ViralLink/output_directory_viral_rna"
+outdir_proteins: "/home/gutcovid/pipeline_lung/3_Intra_analysis_ViralLink/output_directory_viral_proteins"
+id_type: symbol
+hbps_mirna: /home/gutcovid/pipeline_lung/3_Intra_analysis_ViralLink/input_files/miRNA_to_human_proteins_uniprot.txt
+hbps_protein: /home/gutcovid/pipeline_lung/3_Intra_analysis_ViralLink/input_files/sarscov2-human_viral_ppis.txt
+sars: /home/gutcovid/pipeline_lung/3_Intra_analysis_ViralLink/input_files/sarscov2_protein_annotations_revised_oct2020.txt

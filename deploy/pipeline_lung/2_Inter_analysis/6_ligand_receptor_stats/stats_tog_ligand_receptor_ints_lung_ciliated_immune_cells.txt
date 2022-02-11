@@ -1,0 +1,12 @@
+ligand_cell_source	receptor_cell_target	lfc_mean_all	uniq_ints	ligand_dir	uniq_receptors	lfc_mean	uniq_ligands
+ciliated_cells	Bcell	0.601182112676056	71	both	44	0.5994924	25
+ciliated_cells	DC_MD	0.67357	2	both	1	0.67357	2
+ciliated_cells	DC_plasma	0.503230263157895	38	both	21	0.638199047619048	21
+ciliated_cells	Mastcell	0.0728175862068965	29	both	26	0.398064705882353	17
+ciliated_cells	MD_macrophage	0.209321153846154	52	both	35	0.615158333333333	24
+ciliated_cells	NKcell	0.541226666666667	15	both	6	0.438877142857143	7
+ciliated_cells	NKcell_prolif	0.0566235714285714	56	both	48	0.47728125	24
+ciliated_cells	Nonresident_macrophage	0.392146666666667	102	both	68	0.484686875	32
+ciliated_cells	Resident_macrophage	0.476647402597403	77	both	47	0.611650344827586	29
+ciliated_cells	Tcell_cyto	0.456184339622642	106	both	56	0.536988	25
+ciliated_cells	Treg	0.474650280373832	107	both	54	0.599576071428571	28

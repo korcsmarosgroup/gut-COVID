@@ -16,8 +16,8 @@ More detailed information about this project is available in the following paper
 
 >Poletti M., Treveil A. et al. [Reprogramming of the intestinal epithelial-immune cell interactome during SARS-CoV-2 infection] : https://doi.org/10.1101/2021.08.09.455656, BioRxiv, (2021)
 
-NOTE: This github repository has 2 pipeline: 1) original Gut-COVID pipeline and 2) the same pipeline with lung data.
-NOTE: They will be merged together soon.
+NOTE: This github repository has 2 pipelines: 1) original Gut-COVID pipeline (in the *pipeline* folder) and 2) the pipeline with lung data (in the *pipeline_lung* folder).
+NOTE: They will be merged together soon and we are planning to create a pipeline, where the user can define the tissue.
 
 <img src="https://raw.githubusercontent.com/korcsmarosgroup/gut-COVID/main/Workflow_figure.png" width="600" height="477">
 
@@ -25,6 +25,10 @@ NOTE: They will be merged together soon.
 ## Getting started - Original Gut-COVID pipeline
 
 You can have any information about this pipeline inside the "pipeline" folder.
+
+The input R object file for this pipeline is too big to store on github, so there is a link here, from where you can download it: https://nbicloud-my.sharepoint.com/:f:/g/personal/boharb_nbi_ac_uk/EpyKV4t0_jpGo1y1k76dcD0B7gfZf2Fe8ifUnx17l19d8w?e=ntroFH
+Password is: gutcovid2022
+For the original pipeline run, you should download the *COVID19_Oct.rds* file. After you downloaded it, you have to copy it to the *gutcovid/deploy/pipeline/input_file* folder, which is originally an empty folder (important, that you have to do it before starting the bash script, so not inside the docker container!).
 
 To run the dockerised environment for the project, you have to run the following command:
 ```
@@ -34,9 +38,17 @@ Then you will get, you should see something like this:
 ```
 root@3c172830ba15:/home/gutcovid#
 ```
+With the following command, you can enter to the original pipeline folder:
+```
+cd pipeline
+```
 If you want to use other files, which are not inside the repository, first of all, do not close the docker container! Then, open a new terminal tab and run the following command:
 ```
-docker cp {your_file_path} gutcovid:/home/gutcovid/{destination_path_of_your_file}
+docker cp {your_file_path} gutcovid:/home/gutcovid/pipeline{destination_path_of_your_file}
+```
+Or if you want to save files from the container, first of all, do not close the docker container! Then, open a new terminal tab and run the following command:
+```
+docker cp gutcovid:/home/gutcovid/pipeline{destination_path_of_your_file} {your_file_path}
 ```
 Before you start to execute this original Gut-COVID pipeline, you have to register to the following website: *https://www.ibm.com/academic/topic/data-science*, then download the CPlex tool with version 12.10 (filename: cplex_entserv1210_linux-x86-64.bin).
 After you downloaded it, you have to copy it into the docker container, with the following command:
@@ -135,7 +147,20 @@ This folder contains all the scripts used to process immune cell and epithelial 
 
 •	log2_zscore_filter.py | This script is used to filter the counts data for epithelial and immune cells using gaussian filtering to obtain just the ‘expressed’ genes.
 
-## 3_inter_network_reconstruction
+## 3_intra_network_reconstruction
+
+**/virallink**
+
+Scripts in this folder use the ViralLink pipeline to connect SARS-CoV-2 proteins or miRNAs (run separately) to differentially expressed ligands of infected immature enterocytes in ileum and colon (run separately) and creates an intracellular signalling network.
+The python wrapper can be used to automatically run all scripts in this folder: virallink.py
+/carnival
+
+•	*Classical_pipeline_viral_{proteins/miRNAs}.R*
+•	*CARNIVAL.R*
+
+These two scripts use three tools (Progeny (Schubert et al., 2018), VIPER (Alvarez et al., 2016), and CARNIVAL (Liu et al., 2019)) to connect SARS-CoV-2 proteins or miRNAs (run separately) to differentially expressed ligands of infected immature enterocytes in the ileum and colon (run separately).
+
+## 4_inter_network_reconstruction
 
 This folder contains all scripts used to build the intercellular networks connecting differentially expressed ligands on epithelial cells to receptors expressed on immune cells.
 
@@ -149,7 +174,7 @@ This folder contains all scripts used to build the intercellular networks connec
 
 •	*Ligand_receptor_family_network_creation.R* | This script is used to create the ligand-receptor family interaction table, which is used for the overview of the intercellular network of infected immature enterocytes to immune cells.
 
-## 4_inter_network_analysis
+## 5_inter_network_analysis
 
 This folder contains all scripts used to create different plots used to analyse the intercellular networks between bystander/infected immature enterocytes and immune cells in both colon and ileum.
 
@@ -170,22 +195,9 @@ This folder contains all scripts used to create different plots used to analyse 
 
 •	*receptor_imm_cell_heatplots.R* | Script to plot receptors against immune cells with the colour of the box representing the total number of interactions.
 
-## 5_inter_output_data
+## 6_inter_output_data
 
 This folder contains ligand-receptor interaction tables between infected/bystander epithelial and immune cell populations.
-
-## 6_intra_network_reconstruction
-
-**/virallink**
-
-Scripts in this folder use the ViralLink pipeline to connect SARS-CoV-2 proteins or miRNAs (run separately) to differentially expressed ligands of infected immature enterocytes in ileum and colon (run separately) and creates an intracellular signalling network.
-The python wrapper can be used to automatically run all scripts in this folder: virallink.py
-/carnival
-
-•	*Classical_pipeline_viral_{proteins/miRNAs}.R*
-•	*CARNIVAL.R*
-
-These two scripts use three tools (Progeny (Schubert et al., 2018), VIPER (Alvarez et al., 2016), and CARNIVAL (Liu et al., 2019)) to connect SARS-CoV-2 proteins or miRNAs (run separately) to differentially expressed ligands of infected immature enterocytes in the ileum and colon (run separately).
 
 ## 7_intra_network_analysis
 
@@ -200,14 +212,26 @@ This folder contains the node table of the intracellular signalling network for 
 
 You can have any information about this pipeline inside the "pipeline_lung" folder
 
+The input R object file for this pipeline is too big to store on github, so there is a link here, from where you can download it: https://nbicloud-my.sharepoint.com/:f:/g/personal/boharb_nbi_ac_uk/EpyKV4t0_jpGo1y1k76dcD0B7gfZf2Fe8ifUnx17l19d8w?e=ntroFH
+Password is: gutcovid2022
+For the lung data related pipeline run, you should download the *covid_nbt_main.rds* file. After you downloaded it, you have to copy it to the *gutcovid/deploy/pipeline_lung/input_file* folder, which is originally an empty folder (important, that you have to do it before starting the bash script, so not inside the docker container!).
+
 To run the dockerised environment for the project, you have to run the following command: *bash gutcovid.sh*
 Then you will get, you should see something like this:
 ```
 root@3c172830ba15:/home/gutcovid#
 ```
+With the following command, you can enter to this version folder of the pipeline:
+```
+cd pipeline_lung
+```
 If you want to use other files, which are not inside the repository, first of all, do not close the docker container! Then, open a new terminal tab and run the following command:
 ```
-docker cp {your_file_path} gutcovid:/home/gutcovid/{destination_path_of_your_file}
+docker cp {your_file_path} gutcovid:/home/gutcovid/pipeline_lung/{destination_path_of_your_file}
+```
+Or if you want to save files from the container, first of all, do not close the docker container! Then, open a new terminal tab and run the following command:
+```
+docker cp gutcovid:/home/gutcovid/pipeline{destination_path_of_your_file} {your_file_path}
 ```
 NOTE: In this pipeline with the lung data, you do not have to install the CPlex tool, you can start the pipeline immediately with the following command:
 ```
@@ -220,6 +244,18 @@ This repository contains all the input files for the lung-related data, pipeline
 
 Specifically, the contained code is used to process the single cell RNAseq epithelial and immune data and use it as input to build intracellular and intercellular epithelial-immune cell interaction networks affected upon SARS-CoV-2 infection.
 This repository is divided into different folders, whereby the suffix “intra” or “extra” indicates whether the section relates to the intracellular or intercellular networks. For each set of folders, there is one folder for the input data, one for the network reconstruction part and one for the network analysis part. Additionally, one folder contains scripts used to process the epithelial and immune cell data prior to network reconstruction and analysis. Please note that some manual/non-scripted analysis was carried out alongside these scripts, for example the merging of the viral_protein and viral_miRNAs networks was carried out using the merge function in Cytoscape (Institute for Systems Biology, 2019). Description of the different folders and scripts is provided below.
+
+## Some further information about this lung data related pipeline
+
+# Regarding the 4_Intra_create_merged_network folder
+
+- Here, you have to take the two output networks from virallink (*3_Intra_analysis_ViralLink* folder) (viral RNA and proteins) and you have to import them into Cytoscape, following to merge them using the *Merge* function of Cytoscape. 
+- NOTE: before merging, you have to add an additional column called 'source_node' (viral protein OR viralmirna) for the node table, which in the merged network will allow to remember if the node belonged to the virallink mirna or virallink protein network.
+- After merging, you have to export the node table of the merged network, which will be used to run the functional analysis(5_functional_analysis) in the next step.
+
+# Regarding the 6_Intra_Inter_summary_figure folder
+
+This network is the summary, where you have to connect the intracellular merged network with the intercellular one.
 
 ## References list
 

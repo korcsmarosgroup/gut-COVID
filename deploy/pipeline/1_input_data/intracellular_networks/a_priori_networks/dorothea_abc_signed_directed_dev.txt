@@ -1,4 +1,4 @@
-"from" "to" "mor"
+"source_genesymbol" "target_genesymbol" "consensus_stimulation"
 "1" "AHR" "CYP1A1" 1
 "2" "AHR" "CYP1A2" 1
 "3" "AHR" "CYP1B1" 1
